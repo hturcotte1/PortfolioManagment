@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-08-24T19:08:59Z",
+  "checked_at": "2026-08-24T19:52:03Z",
   "alerts": [
     {
       "severity": "high",
       "kind": "position_break",
-      "text": "OKLO gapped down -5.0% today"
+      "text": "OKLO gapped down -5.6% today"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MSTR at $121.95 - within buy zone of yesterday's breakout setup ($119.25)"
+      "text": "MSTR at $122.62 - within buy zone of yesterday's breakout setup ($119.25)"
     },
     {
-      "severity": "low",
+      "severity": "med",
       "kind": "watchlist_entry",
-      "text": "NEE RSI 34 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "XBI in entry zone $164.44-$167.88 (plan: stop $157.99, target $182.50, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -59,6 +59,7 @@
     "SPY|788.99": "2026-08-24",
     "MRNA|206.33": "2026-08-24",
     "BKNG|236.48": "2026-08-24",
-    "SMH|623.19": "2026-08-24"
+    "SMH|623.19": "2026-08-24",
+    "XBI|182.5": "2026-08-24"
   }
 }
