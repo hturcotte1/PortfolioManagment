@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-08-24T18:26:32Z",
+  "checked_at": "2026-08-24T19:08:59Z",
   "alerts": [
     {
-      "severity": "low",
-      "kind": "watchlist_entry",
-      "text": "MSTR at $123.01 - within buy zone of yesterday's breakout setup ($119.25)"
+      "severity": "high",
+      "kind": "position_break",
+      "text": "OKLO gapped down -5.0% today"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "NEE RSI 35 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "MSTR at $121.95 - within buy zone of yesterday's breakout setup ($119.25)"
     },
     {
-      "severity": "med",
+      "severity": "low",
       "kind": "watchlist_entry",
-      "text": "SMH in entry zone $546.85-$563.81 (plan: stop $521.40, target $623.19, hold 2-3 weeks)"
+      "text": "NEE RSI 34 - oversold reversal in progress (from yesterday's bucket)"
     }
   ],
   "fired_plans": {
