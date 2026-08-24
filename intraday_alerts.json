@@ -1,25 +1,20 @@
 {
-  "checked_at": "2026-08-24T17:55:37Z",
+  "checked_at": "2026-08-24T18:26:32Z",
   "alerts": [
     {
-      "severity": "high",
-      "kind": "position_break",
-      "text": "OKLO gapped down -5.4% today"
+      "severity": "low",
+      "kind": "watchlist_entry",
+      "text": "MSTR at $123.01 - within buy zone of yesterday's breakout setup ($119.25)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MSTR at $122.03 - within buy zone of yesterday's breakout setup ($119.25)"
-    },
-    {
-      "severity": "low",
-      "kind": "watchlist_entry",
-      "text": "NEE RSI 34 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "NEE RSI 35 - oversold reversal in progress (from yesterday's bucket)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "BKNG in entry zone $207.55-$213.06 (plan: stop $197.22, target $236.48, hold 2-3 weeks)"
+      "text": "SMH in entry zone $546.85-$563.81 (plan: stop $521.40, target $623.19, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -63,6 +58,7 @@
     "WULF|21.73": "2026-08-24",
     "SPY|788.99": "2026-08-24",
     "MRNA|206.33": "2026-08-24",
-    "BKNG|236.48": "2026-08-24"
+    "BKNG|236.48": "2026-08-24",
+    "SMH|623.19": "2026-08-24"
   }
 }
