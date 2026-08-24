@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-24T20:19:37Z",
+  "checked_at": "2026-08-24T20:56:24Z",
   "alerts": [
     {
       "severity": "high",
@@ -10,11 +10,6 @@
       "severity": "low",
       "kind": "watchlist_entry",
       "text": "MSTR at $122.63 - within buy zone of yesterday's breakout setup ($119.25)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "AAPL in entry zone $304.22-$310.63 (plan: stop $294.61, target $333.06, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
