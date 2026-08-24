@@ -1,40 +1,30 @@
 {
-  "checked_at": "2026-08-24T15:30:27Z",
+  "checked_at": "2026-08-24T16:05:31Z",
   "alerts": [
     {
-      "severity": "high",
-      "kind": "position_break",
-      "text": "NBIS gapped down -5.3% today"
+      "severity": "low",
+      "kind": "watchlist_entry",
+      "text": "HOOD at $107.65 - within buy zone of yesterday's breakout setup ($108.13)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "HOOD at $109.00 - within buy zone of yesterday's breakout setup ($108.13)"
+      "text": "MSTR at $125.32 - within buy zone of yesterday's breakout setup ($119.25)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "COIN at $187.53 - within buy zone of yesterday's breakout setup ($186.49)"
-    },
-    {
-      "severity": "low",
-      "kind": "watchlist_entry",
-      "text": "MSTR at $127.66 - within buy zone of yesterday's breakout setup ($119.25)"
-    },
-    {
-      "severity": "low",
-      "kind": "watchlist_entry",
-      "text": "NEE RSI 31 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "NEE RSI 32 - oversold reversal in progress (from yesterday's bucket)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "FTNT in entry zone $152.53-$159.38 (plan: stop $142.25, target $183.36, hold 2-3 weeks)"
+      "text": "SPY in entry zone $763.93-$768.70 (plan: stop $754.98, target $788.99, hold 2-3 weeks)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "WULF in entry zone $15.89-$17.01 (plan: stop $13.81, target $21.73, hold 2-3 weeks)"
+      "text": "MRNA in entry zone $138.69-$151.57 (plan: stop $114.53, target $206.33, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -75,6 +65,8 @@
     "RIOT|28.26": "2026-08-24",
     "UEC|15.12": "2026-08-24",
     "FTNT|183.36": "2026-08-24",
-    "WULF|21.73": "2026-08-24"
+    "WULF|21.73": "2026-08-24",
+    "SPY|788.99": "2026-08-24",
+    "MRNA|206.33": "2026-08-24"
   }
 }
