@@ -1,25 +1,25 @@
 {
-  "checked_at": "2026-08-24T14:33:10Z",
+  "checked_at": "2026-08-24T15:30:27Z",
   "alerts": [
     {
       "severity": "high",
       "kind": "position_break",
-      "text": "NBIS gapped down -6.3% today"
+      "text": "NBIS gapped down -5.3% today"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "COIN at $189.41 - within buy zone of yesterday's breakout setup ($186.49)"
+      "text": "HOOD at $109.00 - within buy zone of yesterday's breakout setup ($108.13)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MSTR at $126.45 - within buy zone of yesterday's breakout setup ($119.25)"
+      "text": "COIN at $187.53 - within buy zone of yesterday's breakout setup ($186.49)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "UEC at $12.77 - within buy zone of yesterday's breakout setup ($12.76)"
+      "text": "MSTR at $127.66 - within buy zone of yesterday's breakout setup ($119.25)"
     },
     {
       "severity": "low",
@@ -29,27 +29,12 @@
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "CLSK in entry zone $12.18-$13.02 (plan: stop $10.62, target $16.56, hold 2-3 weeks)"
+      "text": "FTNT in entry zone $152.53-$159.38 (plan: stop $142.25, target $183.36, hold 2-3 weeks)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "BTBT in entry zone $1.54-$1.65 (plan: stop $1.35, target $2.08, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "HOOD in entry zone $106.55-$110.77 (plan: stop $98.64, target $128.70, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "RIOT in entry zone $20.21-$21.75 (plan: stop $17.34, target $28.26, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "UEC in entry zone $12.58-$13.06 (plan: stop $11.67, target $15.12, hold 2-3 weeks)"
+      "text": "WULF in entry zone $15.89-$17.01 (plan: stop $13.81, target $21.73, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -88,6 +73,8 @@
     "BTBT|2.08": "2026-08-24",
     "HOOD|128.7": "2026-08-24",
     "RIOT|28.26": "2026-08-24",
-    "UEC|15.12": "2026-08-24"
+    "UEC|15.12": "2026-08-24",
+    "FTNT|183.36": "2026-08-24",
+    "WULF|21.73": "2026-08-24"
   }
 }
