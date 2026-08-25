@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-08-25T17:03:56Z",
+  "checked_at": "2026-08-25T17:53:08Z",
   "alerts": [
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MSTR at $127.12 - within buy zone of yesterday's breakout setup ($122.63)"
+      "text": "MSTR at $127.43 - within buy zone of yesterday's breakout setup ($122.63)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "ASML in entry zone $1695.35-$1751.33 (plan: stop $1611.38, target $1947.26, hold 2-3 weeks)"
+      "text": "SMR in entry zone $9.61-$10.17 (plan: stop $8.55, target $12.57, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -57,6 +57,7 @@
     "RXRX|4.18": "2026-08-25",
     "COIN|220.42": "2026-08-25",
     "REGN|931.18": "2026-08-25",
-    "ASML|1947.26": "2026-08-25"
+    "ASML|1947.26": "2026-08-25",
+    "SMR|12.57": "2026-08-25"
   }
 }
