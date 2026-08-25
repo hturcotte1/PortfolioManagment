@@ -1,15 +1,30 @@
 {
-  "checked_at": "2026-08-25T19:07:15Z",
+  "checked_at": "2026-08-25T19:53:50Z",
   "alerts": [
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MSTR at $127.25 - within buy zone of yesterday's breakout setup ($122.63)"
+      "text": "MSTR at $127.19 - within buy zone of yesterday's breakout setup ($122.63)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "SMCI in entry zone $38.36-$40.49 (plan: stop $34.38, target $49.51, hold 2-3 weeks)"
+      "text": "CIFR in entry zone $16.35-$18.07 (plan: stop $13.12, target $25.39, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "IWM in entry zone $299.00-$301.56 (plan: stop $294.21, target $312.42, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "NU in entry zone $15.06-$15.52 (plan: stop $14.19, target $17.49, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "HUT in entry zone $85.23-$92.07 (plan: stop $72.42, target $121.11, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -59,6 +74,10 @@
     "REGN|931.18": "2026-08-25",
     "ASML|1947.26": "2026-08-25",
     "SMR|12.57": "2026-08-25",
-    "SMCI|49.51": "2026-08-25"
+    "SMCI|49.51": "2026-08-25",
+    "CIFR|25.39": "2026-08-25",
+    "IWM|312.42": "2026-08-25",
+    "NU|17.49": "2026-08-25",
+    "HUT|121.11": "2026-08-25"
   }
 }
