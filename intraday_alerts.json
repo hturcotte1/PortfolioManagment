@@ -1,15 +1,10 @@
 {
-  "checked_at": "2026-08-25T15:33:52Z",
+  "checked_at": "2026-08-25T16:26:00Z",
   "alerts": [
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MSTR at $125.92 - within buy zone of yesterday's breakout setup ($122.63)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "REGN in entry zone $833.89-$852.42 (plan: stop $799.14, target $931.18, hold 2-3 weeks)"
+      "text": "MSTR at $127.00 - within buy zone of yesterday's breakout setup ($122.63)"
     }
   ],
   "fired_plans": {
