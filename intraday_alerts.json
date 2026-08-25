@@ -1,15 +1,10 @@
 {
-  "checked_at": "2026-08-25T17:53:08Z",
+  "checked_at": "2026-08-25T18:25:31Z",
   "alerts": [
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MSTR at $127.43 - within buy zone of yesterday's breakout setup ($122.63)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "SMR in entry zone $9.61-$10.17 (plan: stop $8.55, target $12.57, hold 2-3 weeks)"
+      "text": "MSTR at $127.72 - within buy zone of yesterday's breakout setup ($122.63)"
     }
   ],
   "fired_plans": {
