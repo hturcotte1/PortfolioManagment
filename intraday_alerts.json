@@ -1,10 +1,15 @@
 {
-  "checked_at": "2026-08-25T18:25:31Z",
+  "checked_at": "2026-08-25T19:07:15Z",
   "alerts": [
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MSTR at $127.72 - within buy zone of yesterday's breakout setup ($122.63)"
+      "text": "MSTR at $127.25 - within buy zone of yesterday's breakout setup ($122.63)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "SMCI in entry zone $38.36-$40.49 (plan: stop $34.38, target $49.51, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -53,6 +58,7 @@
     "COIN|220.42": "2026-08-25",
     "REGN|931.18": "2026-08-25",
     "ASML|1947.26": "2026-08-25",
-    "SMR|12.57": "2026-08-25"
+    "SMR|12.57": "2026-08-25",
+    "SMCI|49.51": "2026-08-25"
   }
 }
