@@ -1,30 +1,10 @@
 {
-  "checked_at": "2026-08-25T19:53:50Z",
+  "checked_at": "2026-08-25T20:18:27Z",
   "alerts": [
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MSTR at $127.19 - within buy zone of yesterday's breakout setup ($122.63)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "CIFR in entry zone $16.35-$18.07 (plan: stop $13.12, target $25.39, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "IWM in entry zone $299.00-$301.56 (plan: stop $294.21, target $312.42, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "NU in entry zone $15.06-$15.52 (plan: stop $14.19, target $17.49, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "HUT in entry zone $85.23-$92.07 (plan: stop $72.42, target $121.11, hold 2-3 weeks)"
+      "text": "MSTR at $126.83 - within buy zone of yesterday's breakout setup ($122.63)"
     }
   ],
   "fired_plans": {
