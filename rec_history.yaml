@@ -673,3 +673,18 @@
   executed_shares: null
   resolved_at: null
   created_at: '2026-08-24T22:35:17Z'
+- rec_id: d702d3b0
+  date: '2026-08-25'
+  ticker: OKLO
+  action: sell
+  size:
+    display: Exit full position -> 1 shares -> $40
+    shares: 1
+    dollars: 39.69
+  status: pending
+  user_reason: null
+  counter_proposal: null
+  executed_price: null
+  executed_shares: null
+  resolved_at: null
+  created_at: '2026-08-25T11:33:32Z'
