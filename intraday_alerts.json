@@ -1,35 +1,15 @@
 {
-  "checked_at": "2026-08-25T14:35:47Z",
+  "checked_at": "2026-08-25T15:33:52Z",
   "alerts": [
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MSTR at $126.40 - within buy zone of yesterday's breakout setup ($122.63)"
+      "text": "MSTR at $125.92 - within buy zone of yesterday's breakout setup ($122.63)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "XLF in entry zone $58.04-$58.51 (plan: stop $57.16, target $60.51, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "WULF in entry zone $15.89-$17.01 (plan: stop $13.81, target $21.73, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "BTBT in entry zone $1.54-$1.65 (plan: stop $1.35, target $2.08, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "RXRX in entry zone $3.45-$3.59 (plan: stop $3.19, target $4.18, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "COIN in entry zone $183.88-$190.84 (plan: stop $170.83, target $220.42, hold 2-3 weeks)"
+      "text": "REGN in entry zone $833.89-$852.42 (plan: stop $799.14, target $931.18, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -75,6 +55,7 @@
     "WULF|21.73": "2026-08-25",
     "BTBT|2.08": "2026-08-25",
     "RXRX|4.18": "2026-08-25",
-    "COIN|220.42": "2026-08-25"
+    "COIN|220.42": "2026-08-25",
+    "REGN|931.18": "2026-08-25"
   }
 }
