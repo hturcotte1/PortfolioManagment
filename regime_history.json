@@ -400,5 +400,11 @@
 "regime": "risk_on",
 "confidence": 1,
 "breadth_pct": 60.0
+},
+{
+"date": "2026-08-26",
+"regime": "risk_on",
+"confidence": 1,
+"breadth_pct": 60.0
 }
 ]
