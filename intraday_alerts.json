@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-26T20:23:28Z",
+  "checked_at": "2026-08-26T23:52:45Z",
   "alerts": [
     {
       "severity": "high",
@@ -14,7 +14,7 @@
     {
       "severity": "med",
       "kind": "position_break",
-      "text": "FBL lost SMA50 ($22.67) on 2.9x volume"
+      "text": "FBL lost SMA50 ($22.67) on 3.0x volume"
     },
     {
       "severity": "med",
@@ -25,16 +25,6 @@
       "severity": "low",
       "kind": "watchlist_entry",
       "text": "URA at $48.05 - within buy zone of yesterday's breakout setup ($48.14)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "GEV in entry zone $951.28-$996.51 (plan: stop $883.44, target $1154.80, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "OKTA in entry zone $129.64-$136.51 (plan: stop $119.33, target $160.56, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
