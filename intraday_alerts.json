@@ -1,25 +1,40 @@
 {
-  "checked_at": "2026-08-26T18:10:53Z",
+  "checked_at": "2026-08-26T20:23:28Z",
   "alerts": [
     {
       "severity": "high",
       "kind": "position_break",
-      "text": "OKLO gapped down -6.5% today"
+      "text": "OKLO gapped down -6.0% today"
     },
     {
       "severity": "high",
       "kind": "position_break",
-      "text": "IREN gapped down -5.5% today"
+      "text": "IREN gapped down -6.2% today"
+    },
+    {
+      "severity": "med",
+      "kind": "position_break",
+      "text": "FBL lost SMA50 ($22.67) on 2.9x volume"
+    },
+    {
+      "severity": "med",
+      "kind": "position_break",
+      "text": "META lost SMA50 ($592.52) on 1.8x volume"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "URA at $47.97 - within buy zone of yesterday's breakout setup ($48.14)"
+      "text": "URA at $48.05 - within buy zone of yesterday's breakout setup ($48.14)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "RXRX in entry zone $3.50-$3.66 (plan: stop $3.21, target $4.32, hold 2-3 weeks)"
+      "text": "GEV in entry zone $951.28-$996.51 (plan: stop $883.44, target $1154.80, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "OKTA in entry zone $129.64-$136.51 (plan: stop $119.33, target $160.56, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -72,6 +87,8 @@
     "MELI|2182.87": "2026-08-26",
     "NVO|51.36": "2026-08-26",
     "HUT|121.11": "2026-08-26",
-    "RXRX|4.32": "2026-08-26"
+    "RXRX|4.32": "2026-08-26",
+    "GEV|1154.8": "2026-08-26",
+    "OKTA|160.56": "2026-08-26"
   }
 }
