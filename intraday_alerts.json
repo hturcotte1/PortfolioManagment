@@ -1,6 +1,11 @@
 {
-  "checked_at": "2026-08-26T16:10:35Z",
+  "checked_at": "2026-08-26T18:10:53Z",
   "alerts": [
+    {
+      "severity": "high",
+      "kind": "position_break",
+      "text": "OKLO gapped down -6.5% today"
+    },
     {
       "severity": "high",
       "kind": "position_break",
@@ -9,32 +14,12 @@
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "URA at $47.96 - within buy zone of yesterday's breakout setup ($48.14)"
+      "text": "URA at $47.97 - within buy zone of yesterday's breakout setup ($48.14)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "ROKU in entry zone $157.54-$159.25 (plan: stop $154.33, target $166.52, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "XBI in entry zone $167.78-$171.30 (plan: stop $161.18, target $186.26, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MELI in entry zone $1921.32-$1971.14 (plan: stop $1827.91, target $2182.87, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "NVO in entry zone $45.96-$47.16 (plan: stop $44.16, target $51.36, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "HUT in entry zone $85.23-$92.07 (plan: stop $72.42, target $121.11, hold 2-3 weeks)"
+      "text": "RXRX in entry zone $3.50-$3.66 (plan: stop $3.21, target $4.32, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -86,6 +71,7 @@
     "XBI|186.26": "2026-08-26",
     "MELI|2182.87": "2026-08-26",
     "NVO|51.36": "2026-08-26",
-    "HUT|121.11": "2026-08-26"
+    "HUT|121.11": "2026-08-26",
+    "RXRX|4.32": "2026-08-26"
   }
 }
