@@ -688,3 +688,18 @@
   executed_shares: null
   resolved_at: null
   created_at: '2026-08-25T11:33:32Z'
+- rec_id: 95ef9d09
+  date: '2026-08-27'
+  ticker: VEEV
+  action: buy
+  size:
+    display: Deploy 25% of cash -> $282 -> 1 shares (would be 2.2% of portfolio)
+    shares: 1
+    dollars: 282.13
+  status: pending
+  user_reason: null
+  counter_proposal: null
+  executed_price: null
+  executed_shares: null
+  resolved_at: null
+  created_at: '2026-08-27T21:03:10Z'
