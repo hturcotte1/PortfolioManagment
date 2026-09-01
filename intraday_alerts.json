@@ -1,35 +1,25 @@
 {
-  "checked_at": "2026-09-01T20:01:14Z",
+  "checked_at": "2026-09-01T22:28:51Z",
   "alerts": [
     {
       "severity": "high",
       "kind": "position_break",
-      "text": "OKLO gapped down -5.1% today"
+      "text": "OKLO gapped down -5.0% today"
     },
     {
       "severity": "med",
       "kind": "position_break",
-      "text": "FBL lost SMA50 ($22.55) on 1.6x volume"
+      "text": "FBL lost SMA50 ($22.56) on 1.6x volume"
     },
     {
       "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "DASH in entry zone $219.95-$226.38 (plan: stop $207.90, target $253.69, hold 2-3 weeks)"
+      "kind": "position_break",
+      "text": "GD lost SMA50 ($376.21) on 1.5x volume"
     },
     {
-      "severity": "med",
+      "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MRNA in entry zone $151.50-$166.16 (plan: stop $124.03, target $228.43, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "SE in entry zone $109.39-$113.93 (plan: stop $102.59, target $129.80, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "VST in entry zone $136.83-$140.27 (plan: stop $130.37, target $154.91, hold 2-3 weeks)"
+      "text": "XLI RSI 30 - oversold reversal in progress (from yesterday's bucket)"
     }
   ],
   "fired_plans": {
