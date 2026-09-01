@@ -6815,14 +6815,14 @@
       excess_return: -0.1559728701886767
       hit: false
     '20':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-09-01'
+      exit_price: 280.9949951171875
+      benchmark_exit_price: 763.3499755859375
+      forward_return: -0.22306250259994703
+      benchmark_forward_return: -0.010345819982494916
+      excess_return: -0.2127166826174521
+      hit: false
   last_updated: '2026-09-01'
 - ticker: DIA
   miss_date: '2026-08-04'
@@ -8274,14 +8274,14 @@
       excess_return: -0.1383350520358385
       hit: false
     '10':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-09-01'
+      exit_price: 14.6899995803833
+      benchmark_exit_price: 763.3499755859375
+      forward_return: -0.23925427308827804
+      benchmark_forward_return: -0.005342415213862428
+      excess_return: -0.23391185787441562
+      hit: false
     '20':
       status: pending
       exit_date: null
@@ -8316,14 +8316,14 @@
       excess_return: 0.050528788167366376
       hit: true
     '10':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-09-01'
+      exit_price: 578.969970703125
+      benchmark_exit_price: 763.3499755859375
+      forward_return: 0.0649290726039628
+      benchmark_forward_return: -0.005342415213862428
+      excess_return: 0.07027148781782523
+      hit: true
     '20':
       status: pending
       exit_date: null
@@ -9355,14 +9355,14 @@
   benchmark_entry_price: 765.9099731445312
   horizons:
     '5':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-09-01'
+      exit_price: 3.3350000381469727
+      benchmark_exit_price: 763.3499755859375
+      forward_return: -0.06320222141826642
+      benchmark_forward_return: -0.0033424261967544126
+      excess_return: -0.05985979522151201
+      hit: false
     '10':
       status: pending
       exit_date: null
@@ -9592,6 +9592,48 @@
       excess_return: null
       hit: null
   last_updated: '2026-09-01'
+- ticker: IREN
+  miss_date: '2026-09-01'
+  direction: long
+  kind: near_miss
+  valence: null
+  failed_signal: news
+  passed_signals:
+  - technical
+  - sector_momentum
+  insider_score: 0
+  source: null
+  entry_price: 36.900001525878906
+  benchmark_entry_price: 763.3499755859375
+  horizons:
+    '5':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '10':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '20':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+  last_updated: '2026-09-01'
 - ticker: OKLO
   miss_date: '2026-09-01'
   direction: long
@@ -9603,8 +9645,8 @@
   - sector_momentum
   insider_score: 0
   source: null
-  entry_price: null
-  benchmark_entry_price: null
+  entry_price: 38.685001373291016
+  benchmark_entry_price: 763.3499755859375
   horizons:
     '5':
       status: pending
@@ -9645,8 +9687,8 @@
   - sector_momentum
   insider_score: 0
   source: null
-  entry_price: null
-  benchmark_entry_price: null
+  entry_price: 359.2449951171875
+  benchmark_entry_price: 763.3499755859375
   horizons:
     '5':
       status: pending

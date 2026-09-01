@@ -778,3 +778,18 @@
   executed_shares: null
   resolved_at: null
   created_at: '2026-09-01T01:13:31Z'
+- rec_id: 8d74a2be
+  date: '2026-09-01'
+  ticker: FTNT
+  action: buy
+  size:
+    display: Deploy 29% of cash -> $326 -> 2 shares (would be 2.5% of portfolio)
+    shares: 2
+    dollars: 325.52
+  status: pending
+  user_reason: null
+  counter_proposal: null
+  executed_price: null
+  executed_shares: null
+  resolved_at: null
+  created_at: '2026-09-01T15:34:12Z'
