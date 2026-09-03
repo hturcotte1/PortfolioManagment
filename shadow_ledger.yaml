@@ -7445,14 +7445,14 @@
       excess_return: 0.1604734480003668
       hit: true
     '20':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-09-03'
+      exit_price: 91.40499877929688
+      benchmark_exit_price: 768.7050170898438
+      forward_return: 0.08043735730394147
+      benchmark_forward_return: 0.00018868992884181948
+      excess_return: 0.08024866737509966
+      hit: true
   last_updated: '2026-09-03'
 - ticker: FSLR
   miss_date: '2026-08-07'
@@ -8692,14 +8692,14 @@
       excess_return: -0.049232202693328696
       hit: false
     '10':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-09-03'
+      exit_price: 207.97000122070312
+      benchmark_exit_price: 768.7050170898438
+      forward_return: -0.17146724922525217
+      benchmark_forward_return: 0.00800556215493646
+      excess_return: -0.1794728113801886
+      hit: false
     '20':
       status: pending
       exit_date: null
@@ -8734,14 +8734,14 @@
       excess_return: 0.21138256749673107
       hit: true
     '10':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-09-03'
+      exit_price: 137.84500122070312
+      benchmark_exit_price: 768.7050170898438
+      forward_return: 0.2264881392409652
+      benchmark_forward_return: 0.00800556215493646
+      excess_return: 0.21848257708602875
+      hit: true
     '20':
       status: pending
       exit_date: null
@@ -8776,14 +8776,14 @@
       excess_return: 0.04946908657751255
       hit: true
     '10':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-09-03'
+      exit_price: 62.18000030517578
+      benchmark_exit_price: 768.7050170898438
+      forward_return: -0.06706678347137787
+      benchmark_forward_return: 0.00800556215493646
+      excess_return: -0.07507234562631433
+      hit: false
     '20':
       status: pending
       exit_date: null
@@ -10012,6 +10012,48 @@
       excess_return: null
       hit: null
   last_updated: '2026-09-03'
+- ticker: NVDA
+  miss_date: '2026-09-03'
+  direction: long
+  kind: near_miss
+  valence: null
+  failed_signal: sector_momentum
+  passed_signals:
+  - technical
+  - news
+  insider_score: 0
+  source: null
+  entry_price: 225.8350067138672
+  benchmark_entry_price: 768.7050170898438
+  horizons:
+    '5':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '10':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '20':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+  last_updated: '2026-09-03'
 - ticker: OKLO
   miss_date: '2026-09-03'
   direction: long
@@ -10023,8 +10065,8 @@
   - sector_momentum
   insider_score: 0
   source: null
-  entry_price: null
-  benchmark_entry_price: null
+  entry_price: 40.39500045776367
+  benchmark_entry_price: 768.7050170898438
   horizons:
     '5':
       status: pending
@@ -10065,8 +10107,50 @@
   - news
   insider_score: 0
   source: null
-  entry_price: null
-  benchmark_entry_price: null
+  entry_price: 45.75
+  benchmark_entry_price: 768.7050170898438
+  horizons:
+    '5':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '10':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '20':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+  last_updated: '2026-09-03'
+- ticker: VRTX
+  miss_date: '2026-09-03'
+  direction: long
+  kind: near_miss
+  valence: null
+  failed_signal: news
+  passed_signals:
+  - technical
+  - sector_momentum
+  insider_score: 0
+  source: null
+  entry_price: 558.5474853515625
+  benchmark_entry_price: 768.7050170898438
   horizons:
     '5':
       status: pending
