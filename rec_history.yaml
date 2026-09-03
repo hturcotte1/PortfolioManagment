@@ -793,3 +793,18 @@
   executed_shares: null
   resolved_at: null
   created_at: '2026-09-01T15:34:12Z'
+- rec_id: d204ca2c
+  date: '2026-09-03'
+  ticker: MSTR
+  action: buy
+  size:
+    display: Deploy 39% of cash -> $434 -> 3 shares (would be 3.4% of portfolio)
+    shares: 3
+    dollars: 434.46
+  status: pending
+  user_reason: null
+  counter_proposal: null
+  executed_price: null
+  executed_shares: null
+  resolved_at: null
+  created_at: '2026-09-03T23:58:27Z'

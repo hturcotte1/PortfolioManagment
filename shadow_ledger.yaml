@@ -8650,14 +8650,14 @@
       excess_return: 0.03171234260781717
       hit: true
     '10':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-09-03'
+      exit_price: 222.0
+      benchmark_exit_price: 773.1699829101562
+      forward_return: -0.0016189989627783952
+      benchmark_forward_return: 0.013860487362456798
+      excess_return: -0.015479486325235194
+      hit: false
     '20':
       status: pending
       exit_date: null
@@ -8818,14 +8818,14 @@
       excess_return: 0.018539259525875693
       hit: true
     '10':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-09-03'
+      exit_price: 164.3800048828125
+      benchmark_exit_price: 773.1699829101562
+      forward_return: 0.006120700025179149
+      benchmark_forward_return: 0.013860487362456798
+      excess_return: -0.007739787337277649
+      hit: false
     '20':
       status: pending
       exit_date: null
@@ -9983,6 +9983,90 @@
   source: null
   entry_price: 64.74500274658203
   benchmark_entry_price: 765.280029296875
+  horizons:
+    '5':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '10':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '20':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+  last_updated: '2026-09-03'
+- ticker: BITQ
+  miss_date: '2026-09-03'
+  direction: long
+  kind: near_miss
+  valence: null
+  failed_signal: sector_momentum
+  passed_signals:
+  - technical
+  - news
+  insider_score: 0
+  source: null
+  entry_price: 26.780000686645508
+  benchmark_entry_price: 773.1699829101562
+  horizons:
+    '5':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '10':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '20':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+  last_updated: '2026-09-03'
+- ticker: BTBT
+  miss_date: '2026-09-03'
+  direction: long
+  kind: near_miss
+  valence: null
+  failed_signal: news
+  passed_signals:
+  - technical
+  - sector_momentum
+  insider_score: 0
+  source: null
+  entry_price: 1.6299999952316284
+  benchmark_entry_price: 773.1699829101562
   horizons:
     '5':
       status: pending
