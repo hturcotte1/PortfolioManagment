@@ -1,50 +1,20 @@
 {
-  "checked_at": "2026-09-03T19:30:44Z",
+  "checked_at": "2026-09-03T21:51:25Z",
   "alerts": [
     {
       "severity": "med",
       "kind": "position_break",
-      "text": "GD lost SMA50 ($377.60) on 1.9x volume"
+      "text": "GD lost SMA50 ($377.63) on 1.7x volume"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "VRTX at $557.20 - within buy zone of yesterday's breakout setup ($558.55)"
+      "text": "VRTX at $557.96 - within buy zone of yesterday's breakout setup ($558.55)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
       "text": "URI RSI 34 - oversold reversal in progress (from yesterday's bucket)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "ROKU in entry zone $157.54-$159.25 (plan: stop $154.33, target $166.52, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "DIA in entry zone $534.15-$537.00 (plan: stop $528.82, target $549.09, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MRNA in entry zone $145.79-$162.75 (plan: stop $114.01, target $234.79, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "SMR in entry zone $9.30-$9.82 (plan: stop $8.32, target $12.04, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "VEEV in entry zone $282.07-$291.72 (plan: stop $263.98, target $332.72, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "NOW in entry zone $146.03-$151.25 (plan: stop $136.25, target $173.42, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
