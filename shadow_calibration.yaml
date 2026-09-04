@@ -1,11 +1,11 @@
-generated_at: '2026-09-03'
+generated_at: '2026-09-04'
 horizons:
 - 5
 - 10
 - 20
 benchmark: SPY
 direction: long
-total_records: 245
+total_records: 246
 by_failed_signal:
   news:
     count: 82
@@ -23,32 +23,32 @@ by_failed_signal:
         avg_excess_return: -0.05427691871314521
         avg_forward_return: -0.05088804175114259
       '20':
-        n_realized: 48
-        n_pending: 34
-        hit_rate: 0.2916666666666667
-        avg_excess_return: -0.09898572842479036
-        avg_forward_return: -0.0906912128421193
+        n_realized: 49
+        n_pending: 33
+        hit_rate: 0.2857142857142857
+        avg_excess_return: -0.09728002355942578
+        avg_forward_return: -0.0892416157288904
   sector_momentum:
-    count: 147
+    count: 148
     horizons:
       '5':
-        n_realized: 139
+        n_realized: 140
         n_pending: 8
-        hit_rate: 0.5251798561151079
-        avg_excess_return: -0.01311205787898688
-        avg_forward_return: -0.002226943780090826
+        hit_rate: 0.5285714285714286
+        avg_excess_return: -0.011480735274406557
+        avg_forward_return: -0.0006676157850150345
       '10':
-        n_realized: 128
-        n_pending: 19
-        hit_rate: 0.4765625
-        avg_excess_return: -0.006576533826511797
-        avg_forward_return: 0.006073912942549782
+        n_realized: 134
+        n_pending: 14
+        hit_rate: 0.4701492537313433
+        avg_excess_return: -0.006197525130111024
+        avg_forward_return: 0.006135006048976214
       '20':
-        n_realized: 116
-        n_pending: 31
-        hit_rate: 0.3793103448275862
-        avg_excess_return: -0.04137596197854283
-        avg_forward_return: -0.026440571589085735
+        n_realized: 119
+        n_pending: 29
+        hit_rate: 0.37815126050420167
+        avg_excess_return: -0.041728814952452564
+        avg_forward_return: -0.02727720997462828
   trump_endorse:
     count: 13
     horizons:
@@ -86,32 +86,32 @@ by_failed_signal:
         avg_excess_return: -0.09582016019534878
         avg_forward_return: -0.07806025024967868
       '20':
-        n_realized: 2
-        n_pending: 1
-        hit_rate: 0.5
-        avg_excess_return: -0.08385147670379045
-        avg_forward_return: -0.056347057428410785
+        n_realized: 3
+        n_pending: 0
+        hit_rate: 0.6666666666666666
+        avg_excess_return: -0.11547053140704866
+        avg_forward_return: -0.09855250664745481
 overall:
-  count: 245
+  count: 246
   horizons:
     '5':
-      n_realized: 227
+      n_realized: 228
       n_pending: 18
-      hit_rate: 0.4185022026431718
-      avg_excess_return: -0.026987003475522506
-      avg_forward_return: -0.019837136141482886
+      hit_rate: 0.42105263157894735
+      avg_excess_return: -0.025924459132374345
+      avg_forward_return: -0.018802416353447787
     '10':
-      n_realized: 211
-      n_pending: 34
-      hit_rate: 0.4312796208530806
-      avg_excess_return: -0.027429589560183612
-      avg_forward_return: -0.01738875719320654
+      n_realized: 217
+      n_pending: 29
+      hit_rate: 0.42857142857142855
+      avg_excess_return: -0.026618965137512024
+      avg_forward_return: -0.01670229407304212
     '20':
-      n_realized: 178
-      n_pending: 67
-      hit_rate: 0.34831460674157305
-      avg_excess_return: -0.06320873219687372
-      avg_forward_return: -0.049914052651154124
+      n_realized: 183
+      n_pending: 63
+      hit_rate: 0.34972677595628415
+      avg_excess_return: -0.06345019973611966
+      avg_forward_return: -0.050635013190883614
 trump:
   count: 12
   by_valence:
@@ -152,8 +152,8 @@ trump:
           avg_excess_return: -0.10191638073781696
           avg_forward_return: -0.07729747037570049
         '20':
-          n_realized: 1
-          n_pending: 1
+          n_realized: 2
+          n_pending: 0
           hit_rate: 1.0
-          avg_excess_return: -0.0663726330428281
-          avg_forward_return: -0.016171122316911722
+          avg_excess_return: -0.12254063692819658
+          avg_forward_return: -0.09956726370122732
