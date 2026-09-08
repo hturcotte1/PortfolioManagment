@@ -1,30 +1,20 @@
 {
-  "checked_at": "2026-09-08T19:41:40Z",
+  "checked_at": "2026-09-08T22:11:37Z",
   "alerts": [
+    {
+      "severity": "med",
+      "kind": "position_break",
+      "text": "OKLO lost SMA50 ($43.94) on 1.5x volume"
+    },
+    {
+      "severity": "med",
+      "kind": "position_break",
+      "text": "FPS lost SMA50 ($37.98) on 1.5x volume"
+    },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "TSM at $438.58 - within buy zone of yesterday's breakout setup ($437.05)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "GOOGL in entry zone $331.90-$338.54 (plan: stop $321.94, target $361.78, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "XLE in entry zone $64.53-$65.43 (plan: stop $62.83, target $69.28, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "BTBT in entry zone $1.58-$1.71 (plan: stop $1.35, target $2.23, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "CRM in entry zone $248.93-$257.26 (plan: stop $233.31, target $292.66, hold 2-3 weeks)"
+      "text": "TSM at $439.00 - within buy zone of yesterday's breakout setup ($437.05)"
     }
   ],
   "fired_plans": {
