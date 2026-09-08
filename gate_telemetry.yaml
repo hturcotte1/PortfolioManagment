@@ -1442,13 +1442,13 @@
     outage: 0
     unknown: 1
 - date: '2026-09-08'
-  candidates_evaluated: 7
-  cleared_primary: 0
+  candidates_evaluated: 2
+  cleared_primary: 1
   cleared_insider_promotion: 0
   blocked_by:
     technical: 1
-    sector_momentum: 5
-    news: 1
+    sector_momentum: 0
+    news: 0
     trump: 0
     earnings_window: 0
     correlation_block: 0
@@ -1456,31 +1456,7 @@
     regime: 0
     soft_veto: 0
     trump_block: 0
-  near_miss:
-  - ticker: KLAC
-    passed:
-    - technical
-    - news
-    failed: sector_momentum
-    insider_score: 0
-    insider_status: not_evaluated
-    news_status: ok
-  - ticker: RXRX
-    passed:
-    - technical
-    - sector_momentum
-    failed: news
-    insider_score: 0
-    insider_status: not_evaluated
-    news_status: ok
-  - ticker: TSM
-    passed:
-    - technical
-    - news
-    failed: sector_momentum
-    insider_score: 0
-    insider_status: not_evaluated
-    news_status: ok
+  near_miss: []
   trump:
     mentions: 0
     endorsements: 0
@@ -1492,9 +1468,9 @@
     scored: 0
     zero: 0
     unavailable: 0
-    not_evaluated: 7
+    not_evaluated: 2
   news:
-    ok: 6
+    ok: 1
     empty: 0
     outage: 0
     unknown: 1

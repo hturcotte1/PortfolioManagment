@@ -808,3 +808,18 @@
   executed_shares: null
   resolved_at: null
   created_at: '2026-09-03T23:58:27Z'
+- rec_id: 55999fa0
+  date: '2026-09-08'
+  ticker: TSM
+  action: buy
+  size:
+    display: Deploy 39% of cash -> $437 -> 1 shares (would be 3.4% of portfolio)
+    shares: 1
+    dollars: 437.05
+  status: pending
+  user_reason: null
+  counter_proposal: null
+  executed_price: null
+  executed_shares: null
+  resolved_at: null
+  created_at: '2026-09-08T15:02:33Z'
