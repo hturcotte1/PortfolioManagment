@@ -1406,9 +1406,9 @@
   cleared_primary: 1
   cleared_insider_promotion: 0
   blocked_by:
-    technical: 2
+    technical: 1
     sector_momentum: 0
-    news: 0
+    news: 1
     trump: 0
     earnings_window: 0
     correlation_block: 0
@@ -1416,7 +1416,15 @@
     regime: 0
     soft_veto: 0
     trump_block: 0
-  near_miss: []
+  near_miss:
+  - ticker: AMD
+    passed:
+    - technical
+    - sector_momentum
+    failed: news
+    insider_score: 0
+    insider_status: not_evaluated
+    news_status: ok
   trump:
     mentions: 0
     endorsements: 0
@@ -1430,7 +1438,7 @@
     unavailable: 0
     not_evaluated: 3
   news:
-    ok: 1
+    ok: 2
     empty: 0
     outage: 0
-    unknown: 2
+    unknown: 1
