@@ -1,45 +1,35 @@
 {
-  "checked_at": "2026-09-09T19:35:24Z",
+  "checked_at": "2026-09-09T22:07:33Z",
   "alerts": [
     {
-      "severity": "med",
-      "kind": "position_break",
-      "text": "OKLO lost SMA50 ($43.74) on 1.5x volume"
-    },
-    {
-      "severity": "med",
-      "kind": "position_break",
-      "text": "FPS lost SMA50 ($37.51) on 1.5x volume"
+      "severity": "low",
+      "kind": "watchlist_entry",
+      "text": "QCOM at $176.40 - within buy zone of yesterday's breakout setup ($175.43)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "QCOM at $175.32 - within buy zone of yesterday's breakout setup ($175.43)"
+      "text": "AMD at $521.09 - within buy zone of yesterday's breakout setup ($523.03)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "INTC at $106.31 - within buy zone of yesterday's breakout setup ($106.02)"
+      "text": "INTC at $106.24 - within buy zone of yesterday's breakout setup ($106.02)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "RTX RSI 32 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "RTX RSI 31 - oversold reversal in progress (from yesterday's bucket)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "RTX in entry zone $194.58-$198.68 (plan: stop $188.43, target $213.03, hold 2-3 weeks)"
+      "text": "BTBT in entry zone $1.65-$1.78 (plan: stop $1.42, target $2.30, hold 2-3 weeks)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "NEE in entry zone $82.91-$83.95 (plan: stop $80.96, target $88.37, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "VST in entry zone $150.29-$154.10 (plan: stop $143.16, target $170.26, hold 2-3 weeks)"
+      "text": "KLAC in entry zone $182.54-$188.66 (plan: stop $171.05, target $214.70, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -85,6 +75,8 @@
     "PWR|712.07": "2026-09-09",
     "RTX|213.03": "2026-09-09",
     "NEE|88.37": "2026-09-09",
-    "VST|170.26": "2026-09-09"
+    "VST|170.26": "2026-09-09",
+    "BTBT|2.3": "2026-09-09",
+    "KLAC|214.7": "2026-09-09"
   }
 }
