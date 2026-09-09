@@ -838,3 +838,18 @@
   executed_shares: null
   resolved_at: null
   created_at: '2026-09-09T00:02:00Z'
+- rec_id: '46009406'
+  date: '2026-09-09'
+  ticker: QCOM
+  action: buy
+  size:
+    display: Deploy 32% of cash -> $353 -> 2 shares (would be 2.7% of portfolio)
+    shares: 2
+    dollars: 352.8
+  status: pending
+  user_reason: null
+  counter_proposal: null
+  executed_price: null
+  executed_shares: null
+  resolved_at: null
+  created_at: '2026-09-09T23:57:11Z'

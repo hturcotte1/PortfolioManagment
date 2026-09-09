@@ -1417,7 +1417,7 @@
     soft_veto: 0
     trump_block: 0
   near_miss:
-  - ticker: AMD
+  - ticker: AAPL
     passed:
     - technical
     - sector_momentum
