@@ -1,6 +1,11 @@
 {
-  "checked_at": "2026-09-10T19:22:45Z",
+  "checked_at": "2026-09-10T21:44:07Z",
   "alerts": [
+    {
+      "severity": "high",
+      "kind": "position_break",
+      "text": "NBIS gapped down -5.1% today"
+    },
     {
       "severity": "high",
       "kind": "position_break",
@@ -9,37 +14,32 @@
     {
       "severity": "high",
       "kind": "position_break",
-      "text": "FPS gapped down -7.0% today"
+      "text": "INTC gapped down -5.6% today"
+    },
+    {
+      "severity": "high",
+      "kind": "position_break",
+      "text": "FPS gapped down -5.8% today"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "QCOM at $178.37 - within buy zone of yesterday's breakout setup ($176.51)"
+      "text": "QCOM at $176.88 - within buy zone of yesterday's breakout setup ($176.51)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "RTX RSI 31 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "XLI RSI 30 - oversold reversal in progress (from yesterday's bucket)"
+    },
+    {
+      "severity": "low",
+      "kind": "watchlist_entry",
+      "text": "RTX RSI 33 - oversold reversal in progress (from yesterday's bucket)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
       "text": "BKNG RSI 30 - oversold reversal in progress (from yesterday's bucket)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "PANW in entry zone $319.51-$339.00 (plan: stop $290.28, target $407.21, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "URI in entry zone $958.77-$989.02 (plan: stop $913.40, target $1094.88, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "QCOM in entry zone $174.74-$179.45 (plan: stop $165.91, target $199.47, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
