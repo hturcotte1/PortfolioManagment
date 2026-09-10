@@ -1370,12 +1370,12 @@
     outage: 0
     unknown: 1
 - date: '2026-09-10'
-  candidates_evaluated: 4
+  candidates_evaluated: 3
   cleared_primary: 0
   cleared_insider_promotion: 0
   blocked_by:
     technical: 2
-    sector_momentum: 2
+    sector_momentum: 1
     news: 0
     trump: 0
     earnings_window: 0
@@ -1385,14 +1385,6 @@
     soft_veto: 0
     trump_block: 0
   near_miss:
-  - ticker: NET
-    passed:
-    - technical
-    - news
-    failed: sector_momentum
-    insider_score: 0
-    insider_status: not_evaluated
-    news_status: ok
   - ticker: QCOM
     passed:
     - technical
@@ -1412,9 +1404,9 @@
     scored: 0
     zero: 0
     unavailable: 0
-    not_evaluated: 4
+    not_evaluated: 3
   news:
-    ok: 2
+    ok: 1
     empty: 0
     outage: 0
     unknown: 2
