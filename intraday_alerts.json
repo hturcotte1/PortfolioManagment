@@ -1,20 +1,25 @@
 {
-  "checked_at": "2026-09-11T19:22:33Z",
+  "checked_at": "2026-09-11T21:48:57Z",
   "alerts": [
     {
       "severity": "high",
       "kind": "position_break",
-      "text": "OKLO gapped down -8.1% today"
+      "text": "OKLO gapped down -9.2% today"
+    },
+    {
+      "severity": "med",
+      "kind": "position_break",
+      "text": "FPS lost SMA50 ($36.61) on 1.8x volume"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "QCOM at $182.60 - within buy zone of yesterday's breakout setup ($181.72)"
+      "text": "QCOM at $181.97 - within buy zone of yesterday's breakout setup ($181.72)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "GD RSI 33 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "GD RSI 32 - oversold reversal in progress (from yesterday's bucket)"
     },
     {
       "severity": "low",
@@ -25,21 +30,6 @@
       "severity": "low",
       "kind": "watchlist_entry",
       "text": "RTX RSI 32 - oversold reversal in progress (from yesterday's bucket)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "URI in entry zone $958.77-$989.02 (plan: stop $913.40, target $1094.88, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "SMCI in entry zone $39.24-$41.02 (plan: stop $35.91, target $48.57, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "CAT in entry zone $799.24-$819.71 (plan: stop $768.53, target $891.37, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
