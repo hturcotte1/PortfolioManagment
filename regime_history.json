@@ -478,5 +478,11 @@
 "regime": "chop",
 "confidence": 3,
 "breadth_pct": 54.0
+},
+{
+"date": "2026-09-11",
+"regime": "risk_on",
+"confidence": 1,
+"breadth_pct": 56.0
 }
 ]
