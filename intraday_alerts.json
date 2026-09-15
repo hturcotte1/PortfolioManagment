@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15T20:20:20Z",
+  "checked_at": "2026-09-15T23:00:36Z",
   "alerts": [
     {
       "severity": "med",
@@ -30,26 +30,6 @@
       "severity": "low",
       "kind": "watchlist_entry",
       "text": "XLI RSI 31 - oversold reversal in progress (from yesterday's bucket)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "FTNT in entry zone $166.27-$172.50 (plan: stop $154.59, target $198.97, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MDB in entry zone $361.56-$383.79 (plan: stop $328.21, target $461.61, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "PATH in entry zone $13.41-$14.49 (plan: stop $11.79, target $18.27, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "ZS in entry zone $186.93-$195.36 (plan: stop $171.13, target $231.18, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
