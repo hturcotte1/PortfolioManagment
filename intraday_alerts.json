@@ -1,15 +1,10 @@
 {
-  "checked_at": "2026-09-16T20:18:33Z",
+  "checked_at": "2026-09-16T23:05:39Z",
   "alerts": [
     {
       "severity": "med",
       "kind": "position_break",
-      "text": "FPS lost SMA50 ($35.73) on 2.6x volume"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "XLI in entry zone $166.68-$169.13 (plan: stop $163.01, target $177.70, hold 2-3 weeks)"
+      "text": "FPS lost SMA50 ($35.73) on 2.7x volume"
     }
   ],
   "fired_plans": {
