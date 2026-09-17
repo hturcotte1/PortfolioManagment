@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-17T20:27:25Z",
+  "checked_at": "2026-09-17T22:58:22Z",
   "alerts": [
     {
       "severity": "med",
@@ -15,26 +15,6 @@
       "severity": "low",
       "kind": "watchlist_entry",
       "text": "XLI RSI 31 - oversold reversal in progress (from yesterday's bucket)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "V in entry zone $365.68-$371.09 (plan: stop $357.58, target $390.00, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "QQQ in entry zone $716.68-$722.85 (plan: stop $705.11, target $749.07, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "CRSP in entry zone $56.93-$58.85 (plan: stop $53.34, target $66.99, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "BEAM in entry zone $24.59-$25.87 (plan: stop $22.19, target $31.31, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
