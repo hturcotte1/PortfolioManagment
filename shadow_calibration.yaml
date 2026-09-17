@@ -5,7 +5,7 @@ horizons:
 - 20
 benchmark: SPY
 direction: long
-total_records: 271
+total_records: 272
 by_failed_signal:
   news:
     count: 90
@@ -17,38 +17,38 @@ by_failed_signal:
         avg_excess_return: -0.030538670925567207
         avg_forward_return: -0.030695513356579187
       '10':
-        n_realized: 76
-        n_pending: 14
-        hit_rate: 0.34210526315789475
-        avg_excess_return: -0.05343950844245895
-        avg_forward_return: -0.051032331810591004
+        n_realized: 79
+        n_pending: 11
+        hit_rate: 0.3670886075949367
+        avg_excess_return: -0.047227704236897046
+        avg_forward_return: -0.04510199227334559
       '20':
-        n_realized: 63
-        n_pending: 27
-        hit_rate: 0.3333333333333333
-        avg_excess_return: -0.07797867450457563
-        avg_forward_return: -0.07427240257492523
+        n_realized: 67
+        n_pending: 23
+        hit_rate: 0.3283582089552239
+        avg_excess_return: -0.07327134777157458
+        avg_forward_return: -0.07037710268655348
   sector_momentum:
-    count: 165
+    count: 166
     horizons:
       '5':
-        n_realized: 152
-        n_pending: 13
-        hit_rate: 0.5
-        avg_excess_return: -0.012318801669468893
-        avg_forward_return: -0.0030893826904774334
+        n_realized: 154
+        n_pending: 12
+        hit_rate: 0.5064935064935064
+        avg_excess_return: -0.0114146043079121
+        avg_forward_return: -0.0022646717266749756
       '10':
-        n_realized: 140
-        n_pending: 25
-        hit_rate: 0.4785714285714286
-        avg_excess_return: -0.003357372122530323
-        avg_forward_return: 0.008518048567078586
+        n_realized: 144
+        n_pending: 22
+        hit_rate: 0.4791666666666667
+        avg_excess_return: -0.00285424542450634
+        avg_forward_return: 0.008552282293156034
       '20':
-        n_realized: 122
+        n_realized: 123
         n_pending: 43
-        hit_rate: 0.36885245901639346
-        avg_excess_return: -0.043462933619546756
-        avg_forward_return: -0.029731907751984622
+        hit_rate: 0.37398373983739835
+        avg_excess_return: -0.04249586457255815
+        avg_forward_return: -0.028956921660975295
   trump_endorse:
     count: 13
     horizons:
@@ -65,11 +65,11 @@ by_failed_signal:
         avg_excess_return: -0.07860254100295812
         avg_forward_return: -0.06175454433364318
       '20':
-        n_realized: 12
-        n_pending: 1
-        hit_rate: 0.25
-        avg_excess_return: -0.12771040197791939
-        avg_forward_return: -0.11264356135774482
+        n_realized: 13
+        n_pending: 0
+        hit_rate: 0.3076923076923077
+        avg_excess_return: -0.11343285638338996
+        avg_forward_return: -0.1002861710199896
   trump_attack:
     count: 3
     horizons:
@@ -92,26 +92,26 @@ by_failed_signal:
         avg_excess_return: -0.11547053140704866
         avg_forward_return: -0.09855250664745481
 overall:
-  count: 271
+  count: 272
   horizons:
     '5':
-      n_realized: 254
-      n_pending: 17
-      hit_rate: 0.4251968503937008
-      avg_excess_return: -0.021428905032778535
-      avg_forward_return: -0.015795336337547553
+      n_realized: 256
+      n_pending: 16
+      hit_rate: 0.4296875
+      avg_excess_return: -0.02081380112494117
+      avg_forward_return: -0.015199955885517402
     '10':
-      n_realized: 232
-      n_pending: 39
-      hit_rate: 0.4267241379310345
-      avg_excess_return: -0.02517555281209322
-      avg_forward_return: -0.016047070022846176
+      n_realized: 239
+      n_pending: 33
+      hit_rate: 0.4351464435146444
+      avg_excess_return: -0.022808759370160178
+      avg_forward_return: -0.014094219943373355
     '20':
-      n_realized: 200
-      n_pending: 71
-      hit_rate: 0.355
-      avg_excess_return: -0.06047035406664574
-      avg_forward_return: -0.0497691718209886
+      n_realized: 206
+      n_pending: 66
+      hit_rate: 0.3592233009708738
+      avg_excess_return: -0.05804471053556003
+      avg_forward_return: -0.047943422269423684
 trump:
   count: 12
   by_valence:
