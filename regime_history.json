@@ -508,5 +508,11 @@
 "regime": "risk_on",
 "confidence": 2,
 "breadth_pct": 58.0
+},
+{
+"date": "2026-09-18",
+"regime": "risk_off",
+"confidence": 2,
+"breadth_pct": 56.0
 }
 ]
