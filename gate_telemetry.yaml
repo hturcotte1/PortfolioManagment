@@ -1322,13 +1322,13 @@
     outage: 0
     unknown: 1
 - date: '2026-09-18'
-  candidates_evaluated: 3
-  cleared_primary: 0
+  candidates_evaluated: 5
+  cleared_primary: 1
   cleared_insider_promotion: 0
   blocked_by:
     technical: 1
     sector_momentum: 1
-    news: 1
+    news: 2
     trump: 0
     earnings_window: 0
     correlation_block: 0
@@ -1345,6 +1345,14 @@
     insider_score: 0
     insider_status: zero
     news_status: ok
+  - ticker: TSM
+    passed:
+    - technical
+    - sector_momentum
+    failed: news
+    insider_score: 0
+    insider_status: not_evaluated
+    news_status: ok
   trump:
     mentions: 0
     endorsements: 0
@@ -1356,9 +1364,9 @@
     scored: 0
     zero: 1
     unavailable: 0
-    not_evaluated: 2
+    not_evaluated: 4
   news:
-    ok: 2
+    ok: 4
     empty: 0
     outage: 0
     unknown: 1
