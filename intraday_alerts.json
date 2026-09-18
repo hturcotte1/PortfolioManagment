@@ -1,50 +1,75 @@
 {
-  "checked_at": "2026-09-18T19:19:53Z",
+  "checked_at": "2026-09-18T21:46:07Z",
   "alerts": [
     {
       "severity": "med",
       "kind": "position_break",
-      "text": "OKLO lost SMA50 ($41.90) on 1.7x volume"
+      "text": "AMZN lost SMA50 ($255.84) on 1.6x volume"
+    },
+    {
+      "severity": "med",
+      "kind": "position_break",
+      "text": "NFLX lost SMA50 ($75.72) on 3.7x volume"
+    },
+    {
+      "severity": "high",
+      "kind": "position_break",
+      "text": "FBL gapped down -5.0% today"
+    },
+    {
+      "severity": "med",
+      "kind": "position_break",
+      "text": "AMAT lost SMA50 ($501.12) on 2.2x volume"
+    },
+    {
+      "severity": "med",
+      "kind": "position_break",
+      "text": "GD lost SMA50 ($376.29) on 2.4x volume"
+    },
+    {
+      "severity": "med",
+      "kind": "position_break",
+      "text": "RUN lost SMA50 ($9.84) on 1.5x volume"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "ARM at $268.58 - within buy zone of yesterday's breakout setup ($266.64)"
+      "text": "ARM at $275.61 - within buy zone of yesterday's breakout setup ($266.64)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "ARKK at $87.93 - within buy zone of yesterday's breakout setup ($87.83)"
+      "text": "ARKK at $88.23 - within buy zone of yesterday's breakout setup ($87.83)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MARA at $13.23 - within buy zone of yesterday's breakout setup ($12.65)"
+      "text": "MARA at $13.24 - within buy zone of yesterday's breakout setup ($12.65)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "GD RSI 31 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "RTX RSI 31 - oversold reversal in progress (from yesterday's bucket)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "XLI RSI 33 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "GD RSI 32 - oversold reversal in progress (from yesterday's bucket)"
+    },
+    {
+      "severity": "low",
+      "kind": "watchlist_entry",
+      "text": "XLI RSI 34 - oversold reversal in progress (from yesterday's bucket)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "QQQ in entry zone $716.68-$722.85 (plan: stop $705.11, target $749.07, hold 2-3 weeks)"
+      "text": "IONQ in entry zone $38.87-$40.78 (plan: stop $35.29, target $48.90, hold 2-3 weeks)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "RDDT in entry zone $152.34-$158.34 (plan: stop $141.08, target $183.86, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "BEAM in entry zone $24.59-$25.87 (plan: stop $22.19, target $31.31, hold 2-3 weeks)"
+      "text": "TEM in entry zone $77.50-$81.37 (plan: stop $70.24, target $97.83, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -91,6 +116,8 @@
     "URI|1108.46": "2026-09-18",
     "QQQ|749.07": "2026-09-18",
     "RDDT|183.86": "2026-09-18",
-    "BEAM|31.31": "2026-09-18"
+    "BEAM|31.31": "2026-09-18",
+    "IONQ|48.9": "2026-09-18",
+    "TEM|97.83": "2026-09-18"
   }
 }
