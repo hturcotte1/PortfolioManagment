@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22T20:28:16Z",
+  "checked_at": "2026-09-22T23:05:38Z",
   "alerts": [
     {
       "severity": "low",
@@ -25,16 +25,6 @@
       "severity": "low",
       "kind": "watchlist_entry",
       "text": "TOST RSI 31 - oversold reversal in progress (from yesterday's bucket)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "AFRM in entry zone $69.44-$72.60 (plan: stop $64.69, target $83.68, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "TOST in entry zone $28.81-$29.97 (plan: stop $27.07, target $34.03, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
