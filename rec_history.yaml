@@ -943,3 +943,18 @@
   executed_shares: null
   resolved_at: null
   created_at: '2026-09-22T01:05:12Z'
+- rec_id: 76b41391
+  date: '2026-09-22'
+  ticker: LRCX
+  action: buy
+  size:
+    display: Deploy 27% of cash -> $303 -> 1 shares (would be 2.4% of portfolio)
+    shares: 1
+    dollars: 303.0
+  status: pending
+  user_reason: null
+  counter_proposal: null
+  executed_price: null
+  executed_shares: null
+  resolved_at: null
+  created_at: '2026-09-22T16:01:13Z'
