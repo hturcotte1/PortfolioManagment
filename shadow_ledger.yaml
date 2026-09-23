@@ -11734,6 +11734,48 @@
       excess_return: null
       hit: null
   last_updated: '2026-09-23'
+- ticker: AMD
+  miss_date: '2026-09-23'
+  direction: long
+  kind: near_miss
+  valence: null
+  failed_signal: news
+  passed_signals:
+  - technical
+  - sector_momentum
+  insider_score: 0
+  source: null
+  entry_price: 615.739990234375
+  benchmark_entry_price: 769.77001953125
+  horizons:
+    '5':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '10':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '20':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+  last_updated: '2026-09-23'
 - ticker: BITQ
   miss_date: '2026-09-23'
   direction: long
@@ -11745,8 +11787,8 @@
   - news
   insider_score: 0
   source: null
-  entry_price: null
-  benchmark_entry_price: null
+  entry_price: 28.250099182128906
+  benchmark_entry_price: 769.77001953125
   horizons:
     '5':
       status: pending
@@ -11787,8 +11829,8 @@
   - news
   insider_score: 0
   source: null
-  entry_price: null
-  benchmark_entry_price: null
+  entry_price: 200.19500732421875
+  benchmark_entry_price: 769.77001953125
   horizons:
     '5':
       status: pending
@@ -11829,8 +11871,8 @@
   - news
   insider_score: 0
   source: null
-  entry_price: null
-  benchmark_entry_price: null
+  entry_price: 126.23500061035156
+  benchmark_entry_price: 769.77001953125
   horizons:
     '5':
       status: pending
@@ -11871,8 +11913,8 @@
   - sector_momentum
   insider_score: 0
   source: null
-  entry_price: null
-  benchmark_entry_price: null
+  entry_price: 357.7250061035156
+  benchmark_entry_price: 769.77001953125
   horizons:
     '5':
       status: pending
@@ -11913,8 +11955,92 @@
   - news
   insider_score: 0
   source: null
-  entry_price: null
-  benchmark_entry_price: null
+  entry_price: 3.815000057220459
+  benchmark_entry_price: 769.77001953125
+  horizons:
+    '5':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '10':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '20':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+  last_updated: '2026-09-23'
+- ticker: SMH
+  miss_date: '2026-09-23'
+  direction: long
+  kind: near_miss
+  valence: null
+  failed_signal: sector_momentum
+  passed_signals:
+  - technical
+  - news
+  insider_score: 0
+  source: null
+  entry_price: 599.4500122070312
+  benchmark_entry_price: 769.77001953125
+  horizons:
+    '5':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '10':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+    '20':
+      status: pending
+      exit_date: null
+      exit_price: null
+      benchmark_exit_price: null
+      forward_return: null
+      benchmark_forward_return: null
+      excess_return: null
+      hit: null
+  last_updated: '2026-09-23'
+- ticker: SPY
+  miss_date: '2026-09-23'
+  direction: long
+  kind: near_miss
+  valence: null
+  failed_signal: sector_momentum
+  passed_signals:
+  - technical
+  - news
+  insider_score: 0
+  source: null
+  entry_price: 769.77001953125
+  benchmark_entry_price: 769.77001953125
   horizons:
     '5':
       status: pending

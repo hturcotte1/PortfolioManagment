@@ -1354,13 +1354,13 @@
     outage: 0
     unknown: 1
 - date: '2026-09-23'
-  candidates_evaluated: 9
-  cleared_primary: 0
+  candidates_evaluated: 11
+  cleared_primary: 1
   cleared_insider_promotion: 0
   blocked_by:
-    technical: 1
-    sector_momentum: 5
-    news: 1
+    technical: 2
+    sector_momentum: 4
+    news: 2
     trump: 0
     earnings_window: 0
     correlation_block: 0
@@ -1369,23 +1369,15 @@
     soft_veto: 0
     trump_block: 0
   near_miss:
+  - ticker: AMD
+    passed:
+    - technical
+    - sector_momentum
+    failed: news
+    insider_score: 0
+    insider_status: not_evaluated
+    news_status: ok
   - ticker: BITQ
-    passed:
-    - technical
-    - news
-    failed: sector_momentum
-    insider_score: 0
-    insider_status: not_evaluated
-    news_status: ok
-  - ticker: COIN
-    passed:
-    - technical
-    - news
-    failed: sector_momentum
-    insider_score: 0
-    insider_status: not_evaluated
-    news_status: ok
-  - ticker: HOOD
     passed:
     - technical
     - news
@@ -1401,7 +1393,15 @@
     insider_score: 0
     insider_status: not_evaluated
     news_status: ok
-  - ticker: RXRX
+  - ticker: SMH
+    passed:
+    - technical
+    - news
+    failed: sector_momentum
+    insider_score: 0
+    insider_status: not_evaluated
+    news_status: ok
+  - ticker: SPY
     passed:
     - technical
     - news
@@ -1420,9 +1420,9 @@
     scored: 0
     zero: 0
     unavailable: 0
-    not_evaluated: 9
+    not_evaluated: 11
   news:
-    ok: 8
+    ok: 9
     empty: 0
     outage: 0
-    unknown: 1
+    unknown: 2
