@@ -1363,6 +1363,14 @@
     insider_score: 0
     insider_status: zero
     news_status: ok
+  - ticker: QQQ
+    passed:
+    - technical
+    - news
+    failed: sector_momentum
+    insider_score: 0
+    insider_status: zero
+    news_status: ok
   trump:
     mentions: 0
     endorsements: 0
@@ -1372,9 +1380,9 @@
     firings: []
   insider:
     scored: 0
-    zero: 1
+    zero: 2
     unavailable: 0
-    not_evaluated: 3
+    not_evaluated: 2
   news:
     ok: 2
     empty: 0
