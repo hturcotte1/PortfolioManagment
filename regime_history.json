@@ -535,8 +535,8 @@
 },
 {
 "date": "2026-09-30",
-"regime": "risk_on",
-"confidence": 1,
-"breadth_pct": 42.0
+"regime": "chop",
+"confidence": 3,
+"breadth_pct": 48.0
 }
 ]
