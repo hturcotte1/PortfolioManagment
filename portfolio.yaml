@@ -1,6 +1,6 @@
 account:
   cash: 1112.95
-  total_value: 12833.74
+  total_value: 12779.5
   currency: USD
 positions:
 - ticker: NBIS
