@@ -988,3 +988,18 @@
   executed_shares: null
   resolved_at: null
   created_at: '2026-10-01T17:47:29Z'
+- rec_id: 857f4e6e
+  date: '2026-10-02'
+  ticker: MU
+  action: buy
+  size:
+    display: 'Rejected: price $1097.39 too high for available dollars $387'
+    shares: 0
+    dollars: 0.0
+  status: pending
+  user_reason: null
+  counter_proposal: null
+  executed_price: null
+  executed_shares: null
+  resolved_at: null
+  created_at: '2026-10-02T01:57:31Z'
