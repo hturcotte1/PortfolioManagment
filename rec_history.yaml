@@ -1003,3 +1003,18 @@
   executed_shares: null
   resolved_at: null
   created_at: '2026-10-02T01:57:31Z'
+- rec_id: 1220e0c3
+  date: '2026-10-05'
+  ticker: NVDA
+  action: buy
+  size:
+    display: Deploy 22% of cash -> $240 -> 1 shares (would be 1.9% of portfolio)
+    shares: 1
+    dollars: 239.87
+  status: pending
+  user_reason: null
+  counter_proposal: null
+  executed_price: null
+  executed_shares: null
+  resolved_at: null
+  created_at: '2026-10-05T20:04:04Z'
