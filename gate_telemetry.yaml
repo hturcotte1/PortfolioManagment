@@ -1379,7 +1379,7 @@
     insider_score: 0
     insider_status: not_evaluated
     news_status: ok
-  - ticker: RXRX
+  - ticker: VST
     passed:
     - technical
     - news
