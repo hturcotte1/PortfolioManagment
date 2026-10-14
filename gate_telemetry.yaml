@@ -1347,7 +1347,7 @@
     soft_veto: 0
     trump_block: 0
   near_miss:
-  - ticker: SHOP
+  - ticker: MA
     passed:
     - technical
     - news
