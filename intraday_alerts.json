@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15T21:00:03Z",
+  "checked_at": "2026-10-15T23:27:21Z",
   "alerts": [
     {
       "severity": "med",
@@ -19,7 +19,7 @@
     {
       "severity": "med",
       "kind": "position_break",
-      "text": "RUN lost SMA50 ($8.64) on 1.5x volume"
+      "text": "RUN lost SMA50 ($8.64) on 1.6x volume"
     },
     {
       "severity": "low",
@@ -30,31 +30,6 @@
       "severity": "low",
       "kind": "watchlist_entry",
       "text": "LYFT at $17.16 - within buy zone of yesterday's breakout setup ($16.85)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MU in entry zone $917.90-$962.01 (plan: stop $851.72, target $1116.42, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "AI in entry zone $11.85-$12.27 (plan: stop $11.06, target $14.06, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "PWR in entry zone $640.15-$665.62 (plan: stop $601.94, target $754.77, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "SHOP in entry zone $177.14-$182.68 (plan: stop $166.75, target $206.23, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "DKNG in entry zone $19.22-$20.10 (plan: stop $17.59, target $23.80, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
