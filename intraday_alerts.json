@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-16T20:25:29Z",
+  "checked_at": "2026-10-16T22:51:27Z",
   "alerts": [
     {
       "severity": "high",
       "kind": "macro_shock",
-      "text": "VIX spiked +24.5% today"
+      "text": "VIX spiked +21.4% today"
     },
     {
       "severity": "high",
@@ -34,12 +34,12 @@
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "MA at $617.24 - within buy zone of yesterday's breakout setup ($619.25)"
+      "text": "MA at $617.42 - within buy zone of yesterday's breakout setup ($619.25)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "V at $402.65 - within buy zone of yesterday's breakout setup ($403.74)"
+      "text": "V at $402.61 - within buy zone of yesterday's breakout setup ($403.74)"
     },
     {
       "severity": "low",
@@ -50,31 +50,6 @@
       "severity": "low",
       "kind": "watchlist_entry",
       "text": "SMCI RSI 30 - oversold reversal in progress (from yesterday's bucket)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MA in entry zone $616.09-$624.52 (plan: stop $600.29, target $660.34, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "VEEV in entry zone $309.74-$317.84 (plan: stop $294.55, target $352.27, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "BRK-B in entry zone $529.76-$534.26 (plan: stop $521.32, target $553.39, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "COST in entry zone $976.89-$990.51 (plan: stop $951.35, target $1048.40, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "INTU in entry zone $324.38-$333.49 (plan: stop $307.30, target $372.20, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
