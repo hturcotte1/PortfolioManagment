@@ -1372,13 +1372,13 @@
     outage: 0
     unknown: 1
 - date: '2026-10-16'
-  candidates_evaluated: 11
-  cleared_primary: 0
+  candidates_evaluated: 6
+  cleared_primary: 1
   cleared_insider_promotion: 0
   blocked_by:
     technical: 1
-    sector_momentum: 7
-    news: 3
+    sector_momentum: 4
+    news: 0
     trump: 0
     earnings_window: 0
     correlation_block: 0
@@ -1387,43 +1387,11 @@
     soft_veto: 0
     trump_block: 0
   near_miss:
-  - ticker: AFRM
+  - ticker: TEAM
     passed:
     - technical
     - news
     failed: sector_momentum
-    insider_score: 0
-    insider_status: zero
-    news_status: ok
-  - ticker: COST
-    passed:
-    - technical
-    - news
-    failed: sector_momentum
-    insider_score: 0
-    insider_status: zero
-    news_status: ok
-  - ticker: GEV
-    passed:
-    - technical
-    - sector_momentum
-    failed: news
-    insider_score: 0
-    insider_status: zero
-    news_status: ok
-  - ticker: IREN
-    passed:
-    - technical
-    - news
-    failed: sector_momentum
-    insider_score: 0
-    insider_status: zero
-    news_status: ok
-  - ticker: LLY
-    passed:
-    - technical
-    - sector_momentum
-    failed: news
     insider_score: 0
     insider_status: zero
     news_status: ok
@@ -1436,11 +1404,11 @@
     firings: []
   insider:
     scored: 0
-    zero: 6
+    zero: 1
     unavailable: 0
     not_evaluated: 5
   news:
-    ok: 10
+    ok: 5
     empty: 0
     outage: 0
     unknown: 1

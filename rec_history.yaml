@@ -1018,3 +1018,18 @@
   executed_shares: null
   resolved_at: null
   created_at: '2026-10-05T20:04:04Z'
+- rec_id: e2be56ff
+  date: '2026-10-16'
+  ticker: LLY
+  action: buy
+  size:
+    display: 'Rejected: price $1273.35 too high for available dollars $387'
+    shares: 0
+    dollars: 0.0
+  status: pending
+  user_reason: null
+  counter_proposal: null
+  executed_price: null
+  executed_shares: null
+  resolved_at: null
+  created_at: '2026-10-16T15:44:27Z'
