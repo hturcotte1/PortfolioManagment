@@ -1,230 +1,25 @@
 {
-  "checked_at": "2026-10-19T20:13:24Z",
+  "checked_at": "2026-10-19T22:52:03Z",
   "alerts": [
-    {
-      "severity": "med",
-      "kind": "position_break",
-      "text": "NBIS lost SMA50 ($222.42) on 1.8x volume"
-    },
     {
       "severity": "high",
       "kind": "position_break",
-      "text": "RUN gapped down -5.1% today"
+      "text": "RUN gapped down -5.6% today"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "XLY at $114.41 - within buy zone of yesterday's breakout setup ($114.28)"
+      "text": "XLY at $114.46 - within buy zone of yesterday's breakout setup ($114.28)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "LMT at $553.57 - within buy zone of yesterday's breakout setup ($552.55)"
-    },
-    {
-      "severity": "low",
-      "kind": "watchlist_entry",
-      "text": "ISRG at $432.71 - within buy zone of yesterday's breakout setup ($433.12)"
+      "text": "ISRG at $433.18 - within buy zone of yesterday's breakout setup ($433.12)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "TSM in entry zone $411.60-$424.35 (plan: stop $392.48, target $468.97, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "NVDA in entry zone $213.43-$219.17 (plan: stop $204.82, target $239.26, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "GOOGL in entry zone $337.15-$346.20 (plan: stop $323.58, target $377.86, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "AMD in entry zone $521.01-$547.77 (plan: stop $480.87, target $641.43, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "ASML in entry zone $1625.38-$1677.27 (plan: stop $1547.53, target $1858.92, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "AAPL in entry zone $339.98-$345.11 (plan: stop $330.35, target $366.94, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "DDOG in entry zone $258.06-$268.39 (plan: stop $238.69, target $312.30, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "VRTX in entry zone $494.06-$505.59 (plan: stop $476.77, target $545.93, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "V in entry zone $400.06-$405.91 (plan: stop $389.09, target $430.78, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "TENB in entry zone $38.26-$40.02 (plan: stop $34.97, target $47.48, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MRNA in entry zone $219.81-$234.75 (plan: stop $191.80, target $298.24, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "ESTC in entry zone $94.11-$97.51 (plan: stop $87.74, target $111.95, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MA in entry zone $613.16-$621.58 (plan: stop $597.37, target $657.37, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MRVL in entry zone $226.97-$243.94 (plan: stop $201.52, target $303.32, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "VEEV in entry zone $313.47-$321.88 (plan: stop $297.70, target $357.63, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "TEAM in entry zone $210.27-$217.50 (plan: stop $196.72, target $248.21, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "QCOM in entry zone $168.58-$174.47 (plan: stop $159.75, target $195.08, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MSFT in entry zone $529.21-$538.20 (plan: stop $512.34, target $576.44, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "PLTR in entry zone $193.16-$199.56 (plan: stop $181.17, target $226.74, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "ROK in entry zone $425.97-$435.97 (plan: stop $410.96, target $470.99, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "CRM in entry zone $238.62-$245.40 (plan: stop $225.90, target $274.23, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "URI in entry zone $1013.15-$1048.74 (plan: stop $959.77, target $1173.29, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "SHOP in entry zone $168.63-$174.60 (plan: stop $157.44, target $199.97, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "SPY in entry zone $764.52-$770.87 (plan: stop $754.99, target $793.10, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "LLY in entry zone $1240.49-$1270.15 (plan: stop $1184.87, target $1396.22, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "IWM in entry zone $268.44-$272.10 (plan: stop $262.94, target $284.93, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "XLV in entry zone $174.81-$177.12 (plan: stop $170.48, target $186.94, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MELI in entry zone $1786.36-$1842.47 (plan: stop $1702.19, target $2038.86, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "DKNG in entry zone $19.22-$20.10 (plan: stop $17.59, target $23.80, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "PATH in entry zone $12.92-$13.40 (plan: stop $12.03, target $15.42, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "VRNS in entry zone $47.97-$49.47 (plan: stop $45.16, target $55.84, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "BRK-B in entry zone $529.81-$534.32 (plan: stop $521.35, target $553.50, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "LRCX in entry zone $270.04-$281.20 (plan: stop $249.11, target $328.64, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "XLY in entry zone $113.84-$115.02 (plan: stop $111.63, target $120.03, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "INTU in entry zone $324.38-$333.49 (plan: stop $307.30, target $372.20, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "SMCI in entry zone $30.56-$33.02 (plan: stop $26.88, target $41.61, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "WULF in entry zone $11.73-$12.60 (plan: stop $10.11, target $16.27, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "ALAB in entry zone $282.22-$306.92 (plan: stop $245.17, target $393.37, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "ISRG in entry zone $429.87-$438.55 (plan: stop $413.59, target $475.45, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "ASTS in entry zone $41.23-$44.93 (plan: stop $34.30, target $60.64, hold 2-3 weeks)"
+      "text": "HUBS in entry zone $234.04-$243.59 (plan: stop $216.13, target $284.19, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -267,6 +62,7 @@
     "WULF|16.27": "2026-10-19",
     "ALAB|393.37": "2026-10-19",
     "ISRG|475.45": "2026-10-19",
-    "ASTS|60.64": "2026-10-19"
+    "ASTS|60.64": "2026-10-19",
+    "HUBS|284.19": "2026-10-19"
   }
 }
