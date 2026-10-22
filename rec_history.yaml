@@ -1063,3 +1063,18 @@
   executed_shares: null
   resolved_at: null
   created_at: '2026-10-22T00:58:49Z'
+- rec_id: abdddae5
+  date: '2026-10-22'
+  ticker: ISRG
+  action: buy
+  size:
+    display: 'Rejected: price $440.64 too high for available dollars $387'
+    shares: 0
+    dollars: 0.0
+  status: pending
+  user_reason: null
+  counter_proposal: null
+  executed_price: null
+  executed_shares: null
+  resolved_at: null
+  created_at: '2026-10-22T16:21:51Z'
