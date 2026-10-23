@@ -1,48 +1,48 @@
 - ticker: TSM
   idea_id: 22da65ba
   first_seen: '2026-05-21'
-  last_seen: '2026-10-22'
-  last_rank: 27
+  last_seen: '2026-10-23'
+  last_rank: 25
   last_score: 2.0
   last_why: Momentum signal
   verdict: open
   verdict_at: null
   user_note: null
   swing_plan:
-    entry_low: 403.23
-    entry_high: 416.94
-    entry_zone: $403.23 - $416.94
-    stop: 382.67
-    stop_pct: -6.7
-    target: 464.92
-    target_pct: 13.4
+    entry_low: 421.15
+    entry_high: 434.58
+    entry_zone: $421.15 - $434.58
+    stop: 401.01
+    stop_pct: -6.3
+    target: 481.58
+    target_pct: 12.6
     reward_risk: 2.0
     hold_window: 2-3 weeks
 - ticker: NVDA
   idea_id: 110be084
   first_seen: '2026-05-21'
-  last_seen: '2026-10-22'
-  last_rank: 26
+  last_seen: '2026-10-23'
+  last_rank: 24
   last_score: 2.0
   last_why: Momentum signal
   verdict: open
   verdict_at: null
   user_note: null
   swing_plan:
-    entry_low: 207.9
-    entry_high: 213.97
-    entry_zone: $207.90 - $213.97
-    stop: 198.81
-    stop_pct: -5.7
-    target: 235.19
-    target_pct: 11.5
+    entry_low: 217.26
+    entry_high: 223.15
+    entry_zone: $217.26 - $223.15
+    stop: 208.42
+    stop_pct: -5.4
+    target: 243.77
+    target_pct: 10.7
     reward_risk: 2.0
     hold_window: 2-3 weeks
 - ticker: ABNB
   idea_id: 72c2c9d7
   first_seen: '2026-05-21'
-  last_seen: '2026-10-22'
-  last_rank: 22
+  last_seen: '2026-10-23'
+  last_rank: 20
   last_score: 2.4
   last_why: Theme fit signal
   verdict: open
@@ -92,21 +92,21 @@
 - ticker: AMD
   idea_id: dc1b9b4b
   first_seen: '2026-05-21'
-  last_seen: '2026-10-22'
-  last_rank: 23
-  last_score: 2.0
-  last_why: Momentum signal
+  last_seen: '2026-10-23'
+  last_rank: 6
+  last_score: 5.72
+  last_why: Momentum & Theme fit -- 2 signals aligned
   verdict: open
   verdict_at: null
   user_note: null
   swing_plan:
-    entry_low: 512.85
-    entry_high: 540.21
-    entry_zone: $512.85 - $540.21
-    stop: 471.8
-    stop_pct: -10.4
-    target: 635.99
-    target_pct: 20.8
+    entry_low: 530.59
+    entry_high: 558.25
+    entry_zone: $530.59 - $558.25
+    stop: 489.09
+    stop_pct: -10.2
+    target: 655.08
+    target_pct: 20.3
     reward_risk: 2.0
     hold_window: 2-3 weeks
 - ticker: ETN
@@ -132,14 +132,23 @@
 - ticker: CRWD
   idea_id: 6539c7c4
   first_seen: '2026-05-21'
-  last_seen: '2026-10-22'
-  last_rank: 16
-  last_score: 2.4
-  last_why: Theme fit signal
+  last_seen: '2026-10-23'
+  last_rank: 8
+  last_score: 4.84
+  last_why: Theme fit & News / social -- 2 signals aligned
   verdict: open
   verdict_at: null
   user_note: null
-  swing_plan: null
+  swing_plan:
+    entry_low: 234.5
+    entry_high: 244.18
+    entry_zone: $234.50 - $244.18
+    stop: 216.36
+    stop_pct: -9.6
+    target: 285.3
+    target_pct: 19.2
+    reward_risk: 2.0
+    hold_window: 2-3 weeks
 - ticker: PANW
   idea_id: dc56a626
   first_seen: '2026-05-21'
@@ -163,7 +172,7 @@
 - ticker: ASML
   idea_id: f2bb989f
   first_seen: '2026-05-22'
-  last_seen: '2026-10-21'
+  last_seen: '2026-10-23'
   last_rank: 27
   last_score: 2.0
   last_why: Momentum signal
@@ -171,13 +180,13 @@
   verdict_at: null
   user_note: null
   swing_plan:
-    entry_low: 1637.28
-    entry_high: 1691.93
-    entry_zone: $1637.28 - $1691.93
-    stop: 1555.31
+    entry_low: 1632.81
+    entry_high: 1687.66
+    entry_zone: $1632.81 - $1687.66
+    stop: 1550.54
     stop_pct: -6.6
-    target: 1883.2
-    target_pct: 13.1
+    target: 1879.63
+    target_pct: 13.2
     reward_risk: 2.0
     hold_window: 2-3 weeks
 - ticker: NET
@@ -203,17 +212,17 @@
 - ticker: AAPL
   idea_id: 82e2e180
   first_seen: '2026-06-01'
-  last_seen: '2026-10-22'
-  last_rank: 13
-  last_score: 2.5
+  last_seen: '2026-10-23'
+  last_rank: 33
+  last_score: 2.0
   last_why: Momentum signal
   swing_plan:
-    entry_low: 343.41
-    entry_high: 348.21
-    entry_zone: $343.41 - $348.21
-    stop: 334.4
+    entry_low: 342.2
+    entry_high: 346.97
+    entry_zone: $342.20 - $346.97
+    stop: 333.27
     stop_pct: -3.3
-    target: 368.63
+    target: 367.22
     target_pct: 6.6
     reward_risk: 2.0
     hold_window: 2-3 weeks
@@ -223,19 +232,28 @@
 - ticker: DDOG
   idea_id: 4749d1a7
   first_seen: '2026-06-01'
-  last_seen: '2026-10-22'
-  last_rank: 15
-  last_score: 2.4
-  last_why: Theme fit signal
-  swing_plan: null
+  last_seen: '2026-10-23'
+  last_rank: 1
+  last_score: 10.43
+  last_why: Momentum, Theme fit & News / social -- 3 signals aligned
+  swing_plan:
+    entry_low: 268.99
+    entry_high: 279.93
+    entry_zone: $268.99 - $279.93
+    stop: 248.47
+    stop_pct: -9.5
+    target: 326.44
+    target_pct: 18.9
+    reward_risk: 2.0
+    hold_window: 2-3 weeks
   verdict: open
   verdict_at: null
   user_note: null
 - ticker: FTNT
   idea_id: ee949e10
   first_seen: '2026-06-09'
-  last_seen: '2026-10-22'
-  last_rank: 19
+  last_seen: '2026-10-23'
+  last_rank: 18
   last_score: 2.4
   last_why: Theme fit signal
   swing_plan: null
@@ -256,18 +274,18 @@
 - ticker: QLYS
   idea_id: 5b0ff15f
   first_seen: '2026-06-17'
-  last_seen: '2026-10-22'
-  last_rank: 5
-  last_score: 4.81
-  last_why: Momentum & News / social -- 2 signals aligned
+  last_seen: '2026-10-23'
+  last_rank: 14
+  last_score: 2.5
+  last_why: Momentum signal
   swing_plan:
-    entry_low: 203.05
-    entry_high: 211.34
-    entry_zone: $203.05 - $211.34
-    stop: 187.5
-    stop_pct: -9.5
-    target: 246.58
-    target_pct: 19.0
+    entry_low: 193.63
+    entry_high: 201.82
+    entry_zone: $193.63 - $201.82
+    stop: 178.27
+    stop_pct: -9.8
+    target: 236.63
+    target_pct: 19.7
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -296,29 +314,38 @@
 - ticker: OKTA
   idea_id: b87152fe
   first_seen: '2026-06-25'
-  last_seen: '2026-10-22'
-  last_rank: 18
-  last_score: 2.4
-  last_why: Theme fit signal
-  swing_plan: null
+  last_seen: '2026-10-23'
+  last_rank: 7
+  last_score: 5.56
+  last_why: Theme fit & News / social -- 2 signals aligned
+  swing_plan:
+    entry_low: 204.04
+    entry_high: 213.24
+    entry_zone: $204.04 - $213.24
+    stop: 186.8
+    stop_pct: -10.5
+    target: 252.32
+    target_pct: 20.9
+    reward_risk: 2.0
+    hold_window: 2-3 weeks
   verdict: open
   verdict_at: null
   user_note: null
 - ticker: V
   idea_id: c9ee5681
   first_seen: '2026-06-26'
-  last_seen: '2026-10-22'
+  last_seen: '2026-10-23'
   last_rank: 34
   last_score: 2.0
   last_why: Momentum signal
   swing_plan:
-    entry_low: 409.92
-    entry_high: 415.79
-    entry_zone: $409.92 - $415.79
-    stop: 398.92
+    entry_low: 405.68
+    entry_high: 411.47
+    entry_zone: $405.68 - $411.47
+    stop: 394.81
     stop_pct: -3.4
-    target: 440.73
-    target_pct: 6.8
+    target: 436.11
+    target_pct: 6.7
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -327,18 +354,18 @@
 - ticker: TENB
   idea_id: 8fb35854
   first_seen: '2026-06-26'
-  last_seen: '2026-10-22'
-  last_rank: 12
-  last_score: 2.5
-  last_why: Momentum signal
+  last_seen: '2026-10-23'
+  last_rank: 2
+  last_score: 7.02
+  last_why: Momentum & Theme fit -- 2 signals aligned
   swing_plan:
-    entry_low: 40.86
-    entry_high: 42.62
-    entry_zone: $40.86 - $42.62
-    stop: 37.56
-    stop_pct: -10.0
-    target: 50.1
-    target_pct: 20.0
+    entry_low: 40.01
+    entry_high: 41.76
+    entry_zone: $40.01 - $41.76
+    stop: 36.73
+    stop_pct: -10.2
+    target: 49.2
+    target_pct: 20.3
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -347,7 +374,7 @@
 - ticker: S
   idea_id: 02aa629c
   first_seen: '2026-06-29'
-  last_seen: '2026-10-22'
+  last_seen: '2026-10-23'
   last_rank: 17
   last_score: 2.4
   last_why: Theme fit signal
@@ -358,38 +385,29 @@
 - ticker: RBRK
   idea_id: 7f034043
   first_seen: '2026-07-10'
-  last_seen: '2026-10-22'
-  last_rank: 3
-  last_score: 6.37
-  last_why: Momentum & Theme fit -- 2 signals aligned
-  swing_plan:
-    entry_low: 117.72
-    entry_high: 122.84
-    entry_zone: $117.72 - $122.84
-    stop: 108.11
-    stop_pct: -10.1
-    target: 144.62
-    target_pct: 20.2
-    reward_risk: 2.0
-    hold_window: 2-3 weeks
+  last_seen: '2026-10-23'
+  last_rank: 19
+  last_score: 2.4
+  last_why: Theme fit signal
+  swing_plan: null
   verdict: open
   verdict_at: null
   user_note: null
 - ticker: SNOW
   idea_id: 4bbd1caa
   first_seen: '2026-07-17'
-  last_seen: '2026-10-22'
-  last_rank: 27
+  last_seen: '2026-10-23'
+  last_rank: 29
   last_score: 2.0
   last_why: Momentum signal
   swing_plan:
-    entry_low: 306.46
-    entry_high: 322.9
-    entry_zone: $306.46 - $322.90
-    stop: 281.81
+    entry_low: 309.51
+    entry_high: 326.04
+    entry_zone: $309.51 - $326.04
+    stop: 284.72
     stop_pct: -10.4
-    target: 380.42
-    target_pct: 20.9
+    target: 383.88
+    target_pct: 20.8
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -409,18 +427,18 @@
 - ticker: MRNA
   idea_id: '61406834'
   first_seen: '2026-07-28'
-  last_seen: '2026-10-22'
-  last_rank: 4
-  last_score: 6.37
-  last_why: Momentum & Theme fit -- 2 signals aligned
+  last_seen: '2026-10-23'
+  last_rank: 37
+  last_score: 2.0
+  last_why: Momentum signal
   swing_plan:
-    entry_low: 217.18
-    entry_high: 233.31
-    entry_zone: $217.18 - $233.31
-    stop: 186.93
-    stop_pct: -17.0
-    target: 301.88
-    target_pct: 34.0
+    entry_low: 240.03
+    entry_high: 255.45
+    entry_zone: $240.03 - $255.45
+    stop: 211.12
+    stop_pct: -14.8
+    target: 320.98
+    target_pct: 29.6
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -449,18 +467,18 @@
 - ticker: MA
   idea_id: 83125cc8
   first_seen: '2026-07-30'
-  last_seen: '2026-10-22'
-  last_rank: 33
+  last_seen: '2026-10-23'
+  last_rank: 36
   last_score: 2.0
   last_why: Momentum signal
   swing_plan:
-    entry_low: 617.23
-    entry_high: 625.73
-    entry_zone: $617.23 - $625.73
-    stop: 601.3
+    entry_low: 619.52
+    entry_high: 627.79
+    entry_zone: $619.52 - $627.79
+    stop: 604.0
     stop_pct: -3.2
-    target: 661.84
-    target_pct: 6.5
+    target: 662.96
+    target_pct: 6.3
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -489,18 +507,18 @@
 - ticker: MRVL
   idea_id: 37b12904
   first_seen: '2026-08-04'
-  last_seen: '2026-10-22'
-  last_rank: 25
+  last_seen: '2026-10-23'
+  last_rank: 26
   last_score: 2.0
   last_why: Momentum signal
   swing_plan:
-    entry_low: 226.35
-    entry_high: 243.94
-    entry_zone: $226.35 - $243.94
-    stop: 199.97
-    stop_pct: -15.0
-    target: 305.49
-    target_pct: 29.9
+    entry_low: 230.71
+    entry_high: 248.27
+    entry_zone: $230.71 - $248.27
+    stop: 204.37
+    stop_pct: -14.7
+    target: 309.73
+    target_pct: 29.3
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -600,18 +618,18 @@
 - ticker: VEEV
   idea_id: 2d7322db
   first_seen: '2026-08-27'
-  last_seen: '2026-10-22'
-  last_rank: 33
+  last_seen: '2026-10-23'
+  last_rank: 32
   last_score: 2.0
   last_why: Momentum signal
   swing_plan:
-    entry_low: 319.8
-    entry_high: 327.8
-    entry_zone: $319.80 - $327.80
-    stop: 304.78
-    stop_pct: -5.9
-    target: 361.84
-    target_pct: 11.7
+    entry_low: 317.47
+    entry_high: 325.69
+    entry_zone: $317.47 - $325.69
+    stop: 302.05
+    stop_pct: -6.1
+    target: 360.64
+    target_pct: 12.1
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -620,18 +638,18 @@
 - ticker: TEAM
   idea_id: 74cccf45
   first_seen: '2026-08-27'
-  last_seen: '2026-10-22'
+  last_seen: '2026-10-23'
   last_rank: 35
   last_score: 2.0
   last_why: Momentum signal
   swing_plan:
-    entry_low: 222.71
-    entry_high: 229.84
-    entry_zone: $222.71 - $229.84
-    stop: 209.34
-    stop_pct: -7.5
-    target: 260.14
-    target_pct: 15.0
+    entry_low: 222.87
+    entry_high: 229.9
+    entry_zone: $222.87 - $229.90
+    stop: 209.67
+    stop_pct: -7.4
+    target: 259.81
+    target_pct: 14.8
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -671,18 +689,18 @@
 - ticker: QCOM
   idea_id: 7d0e3320
   first_seen: '2026-09-01'
-  last_seen: '2026-10-22'
+  last_seen: '2026-10-23'
   last_rank: 28
   last_score: 2.0
   last_why: Momentum signal
   swing_plan:
-    entry_low: 170.23
-    entry_high: 176.16
-    entry_zone: $170.23 - $176.16
-    stop: 161.34
+    entry_low: 173.19
+    entry_high: 179.15
+    entry_zone: $173.19 - $179.15
+    stop: 164.25
     stop_pct: -6.8
-    target: 196.9
-    target_pct: 13.7
+    target: 200.01
+    target_pct: 13.5
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -702,20 +720,11 @@
 - ticker: PLTR
   idea_id: e5f2231f
   first_seen: '2026-09-03'
-  last_seen: '2026-10-22'
-  last_rank: 2
-  last_score: 6.37
-  last_why: Momentum & Theme fit -- 2 signals aligned
-  swing_plan:
-    entry_low: 195.98
-    entry_high: 202.88
-    entry_zone: $195.98 - $202.88
-    stop: 183.05
-    stop_pct: -8.2
-    target: 232.19
-    target_pct: 16.4
-    reward_risk: 2.0
-    hold_window: 2-3 weeks
+  last_seen: '2026-10-23'
+  last_rank: 16
+  last_score: 2.4
+  last_why: Theme fit signal
+  swing_plan: null
   verdict: open
   verdict_at: null
   user_note: null
@@ -742,29 +751,18 @@
 - ticker: ROK
   idea_id: 5338136f
   first_seen: '2026-09-04'
-  last_seen: '2026-10-21'
-  last_rank: 23
-  last_score: 2.4
-  last_why: Theme fit signal
-  swing_plan: null
-  verdict: open
-  verdict_at: null
-  user_note: null
-- ticker: CAT
-  idea_id: cf9b775c
-  first_seen: '2026-09-04'
-  last_seen: '2026-10-08'
-  last_rank: 22
-  last_score: 2.0
-  last_why: Momentum signal
+  last_seen: '2026-10-23'
+  last_rank: 4
+  last_score: 6.37
+  last_why: Momentum & Theme fit -- 2 signals aligned
   swing_plan:
-    entry_low: 794.26
-    entry_high: 818.72
-    entry_zone: $794.26 - $818.72
-    stop: 757.57
-    stop_pct: -6.1
-    target: 904.33
-    target_pct: 12.1
+    entry_low: 434.98
+    entry_high: 444.4
+    entry_zone: $434.98 - $444.40
+    stop: 417.33
+    stop_pct: -5.1
+    target: 484.41
+    target_pct: 10.2
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -833,18 +831,18 @@
 - ticker: ROKU
   idea_id: a31c4739
   first_seen: '2026-09-10'
-  last_seen: '2026-10-22'
-  last_rank: 6
-  last_score: 3.5
+  last_seen: '2026-10-23'
+  last_rank: 11
+  last_score: 3.0
   last_why: Momentum signal
   swing_plan:
-    entry_low: 158.74
-    entry_high: 160.44
-    entry_zone: $158.74 - $160.44
-    stop: 155.55
-    stop_pct: -2.5
-    target: 167.67
-    target_pct: 5.1
+    entry_low: 157.17
+    entry_high: 158.8
+    entry_zone: $157.17 - $158.80
+    stop: 154.12
+    stop_pct: -2.4
+    target: 165.72
+    target_pct: 4.9
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -853,18 +851,18 @@
 - ticker: ZS
   idea_id: 1fb28f23
   first_seen: '2026-09-14'
-  last_seen: '2026-10-22'
-  last_rank: 10
-  last_score: 2.63
-  last_why: Momentum & News / social -- 2 signals aligned
+  last_seen: '2026-10-23'
+  last_rank: 38
+  last_score: 1.96
+  last_why: News / social signal
   swing_plan:
-    entry_low: 236.14
-    entry_high: 245.41
-    entry_zone: $236.14 - $245.41
-    stop: 218.74
-    stop_pct: -9.2
-    target: 284.84
-    target_pct: 18.3
+    entry_low: 226.77
+    entry_high: 235.89
+    entry_zone: $226.77 - $235.89
+    stop: 209.67
+    stop_pct: -9.4
+    target: 274.65
+    target_pct: 18.7
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -893,11 +891,20 @@
 - ticker: TT
   idea_id: 8c240845
   first_seen: '2026-09-14'
-  last_seen: '2026-10-22'
-  last_rank: 19
-  last_score: 2.4
-  last_why: Theme fit signal
-  swing_plan: null
+  last_seen: '2026-10-23'
+  last_rank: 5
+  last_score: 6.37
+  last_why: Momentum & Theme fit -- 2 signals aligned
+  swing_plan:
+    entry_low: 467.58
+    entry_high: 477.83
+    entry_zone: $467.58 - $477.83
+    stop: 448.37
+    stop_pct: -5.1
+    target: 521.38
+    target_pct: 10.3
+    reward_risk: 2.0
+    hold_window: 2-3 weeks
   verdict: open
   verdict_at: null
   user_note: null
@@ -924,18 +931,18 @@
 - ticker: CRM
   idea_id: 2a13d05e
   first_seen: '2026-09-16'
-  last_seen: '2026-10-22'
-  last_rank: 1
+  last_seen: '2026-10-23'
+  last_rank: 3
   last_score: 6.37
   last_why: Momentum & Theme fit -- 2 signals aligned
   swing_plan:
-    entry_low: 246.36
-    entry_high: 253.14
-    entry_zone: $246.36 - $253.14
-    stop: 233.64
+    entry_low: 239.28
+    entry_high: 245.95
+    entry_zone: $239.28 - $245.95
+    stop: 226.77
     stop_pct: -6.5
-    target: 281.97
-    target_pct: 12.9
+    target: 274.31
+    target_pct: 13.1
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -984,29 +991,38 @@
 - ticker: SHOP
   idea_id: f2e1c7fa
   first_seen: '2026-09-21'
-  last_seen: '2026-10-22'
-  last_rank: 21
-  last_score: 2.4
-  last_why: Theme fit signal
-  swing_plan: null
+  last_seen: '2026-10-23'
+  last_rank: 12
+  last_score: 2.5
+  last_why: Momentum signal
+  swing_plan:
+    entry_low: 171.97
+    entry_high: 178.16
+    entry_zone: $171.97 - $178.16
+    stop: 160.36
+    stop_pct: -8.4
+    target: 204.47
+    target_pct: 16.8
+    reward_risk: 2.0
+    hold_window: 2-3 weeks
   verdict: open
   verdict_at: null
   user_note: null
 - ticker: SPY
   idea_id: 2a9459e6
   first_seen: '2026-09-22'
-  last_seen: '2026-10-21'
-  last_rank: 16
+  last_seen: '2026-10-23'
+  last_rank: 13
   last_score: 2.5
   last_why: Momentum signal
   swing_plan:
-    entry_low: 770.68
-    entry_high: 776.24
-    entry_zone: $770.68 - $776.24
-    stop: 760.24
+    entry_low: 770.97
+    entry_high: 776.63
+    entry_zone: $770.97 - $776.63
+    stop: 760.37
     stop_pct: -1.7
-    target: 799.9
-    target_pct: 3.4
+    target: 800.66
+    target_pct: 3.5
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -1072,41 +1088,21 @@
   verdict: open
   verdict_at: null
   user_note: null
-- ticker: FSLR
-  idea_id: 6bf5da34
-  first_seen: '2026-09-25'
-  last_seen: '2026-10-08'
-  last_rank: 38
-  last_score: 1.0
-  last_why: Momentum signal
-  swing_plan:
-    entry_low: 177.16
-    entry_high: 183.1
-    entry_zone: $177.16 - $183.10
-    stop: 166.01
-    stop_pct: -7.8
-    target: 208.37
-    target_pct: 15.7
-    reward_risk: 2.0
-    hold_window: 2-3 weeks
-  verdict: open
-  verdict_at: null
-  user_note: null
 - ticker: XLV
   idea_id: 923e59b6
   first_seen: '2026-09-28'
-  last_seen: '2026-10-22'
-  last_rank: 32
+  last_seen: '2026-10-23'
+  last_rank: 31
   last_score: 2.0
   last_why: Momentum signal
   swing_plan:
-    entry_low: 180.59
-    entry_high: 183.07
-    entry_zone: $180.59 - $183.07
-    stop: 175.93
+    entry_low: 178.04
+    entry_high: 180.44
+    entry_zone: $178.04 - $180.44
+    stop: 173.55
     stop_pct: -3.2
-    target: 193.63
-    target_pct: 6.5
+    target: 190.62
+    target_pct: 6.3
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -1252,26 +1248,6 @@
   verdict: open
   verdict_at: null
   user_note: null
-- ticker: VST
-  idea_id: e9bd6975
-  first_seen: '2026-10-06'
-  last_seen: '2026-10-08'
-  last_rank: 9
-  last_score: 3.0
-  last_why: Momentum signal
-  swing_plan:
-    entry_low: 164.83
-    entry_high: 169.87
-    entry_zone: $164.83 - $169.87
-    stop: 155.38
-    stop_pct: -7.2
-    target: 191.29
-    target_pct: 14.3
-    reward_risk: 2.0
-    hold_window: 2-3 weeks
-  verdict: open
-  verdict_at: null
-  user_note: null
 - ticker: LYFT
   idea_id: a910299c
   first_seen: '2026-10-06'
@@ -1346,18 +1322,18 @@
 - ticker: BRK-B
   idea_id: b3120f81
   first_seen: '2026-10-08'
-  last_seen: '2026-10-22'
-  last_rank: 31
+  last_seen: '2026-10-23'
+  last_rank: 30
   last_score: 2.0
   last_why: Momentum signal
   swing_plan:
-    entry_low: 546.02
-    entry_high: 551.03
-    entry_zone: $546.02 - $551.03
-    stop: 536.63
-    stop_pct: -2.2
-    target: 572.31
-    target_pct: 4.3
+    entry_low: 537.22
+    entry_high: 541.94
+    entry_zone: $537.22 - $541.94
+    stop: 528.36
+    stop_pct: -2.1
+    target: 562.02
+    target_pct: 4.2
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -1506,8 +1482,8 @@
 - ticker: REGN
   idea_id: 23c02e02
   first_seen: '2026-10-14'
-  last_seen: '2026-10-22'
-  last_rank: 24
+  last_seen: '2026-10-23'
+  last_rank: 22
   last_score: 2.4
   last_why: Theme fit signal
   swing_plan: null
@@ -1628,18 +1604,18 @@
 - ticker: SMCI
   idea_id: c3d33ec2
   first_seen: '2026-10-16'
-  last_seen: '2026-10-21'
-  last_rank: 17
-  last_score: 2.44
+  last_seen: '2026-10-23'
+  last_rank: 23
+  last_score: 2.39
   last_why: News / social signal
   swing_plan:
-    entry_low: 34.55
-    entry_high: 36.73
-    entry_zone: $34.55 - $36.73
-    stop: 30.45
+    entry_low: 34.48
+    entry_high: 36.66
+    entry_zone: $34.48 - $36.66
+    stop: 30.38
     stop_pct: -14.6
-    target: 46.02
-    target_pct: 29.1
+    target: 45.95
+    target_pct: 29.2
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -1648,18 +1624,18 @@
 - ticker: WULF
   idea_id: 12af362c
   first_seen: '2026-10-17'
-  last_seen: '2026-10-21'
-  last_rank: 39
-  last_score: 1.41
+  last_seen: '2026-10-23'
+  last_rank: 40
+  last_score: 1.56
   last_why: News / social signal
   swing_plan:
-    entry_low: 12.24
-    entry_high: 13.13
-    entry_zone: $12.24 - $13.13
-    stop: 10.58
-    stop_pct: -16.6
-    target: 16.9
-    target_pct: 33.2
+    entry_low: 12.31
+    entry_high: 13.21
+    entry_zone: $12.31 - $13.21
+    stop: 10.63
+    stop_pct: -16.7
+    target: 17.02
+    target_pct: 33.4
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -1868,8 +1844,8 @@
 - ticker: VRTX
   idea_id: 8e5f936c
   first_seen: '2026-10-20'
-  last_seen: '2026-10-22'
-  last_rank: 23
+  last_seen: '2026-10-23'
+  last_rank: 21
   last_score: 2.4
   last_why: Theme fit signal
   swing_plan: null
@@ -1879,18 +1855,18 @@
 - ticker: MSTR
   idea_id: 784cc106
   first_seen: '2026-10-20'
-  last_seen: '2026-10-22'
-  last_rank: 38
-  last_score: 1.23
+  last_seen: '2026-10-23'
+  last_rank: 39
+  last_score: 1.88
   last_why: News / social signal
   swing_plan:
-    entry_low: 138.83
-    entry_high: 146.61
-    entry_zone: $138.83 - $146.61
-    stop: 124.24
-    stop_pct: -12.9
-    target: 179.68
-    target_pct: 25.9
+    entry_low: 149.47
+    entry_high: 157.49
+    entry_zone: $149.47 - $157.49
+    stop: 134.45
+    stop_pct: -12.4
+    target: 191.54
+    target_pct: 24.8
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -1919,18 +1895,18 @@
 - ticker: MDB
   idea_id: bb8b3ece
   first_seen: '2026-10-21'
-  last_seen: '2026-10-22'
-  last_rank: 37
-  last_score: 1.25
-  last_why: News / social signal
+  last_seen: '2026-10-23'
+  last_rank: 10
+  last_score: 3.48
+  last_why: Momentum & News / social -- 2 signals aligned
   swing_plan:
-    entry_low: 357.7
-    entry_high: 374.66
-    entry_zone: $357.70 - $374.66
-    stop: 325.9
-    stop_pct: -11.0
-    target: 446.74
-    target_pct: 22.0
+    entry_low: 381.84
+    entry_high: 399.66
+    entry_zone: $381.84 - $399.66
+    stop: 348.43
+    stop_pct: -10.8
+    target: 475.39
+    target_pct: 21.7
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -1939,18 +1915,38 @@
 - ticker: XBI
   idea_id: 47e64e8c
   first_seen: '2026-10-22'
-  last_seen: '2026-10-22'
-  last_rank: 25
-  last_score: 2.0
+  last_seen: '2026-10-23'
+  last_rank: 15
+  last_score: 2.5
   last_why: Momentum signal
   swing_plan:
-    entry_low: 148.31
-    entry_high: 152.86
-    entry_zone: $148.31 - $152.86
-    stop: 141.48
+    entry_low: 149.13
+    entry_high: 153.69
+    entry_zone: $149.13 - $153.69
+    stop: 142.28
     stop_pct: -6.0
-    target: 168.8
+    target: 169.67
     target_pct: 12.1
+    reward_risk: 2.0
+    hold_window: 2-3 weeks
+  verdict: open
+  verdict_at: null
+  user_note: null
+- ticker: TSLA
+  idea_id: ebccc602
+  first_seen: '2026-10-23'
+  last_seen: '2026-10-23'
+  last_rank: 9
+  last_score: 3.5
+  last_why: Momentum signal
+  swing_plan:
+    entry_low: 382.75
+    entry_high: 392.68
+    entry_zone: $382.75 - $392.68
+    stop: 364.13
+    stop_pct: -6.1
+    target: 434.89
+    target_pct: 12.2
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
