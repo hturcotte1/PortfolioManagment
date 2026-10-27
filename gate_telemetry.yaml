@@ -1404,13 +1404,13 @@
     outage: 0
     unknown: 1
 - date: '2026-10-27'
-  candidates_evaluated: 7
-  cleared_primary: 1
+  candidates_evaluated: 8
+  cleared_primary: 0
   cleared_insider_promotion: 0
   blocked_by:
     technical: 1
-    sector_momentum: 5
-    news: 0
+    sector_momentum: 6
+    news: 1
     trump: 0
     earnings_window: 0
     correlation_block: 0
@@ -1435,7 +1435,23 @@
     insider_score: 0
     insider_status: zero
     news_status: ok
+  - ticker: RBRK
+    passed:
+    - technical
+    - news
+    failed: sector_momentum
+    insider_score: 0
+    insider_status: zero
+    news_status: ok
   - ticker: TENB
+    passed:
+    - technical
+    - news
+    failed: sector_momentum
+    insider_score: 0
+    insider_status: zero
+    news_status: ok
+  - ticker: TSLA
     passed:
     - technical
     - news
@@ -1452,11 +1468,11 @@
     firings: []
   insider:
     scored: 0
-    zero: 3
+    zero: 6
     unavailable: 0
-    not_evaluated: 4
+    not_evaluated: 2
   news:
-    ok: 6
+    ok: 7
     empty: 0
     outage: 0
     unknown: 1
