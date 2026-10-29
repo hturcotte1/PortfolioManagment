@@ -1,102 +1,321 @@
 {
-  "checked_at": "2026-10-28T23:01:18Z",
+  "checked_at": "2026-10-29T19:37:47Z",
   "alerts": [
     {
+      "severity": "high",
+      "kind": "position_break",
+      "text": "NBIS gapped down -6.8% today"
+    },
+    {
+      "severity": "high",
+      "kind": "position_break",
+      "text": "IREN gapped down -9.7% today"
+    },
+    {
       "severity": "med",
       "kind": "position_break",
-      "text": "FBL lost SMA50 ($27.38) on 1.9x volume"
+      "text": "FBL lost SMA50 ($27.48) on 1.9x volume"
     },
     {
       "severity": "med",
       "kind": "position_break",
-      "text": "META lost SMA50 ($667.03) on 1.6x volume"
-    },
-    {
-      "severity": "low",
-      "kind": "watchlist_entry",
-      "text": "SOFI at $17.14 - within buy zone of yesterday's breakout setup ($16.95)"
-    },
-    {
-      "severity": "low",
-      "kind": "watchlist_entry",
-      "text": "BEAM at $28.78 - within buy zone of yesterday's breakout setup ($27.87)"
-    },
-    {
-      "severity": "low",
-      "kind": "watchlist_entry",
-      "text": "META RSI 31 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "META lost SMA50 ($668.65) on 1.6x volume"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "WDAY in entry zone $202.76-$208.15 (plan: stop $192.64, target $231.08, hold 2-3 weeks)"
+      "text": "TSM in entry zone $421.86-$434.53 (plan: stop $402.86, target $478.86, hold 2-3 weeks)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "BITQ in entry zone $21.20-$22.17 (plan: stop $19.74, target $25.58, hold 2-3 weeks)"
+      "text": "NVDA in entry zone $208.59-$214.53 (plan: stop $199.68, target $235.32, hold 2-3 weeks)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "LMT in entry zone $629.52-$644.78 (plan: stop $600.92, target $709.61, hold 2-3 weeks)"
+      "text": "MU in entry zone $899.88-$948.68 (plan: stop $826.69, target $1119.46, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "CRWD in entry zone $254.00-$264.64 (plan: stop $234.05, target $309.86, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "PANW in entry zone $360.04-$379.61 (plan: stop $330.68, target $448.12, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "ASML in entry zone $1635.74-$1690.23 (plan: stop $1554.02, target $1880.92, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "NET in entry zone $303.56-$322.51 (plan: stop $275.13, target $388.84, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "AAPL in entry zone $348.03-$352.88 (plan: stop $338.93, target $373.50, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "FTNT in entry zone $126.63-$137.12 (plan: stop $110.90, target $173.82, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "AFRM in entry zone $74.26-$77.44 (plan: stop $68.30, target $90.95, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "QLYS in entry zone $221.80-$230.73 (plan: stop $205.06, target $268.67, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "TENB in entry zone $50.29-$52.54 (plan: stop $46.07, target $62.10, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "S in entry zone $24.79-$25.88 (plan: stop $22.74, target $30.53, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "RBRK in entry zone $129.48-$135.55 (plan: stop $118.10, target $161.34, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "ESTC in entry zone $100.61-$104.45 (plan: stop $93.40, target $120.79, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "MA in entry zone $632.48-$641.82 (plan: stop $614.96, target $681.53, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "ARM in entry zone $217.44-$229.26 (plan: stop $195.29, target $279.47, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "QCOM in entry zone $179.25-$183.99 (plan: stop $170.36, target $204.14, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "ROK in entry zone $445.94-$455.17 (plan: stop $428.64, target $494.39, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "PWR in entry zone $628.72-$653.77 (plan: stop $581.77, target $760.20, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "TEM in entry zone $75.01-$79.27 (plan: stop $67.02, target $97.38, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "URI in entry zone $1180.96-$1213.15 (plan: stop $1120.59, target $1349.99, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "LLY in entry zone $1358.79-$1393.95 (plan: stop $1292.87, target $1543.37, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "XLV in entry zone $182.48-$185.00 (plan: stop $177.76, target $195.70, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "WDAY in entry zone $187.64-$195.02 (plan: stop $176.57, target $220.85, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "XLE in entry zone $67.72-$68.86 (plan: stop $65.59, target $73.69, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "LYFT in entry zone $15.85-$16.46 (plan: stop $14.93, target $18.61, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "VRNS in entry zone $48.48-$49.34 (plan: stop $46.87, target $52.99, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "LRCX in entry zone $247.88-$259.76 (plan: stop $225.61, target $310.24, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "KTOS in entry zone $42.92-$44.56 (plan: stop $39.83, target $51.56, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "TOST in entry zone $30.64-$31.83 (plan: stop $28.85, target $36.00, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "NOW in entry zone $103.24-$112.21 (plan: stop $89.78, target $143.61, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "ALAB in entry zone $279.95-$301.51 (plan: stop $247.60, target $376.99, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "ASTS in entry zone $41.44-$44.84 (plan: stop $35.07, target $59.28, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "MSTR in entry zone $137.58-$147.06 (plan: stop $123.36, target $180.24, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "SOFI in entry zone $17.35-$18.01 (plan: stop $16.11, target $20.82, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "NEE in entry zone $81.42-$82.70 (plan: stop $79.03, target $88.12, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "LUNR in entry zone $11.36-$12.05 (plan: stop $10.07, target $14.97, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "LEU in entry zone $105.79-$112.71 (plan: stop $92.83, target $142.09, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "RKLB in entry zone $57.23-$60.43 (plan: stop $51.22, target $74.05, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "CIFR in entry zone $7.99-$8.86 (plan: stop $6.38, target $12.52, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "SMR in entry zone $5.86-$6.20 (plan: stop $5.22, target $7.65, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "ONTO in entry zone $216.84-$228.84 (plan: stop $194.34, target $279.84, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "CCJ in entry zone $82.67-$85.01 (plan: stop $78.30, target $94.92, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "URA in entry zone $35.41-$36.35 (plan: stop $33.67, target $40.30, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "UEC in entry zone $7.87-$8.25 (plan: stop $7.15, target $9.88, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "CMG in entry zone $30.77-$31.66 (plan: stop $29.11, target $35.42, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "KLAC in entry zone $165.43-$171.89 (plan: stop $153.33, target $199.32, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "DASH in entry zone $175.31-$182.77 (plan: stop $161.33, target $214.46, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
-    "NVDA|239.29": "2026-10-28",
-    "ABNB|182.09": "2026-10-28",
-    "MU|1147.29": "2026-10-28",
-    "CRWD|315.1": "2026-10-28",
-    "PANW|469.39": "2026-10-28",
-    "ASML|1865.73": "2026-10-28",
-    "NET|391.62": "2026-10-28",
-    "AAPL|368.85": "2026-10-28",
-    "QLYS|268.67": "2026-10-28",
-    "TENB|57.96": "2026-10-28",
-    "S|30.56": "2026-10-28",
-    "RBRK|164.59": "2026-10-28",
-    "SNOW|408.27": "2026-10-28",
-    "ESTC|123.97": "2026-10-28",
-    "MA|654.45": "2026-10-28",
-    "RXRX|5.77": "2026-10-28",
-    "QCOM|204.14": "2026-10-28",
-    "ORCL|167.4": "2026-10-28",
-    "ROK|489.26": "2026-10-28",
-    "PWR|714.47": "2026-10-28",
-    "ZS|304.0": "2026-10-28",
-    "TEM|97.91": "2026-10-28",
-    "URI|1336.35": "2026-10-28",
-    "SPY|800.66": "2026-10-28",
-    "LLY|1436.54": "2026-10-28",
-    "XLV|191.37": "2026-10-28",
-    "LYFT|18.63": "2026-10-28",
-    "VRNS|55.84": "2026-10-28",
-    "LRCX|310.42": "2026-10-28",
-    "KTOS|48.09": "2026-10-28",
-    "COST|1048.4": "2026-10-28",
-    "SMCI|45.95": "2026-10-28",
-    "RGTI|15.69": "2026-10-28",
-    "ALAB|374.0": "2026-10-28",
-    "BBAI|2.94": "2026-10-28",
-    "ASTS|59.28": "2026-10-28",
-    "MSTR|173.5": "2026-10-28",
-    "BTBT|1.38": "2026-10-28",
-    "MDB|477.29": "2026-10-28",
-    "SOFI|20.09": "2026-10-28",
-    "XLC|110.56": "2026-10-28",
-    "LUNR|14.97": "2026-10-28",
-    "LEU|142.09": "2026-10-28",
-    "RKLB|74.05": "2026-10-28",
-    "CIFR|12.52": "2026-10-28",
-    "SMR|7.22": "2026-10-28",
-    "BEAM|33.35": "2026-10-28",
-    "ONTO|279.84": "2026-10-28",
-    "AVGO|390.94": "2026-10-28",
-    "CCJ|93.62": "2026-10-28",
-    "URA|40.3": "2026-10-28",
-    "UEC|9.88": "2026-10-28",
-    "WDAY|231.08": "2026-10-28",
-    "BITQ|25.58": "2026-10-28",
-    "LMT|709.61": "2026-10-28"
+    "TSM|478.86": "2026-10-29",
+    "NVDA|235.32": "2026-10-29",
+    "MU|1119.46": "2026-10-29",
+    "CRWD|309.86": "2026-10-29",
+    "PANW|448.12": "2026-10-29",
+    "ASML|1880.92": "2026-10-29",
+    "NET|388.84": "2026-10-29",
+    "AAPL|373.5": "2026-10-29",
+    "FTNT|173.82": "2026-10-29",
+    "AFRM|90.95": "2026-10-29",
+    "QLYS|268.67": "2026-10-29",
+    "TENB|62.1": "2026-10-29",
+    "S|30.53": "2026-10-29",
+    "RBRK|161.34": "2026-10-29",
+    "ESTC|120.79": "2026-10-29",
+    "MA|681.53": "2026-10-29",
+    "ARM|279.47": "2026-10-29",
+    "QCOM|204.14": "2026-10-29",
+    "ROK|494.39": "2026-10-29",
+    "PWR|760.2": "2026-10-29",
+    "TEM|97.38": "2026-10-29",
+    "URI|1349.99": "2026-10-29",
+    "LLY|1543.37": "2026-10-29",
+    "XLV|195.7": "2026-10-29",
+    "WDAY|220.85": "2026-10-29",
+    "XLE|73.69": "2026-10-29",
+    "LYFT|18.61": "2026-10-29",
+    "VRNS|52.99": "2026-10-29",
+    "LRCX|310.24": "2026-10-29",
+    "KTOS|51.56": "2026-10-29",
+    "TOST|36.0": "2026-10-29",
+    "NOW|143.61": "2026-10-29",
+    "ALAB|376.99": "2026-10-29",
+    "ASTS|59.28": "2026-10-29",
+    "MSTR|180.24": "2026-10-29",
+    "SOFI|20.82": "2026-10-29",
+    "NEE|88.12": "2026-10-29",
+    "LUNR|14.97": "2026-10-29",
+    "LEU|142.09": "2026-10-29",
+    "RKLB|74.05": "2026-10-29",
+    "CIFR|12.52": "2026-10-29",
+    "SMR|7.65": "2026-10-29",
+    "ONTO|279.84": "2026-10-29",
+    "CCJ|94.92": "2026-10-29",
+    "URA|40.3": "2026-10-29",
+    "UEC|9.88": "2026-10-29",
+    "CMG|35.42": "2026-10-29",
+    "KLAC|199.32": "2026-10-29",
+    "DASH|214.46": "2026-10-29"
   }
 }
