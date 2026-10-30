@@ -1396,37 +1396,21 @@
     outage: 0
     unknown: 3
 - date: '2026-10-30'
-  candidates_evaluated: 12
+  candidates_evaluated: 10
   cleared_primary: 0
   cleared_insider_promotion: 0
   blocked_by:
     technical: 1
-    sector_momentum: 5
-    news: 2
+    sector_momentum: 4
+    news: 1
     trump: 0
-    earnings_window: 3
+    earnings_window: 2
     correlation_block: 0
-    valuation_block: 1
+    valuation_block: 2
     regime: 0
     soft_veto: 0
     trump_block: 0
   near_miss:
-  - ticker: CMG
-    passed:
-    - technical
-    - sector_momentum
-    failed: news
-    insider_score: 0
-    insider_status: zero
-    news_status: ok
-  - ticker: TENB
-    passed:
-    - technical
-    - news
-    failed: sector_momentum
-    insider_score: 0
-    insider_status: zero
-    news_status: ok
   - ticker: TOST
     passed:
     - technical
@@ -1444,11 +1428,11 @@
     firings: []
   insider:
     scored: 0
-    zero: 3
+    zero: 1
     unavailable: 0
     not_evaluated: 9
   news:
-    ok: 11
+    ok: 9
     empty: 0
     outage: 0
     unknown: 1
