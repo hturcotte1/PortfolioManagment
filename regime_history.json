@@ -1,11 +1,5 @@
 [
 {
-"date": "2026-07-07",
-"regime": "chop",
-"confidence": 3,
-"breadth_pct": 52.0
-},
-{
 "date": "2026-07-08",
 "regime": "chop",
 "confidence": 3,
@@ -535,6 +529,12 @@
 },
 {
 "date": "2026-10-30",
+"regime": "risk_off",
+"confidence": 2,
+"breadth_pct": 60.0
+},
+{
+"date": "2026-10-31",
 "regime": "risk_off",
 "confidence": 2,
 "breadth_pct": 60.0
