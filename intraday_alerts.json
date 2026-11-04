@@ -1,45 +1,30 @@
 {
-  "checked_at": "2026-11-03T20:46:08Z",
+  "checked_at": "2026-11-04T01:03:12Z",
   "alerts": [
     {
-      "severity": "med",
-      "kind": "position_break",
-      "text": "FBL lost SMA50 ($27.67) on 1.6x volume"
-    },
-    {
-      "severity": "med",
-      "kind": "position_break",
-      "text": "INTC lost SMA50 ($99.96) on 1.9x volume"
+      "severity": "low",
+      "kind": "watchlist_entry",
+      "text": "ROKU at $160.36 - within buy zone of yesterday's breakout setup ($160.74)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "ROKU at $160.43 - within buy zone of yesterday's breakout setup ($160.74)"
+      "text": "NOW RSI 31 - oversold reversal in progress (from yesterday's bucket)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "FSLR at $187.32 - within buy zone of yesterday's breakout setup ($187.75)"
-    },
-    {
-      "severity": "low",
-      "kind": "watchlist_entry",
-      "text": "TOST at $33.97 - within buy zone of yesterday's breakout setup ($33.78)"
-    },
-    {
-      "severity": "low",
-      "kind": "watchlist_entry",
-      "text": "NOW RSI 30 - oversold reversal in progress (from yesterday's bucket)"
-    },
-    {
-      "severity": "low",
-      "kind": "watchlist_entry",
-      "text": "HOOD RSI 31 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "HOOD RSI 32 - oversold reversal in progress (from yesterday's bucket)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
       "text": "CRWD in entry zone $233.85-$247.54 (plan: stop $213.31, target $295.46, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "PANW in entry zone $349.84-$369.88 (plan: stop $319.79, target $440.00, hold 2-3 weeks)"
     },
     {
       "severity": "med",
@@ -59,17 +44,17 @@
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "OKTA in entry zone $175.21-$189.60 (plan: stop $153.63, target $239.96, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
       "text": "TENB in entry zone $46.34-$48.76 (plan: stop $41.80, target $59.05, hold 2-3 weeks)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
       "text": "S in entry zone $22.15-$23.51 (plan: stop $20.10, target $28.29, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "RTX in entry zone $199.57-$204.05 (plan: stop $191.18, target $223.07, hold 2-3 weeks)"
     },
     {
       "severity": "med",
@@ -109,11 +94,6 @@
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "ROK in entry zone $447.40-$457.48 (plan: stop $428.51, target $500.30, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
       "text": "GEV in entry zone $904.25-$945.98 (plan: stop $826.00, target $1123.35, hold 2-3 weeks)"
     },
     {
@@ -129,17 +109,17 @@
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "TEM in entry zone $78.90-$83.97 (plan: stop $69.40, target $105.50, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
       "text": "CRM in entry zone $221.72-$231.03 (plan: stop $207.74, target $263.64, hold 2-3 weeks)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
       "text": "LLY in entry zone $1406.54-$1445.03 (plan: stop $1334.36, target $1608.63, hold 2-3 weeks)"
+    },
+    {
+      "severity": "med",
+      "kind": "watchlist_entry",
+      "text": "IWM in entry zone $275.86-$279.96 (plan: stop $269.71, target $294.31, hold 2-3 weeks)"
     },
     {
       "severity": "med",
@@ -204,17 +184,7 @@
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "TSLA in entry zone $387.68-$398.19 (plan: stop $367.96, target $442.89, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
       "text": "NEE in entry zone $83.22-$84.53 (plan: stop $80.75, target $90.12, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "PYPL in entry zone $58.35-$59.50 (plan: stop $56.20, target $64.37, hold 2-3 weeks)"
     },
     {
       "severity": "med",
@@ -234,32 +204,12 @@
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "PATH in entry zone $13.18-$13.74 (plan: stop $12.34, target $15.70, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
       "text": "NVO in entry zone $39.77-$40.38 (plan: stop $38.62, target $42.99, hold 2-3 weeks)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
       "text": "FSLR in entry zone $185.56-$191.40 (plan: stop $174.60, target $216.24, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "CLSK in entry zone $7.81-$8.41 (plan: stop $6.68, target $10.97, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MARA in entry zone $6.83-$7.32 (plan: stop $5.92, target $9.39, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "HUT in entry zone $61.14-$66.67 (plan: stop $50.77, target $90.17, hold 2-3 weeks)"
     },
     {
       "severity": "med",
@@ -273,52 +223,46 @@
     }
   ],
   "fired_plans": {
-    "CRWD|295.46": "2026-11-03",
-    "AAPL|359.09": "2026-11-03",
-    "FTNT|166.69": "2026-11-03",
-    "QLYS|257.52": "2026-11-03",
-    "OKTA|239.96": "2026-11-03",
-    "TENB|59.05": "2026-11-03",
-    "S|28.29": "2026-11-03",
-    "MRNA|322.15": "2026-11-03",
-    "ESTC|110.76": "2026-11-03",
-    "MRVL|239.89": "2026-11-03",
-    "RXRX|5.2": "2026-11-03",
-    "TEAM|230.62": "2026-11-03",
-    "AI|14.04": "2026-11-03",
-    "MSFT|568.02": "2026-11-03",
-    "ROK|500.3": "2026-11-03",
-    "GEV|1123.35": "2026-11-03",
-    "SMH|590.21": "2026-11-03",
-    "ROKU|170.96": "2026-11-03",
-    "TEM|105.5": "2026-11-03",
-    "CRM|263.64": "2026-11-03",
-    "LLY|1608.63": "2026-11-03",
-    "XLV|197.03": "2026-11-03",
-    "DKNG|25.33": "2026-11-03",
-    "DIA|538.92": "2026-11-03",
-    "VRNS|50.39": "2026-11-03",
-    "BRK-B|589.69": "2026-11-03",
-    "REGN|1085.91": "2026-11-03",
-    "TOST|38.94": "2026-11-03",
-    "NOW|141.82": "2026-11-03",
-    "WULF|17.2": "2026-11-03",
-    "LMT|720.97": "2026-11-03",
-    "ENPH|38.72": "2026-11-03",
-    "BTBT|1.21": "2026-11-03",
-    "TSLA|442.89": "2026-11-03",
-    "NEE|90.12": "2026-11-03",
-    "PYPL|64.37": "2026-11-03",
-    "LUNR|13.94": "2026-11-03",
-    "CIFR|11.47": "2026-11-03",
-    "RIOT|18.72": "2026-11-03",
-    "PATH|15.7": "2026-11-03",
-    "NVO|42.99": "2026-11-03",
-    "FSLR|216.24": "2026-11-03",
-    "CLSK|10.97": "2026-11-03",
-    "MARA|9.39": "2026-11-03",
-    "HUT|90.17": "2026-11-03",
-    "HOOD|104.61": "2026-11-03",
-    "SOUN|5.1": "2026-11-03"
+    "CRWD|295.46": "2026-11-04",
+    "PANW|440.0": "2026-11-04",
+    "AAPL|359.09": "2026-11-04",
+    "FTNT|166.69": "2026-11-04",
+    "QLYS|257.52": "2026-11-04",
+    "TENB|59.05": "2026-11-04",
+    "S|28.29": "2026-11-04",
+    "RTX|223.07": "2026-11-04",
+    "MRNA|322.15": "2026-11-04",
+    "ESTC|110.76": "2026-11-04",
+    "MRVL|239.89": "2026-11-04",
+    "RXRX|5.2": "2026-11-04",
+    "TEAM|230.62": "2026-11-04",
+    "AI|14.04": "2026-11-04",
+    "MSFT|568.02": "2026-11-04",
+    "GEV|1123.35": "2026-11-04",
+    "SMH|590.21": "2026-11-04",
+    "ROKU|170.96": "2026-11-04",
+    "CRM|263.64": "2026-11-04",
+    "LLY|1608.63": "2026-11-04",
+    "IWM|294.31": "2026-11-04",
+    "XLV|197.03": "2026-11-04",
+    "DKNG|25.33": "2026-11-04",
+    "DIA|538.92": "2026-11-04",
+    "VRNS|50.39": "2026-11-04",
+    "BRK-B|589.69": "2026-11-04",
+    "REGN|1085.91": "2026-11-04",
+    "TOST|38.94": "2026-11-04",
+    "NOW|141.82": "2026-11-04",
+    "WULF|17.2": "2026-11-04",
+    "LMT|720.97": "2026-11-04",
+    "ENPH|38.72": "2026-11-04",
+    "BTBT|1.21": "2026-11-04",
+    "NEE|90.12": "2026-11-04",
+    "LUNR|13.94": "2026-11-04",
+    "CIFR|11.47": "2026-11-04",
+    "RIOT|18.72": "2026-11-04",
+    "NVO|42.99": "2026-11-04",
+    "FSLR|216.24": "2026-11-04",
+    "HOOD|104.61": "2026-11-04",
+    "SOUN|5.1": "2026-11-04"
   }
 }
