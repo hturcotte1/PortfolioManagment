@@ -1420,22 +1420,22 @@
     outage: 0
     unknown: 1
 - date: '2026-11-04'
-  candidates_evaluated: 9
-  cleared_primary: 1
+  candidates_evaluated: 10
+  cleared_primary: 0
   cleared_insider_promotion: 0
   blocked_by:
     technical: 1
-    sector_momentum: 5
+    sector_momentum: 4
     news: 1
     trump: 0
-    earnings_window: 0
+    earnings_window: 2
     correlation_block: 0
     valuation_block: 1
     regime: 0
     soft_veto: 0
-    trump_block: 0
+    trump_block: 1
   near_miss:
-  - ticker: COST
+  - ticker: IREN
     passed:
     - technical
     - news
@@ -1443,15 +1443,7 @@
     insider_score: 0
     insider_status: zero
     news_status: ok
-  - ticker: OKLO
-    passed:
-    - technical
-    - news
-    failed: sector_momentum
-    insider_score: 0
-    insider_status: zero
-    news_status: ok
-  - ticker: PYPL
+  - ticker: UBER
     passed:
     - technical
     - sector_momentum
@@ -1461,24 +1453,24 @@
     news_status: ok
   trump:
     mentions: 1
-    endorsements: 1
-    attacks: 0
+    endorsements: 0
+    attacks: 1
     promotions: 0
-    vetoes: 0
+    vetoes: 1
     firings:
-    - ticker: DASH
-      valence: endorse
-      as_of: '2026-11-03'
-      source: "Trump\u2019s FTC Turns to DoorDash\u2019s Pricing and Dasher Pay After\
-        \ the Instacart Deal"
+    - ticker: FSLR
+      valence: attack
+      as_of: '2026-11-04'
+      source: "First Solar Jumps 9% After Democratic Sweep, but Trump\u2019s Tariffs\
+        \ Already Favor It"
       qualifies: false
   insider:
     scored: 0
-    zero: 3
+    zero: 2
     unavailable: 0
-    not_evaluated: 6
+    not_evaluated: 8
   news:
-    ok: 8
+    ok: 9
     empty: 0
     outage: 0
     unknown: 1
