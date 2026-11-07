@@ -1,200 +1,60 @@
 {
-  "checked_at": "2026-11-06T20:29:40Z",
+  "checked_at": "2026-11-07T00:18:22Z",
   "alerts": [
     {
-      "severity": "med",
-      "kind": "position_break",
-      "text": "NBIS lost SMA50 ($201.70) on 2.0x volume"
+      "severity": "high",
+      "kind": "macro_shock",
+      "text": "VIX at 25.6 (above 25 - elevated fear)"
     },
     {
       "severity": "med",
       "kind": "position_break",
-      "text": "OKLO lost SMA50 ($33.56) on 2.0x volume"
+      "text": "OKLO lost SMA50 ($33.56) on 2.4x volume"
     },
     {
       "severity": "med",
       "kind": "position_break",
-      "text": "IREN lost SMA50 ($35.86) on 2.1x volume"
-    },
-    {
-      "severity": "med",
-      "kind": "position_break",
-      "text": "INTC lost SMA50 ($97.95) on 1.9x volume"
-    },
-    {
-      "severity": "med",
-      "kind": "position_break",
-      "text": "FPS lost SMA50 ($32.43) on 2.3x volume"
-    },
-    {
-      "severity": "med",
-      "kind": "position_break",
-      "text": "AMAT lost SMA50 ($444.83) on 2.1x volume"
+      "text": "IREN lost SMA50 ($35.87) on 1.7x volume"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "ABNB at $191.85 - within buy zone of yesterday's breakout setup ($190.62)"
+      "text": "ABNB at $189.99 - within buy zone of yesterday's breakout setup ($190.62)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "FSLR at $201.76 - within buy zone of yesterday's breakout setup ($199.65)"
+      "text": "FSLR at $201.14 - within buy zone of yesterday's breakout setup ($199.65)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "JOBY at $5.77 - within buy zone of yesterday's breakout setup ($5.63)"
+      "text": "JOBY at $5.93 - within buy zone of yesterday's breakout setup ($5.63)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "PLTR RSI 32 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "PLTR RSI 31 - oversold reversal in progress (from yesterday's bucket)"
     },
     {
       "severity": "low",
       "kind": "watchlist_entry",
-      "text": "QQQ RSI 32 - oversold reversal in progress (from yesterday's bucket)"
+      "text": "QQQ RSI 31 - oversold reversal in progress (from yesterday's bucket)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "ABNB in entry zone $188.62-$193.95 (plan: stop $178.63, target $216.59, hold 2-3 weeks)"
+      "text": "QLYS in entry zone $179.76-$192.09 (plan: stop $161.27, target $235.24, hold 2-3 weeks)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "DDOG in entry zone $173.42-$192.55 (plan: stop $144.73, target $259.50, hold 2-3 weeks)"
+      "text": "SOUN in entry zone $4.02-$4.22 (plan: stop $3.65, target $5.06, hold 2-3 weeks)"
     },
     {
       "severity": "med",
       "kind": "watchlist_entry",
-      "text": "FTNT in entry zone $111.93-$121.99 (plan: stop $96.83, target $157.22, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "V in entry zone $420.76-$428.47 (plan: stop $406.31, target $461.23, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "MRNA in entry zone $251.69-$270.61 (plan: stop $216.21, target $351.03, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "ESTC in entry zone $85.67-$90.68 (plan: stop $78.15, target $108.23, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "VEEV in entry zone $293.89-$303.04 (plan: stop $280.17, target $335.06, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "PLTR in entry zone $152.38-$162.33 (plan: stop $137.45, target $197.17, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "ROKU in entry zone $160.40-$162.65 (plan: stop $156.17, target $172.24, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "ZS in entry zone $189.60-$203.62 (plan: stop $168.57, target $252.69, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "URI in entry zone $1005.21-$1055.07 (plan: stop $930.43, target $1229.56, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "SHOP in entry zone $142.38-$151.46 (plan: stop $128.76, target $183.24, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "XLF in entry zone $57.13-$57.92 (plan: stop $55.63, target $61.32, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "XLV in entry zone $184.13-$187.14 (plan: stop $178.50, target $199.90, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "DIA in entry zone $508.08-$515.47 (plan: stop $496.98, target $541.36, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "REGN in entry zone $895.88-$922.69 (plan: stop $845.62, target $1036.62, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "LMT in entry zone $551.58-$575.25 (plan: stop $516.07, target $658.10, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "VRTX in entry zone $540.82-$556.31 (plan: stop $511.77, target $622.16, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "XBI in entry zone $147.70-$152.89 (plan: stop $139.93, target $171.02, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "PYPL in entry zone $59.03-$60.34 (plan: stop $56.58, target $65.90, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "LEU in entry zone $101.25-$108.00 (plan: stop $88.60, target $136.68, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "SMR in entry zone $4.76-$5.12 (plan: stop $4.09, target $6.64, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "NVO in entry zone $39.77-$40.38 (plan: stop $38.62, target $42.99, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "FSLR in entry zone $196.52-$204.89 (plan: stop $180.82, target $240.47, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "XLK in entry zone $159.84-$165.38 (plan: stop $151.54, target $184.75, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "JOBY in entry zone $5.53-$5.79 (plan: stop $5.04, target $6.90, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "QBTS in entry zone $10.09-$10.74 (plan: stop $8.86, target $13.52, hold 2-3 weeks)"
-    },
-    {
-      "severity": "med",
-      "kind": "watchlist_entry",
-      "text": "NNE in entry zone $10.41-$11.17 (plan: stop $8.97, target $14.43, hold 2-3 weeks)"
+      "text": "RGTI in entry zone $11.03-$11.75 (plan: stop $9.69, target $14.79, hold 2-3 weeks)"
     }
   ],
   "fired_plans": {
@@ -247,6 +107,9 @@
     "XLK|184.75": "2026-11-06",
     "JOBY|6.9": "2026-11-06",
     "QBTS|13.52": "2026-11-06",
-    "NNE|14.43": "2026-11-06"
+    "NNE|14.43": "2026-11-06",
+    "QLYS|235.24": "2026-11-06",
+    "SOUN|5.06": "2026-11-06",
+    "RGTI|14.79": "2026-11-06"
   }
 }
