@@ -19,7 +19,7 @@
 <body class="min-h-screen">
   <nav class="px-6 py-3 border-b border-[#1f2a44] flex items-center gap-4">
     <a href="index.html" class="text-sm font-semibold text-slate-200">Portfolio Advisor</a>
-    <div class="ml-auto text-[10px] text-slate-500">2026-11-07 03:05 UTC</div>
+    <div class="ml-auto text-[10px] text-slate-500">2026-11-09 21:49 UTC</div>
   </nav>
   <main class="p-6 max-w-7xl mx-auto">
     
@@ -29,7 +29,7 @@
 <div class="max-w-3xl mx-auto">
 
 <div class="flex items-center justify-between mb-3">
-  <div class="text-xs text-slate-500">2026-11-07</div>
+  <div class="text-xs text-slate-500">2026-11-09</div>
   
   
   
@@ -47,10 +47,10 @@
     <div class="text-sm">
       <span class="text-slate-400 uppercase tracking-widest text-xs">Market Regime</span>
       <span class="font-bold text-amber-300 ml-2">RISK-OFF</span>
-      <span class="text-xs text-slate-500 ml-1">confidence 3/3</span>
+      <span class="text-xs text-slate-500 ml-1">confidence 2/3</span>
     </div>
   </div>
-  <div class="text-xs text-slate-400 mt-1">Risk-off - below the 50-day, vol elevated (VIX 25.6, breadth 56%) [confidence 3/3]</div>
+  <div class="text-xs text-slate-400 mt-1">Risk-off - below the 50-day, vol elevated (VIX 20.0, breadth 60%) [confidence 2/3]</div>
   
   <details class="mt-2 text-xs">
     <summary class="cursor-pointer text-slate-500 hover:text-slate-300 select-none">Regime factors</summary>
@@ -62,18 +62,18 @@
       
       <li>spy stacked up: <span class="text-slate-300">False</span></li>
       
-      <li>vix level: <span class="text-slate-300">25.639999389648438</span></li>
+      <li>vix level: <span class="text-slate-300">19.979999542236328</span></li>
       
-      <li>vix change 5d pct: <span class="text-slate-300">32.028832589693266</span></li>
+      <li>vix change 5d pct: <span class="text-slate-300">-5.531915354120699</span></li>
       
       <li>hyg ief trend: <span class="text-slate-300">falling</span></li>
       
-      <li>breadth pct: <span class="text-slate-300">56.0</span></li>
+      <li>breadth pct: <span class="text-slate-300">60.0</span></li>
       
       <li>spy range bound 10d: <span class="text-slate-300">True</span></li>
       
       
-      <li>regime scores: <span class="text-slate-300">{&#39;risk_on&#39;: 0.0, &#39;risk_off&#39;: 1.0, &#39;chop&#39;: 0.5, &#39;breakdown&#39;: 0.5}</span></li>
+      <li>regime scores: <span class="text-slate-300">{&#39;risk_on&#39;: 0.0, &#39;risk_off&#39;: 0.67, &#39;chop&#39;: 0.5, &#39;breakdown&#39;: 0.25}</span></li>
       
     </ul>
   </details>
@@ -86,7 +86,7 @@
 
   <div class="card rounded-lg p-10 mb-4 text-center">
     <div class="text-5xl font-bold text-slate-300 mb-3">No trade today</div>
-    <div class="text-sm text-slate-400 max-w-xl mx-auto">Macro is risk-off (high VIX or broken trend). Wait.</div>
+    <div class="text-sm text-slate-400 max-w-xl mx-auto">No setup meets the conviction bar.</div>
   </div>
   
   
@@ -94,21 +94,25 @@
   <div class="text-xs text-slate-500 text-center mb-4 space-y-0.5">
     <div class="uppercase tracking-widest text-[10px] text-slate-600">Gate status</div>
     
-    <div>Evaluated 0 candidates. None reached 2-of-3.</div>
+    
+    <div>Evaluated 8 candidates today. Closest miss:
+      <span class="text-slate-400 font-semibold">ACHR</span>
+      (passed technical + news, failed sector momentum,
+      insider score 0).</div>
     
     
     
     
     
     
-    <div>30-day: 6 cleared, 58 reached 2-of-3, top blocker = sector momentum (62.9%).</div>
+    <div>30-day: 5 cleared, 59 reached 2-of-3, top blocker = sector momentum (62.2%).</div>
     
   </div>
   
 
 
 
-<div class="text-center text-xs text-slate-400 mb-4">SPX +0.31%, VIX 25.6, Tech leads +1.5%.</div>
+<div class="text-center text-xs text-slate-400 mb-4">SPX +2.35%, VIX 20.0, Industrials leads +3.8%.</div>
 
 
 
@@ -119,15 +123,15 @@
   <div class="text-xs text-slate-400 uppercase tracking-widest mb-2">Watching</div>
   <ul class="text-sm space-y-1">
   
+    <li class="text-slate-300">- ACHR - watching for clean breakout</li>
+  
     <li class="text-slate-300">- ABNB - watching for clean breakout</li>
   
-    <li class="text-slate-300">- JOBY - watching for clean breakout</li>
+    <li class="text-slate-300">- MSFT - watching for pullback entry</li>
   
-    <li class="text-slate-300">- XLF - watching for pullback entry</li>
+    <li class="text-slate-300">- FTNT - watching for reversal confirmation</li>
   
-    <li class="text-slate-300">- XLK - watching for reversal confirmation</li>
-  
-    <li class="text-slate-300">- PLTR - watching for reversal confirmation</li>
+    <li class="text-slate-300">- DXCM - watching SMA50 hold</li>
   
   </ul>
 </div>
@@ -155,56 +159,56 @@
   
     <div class="border-l-2 border-l-slate-700 pl-3">
       <div class="flex items-baseline gap-2 flex-wrap">
-        <a href="ticker/URI.html" class="text-sm font-semibold text-slate-300 tlink">URI</a>
-        <span class="text-[11px] text-slate-500">Pullback + theme fit -- 2 independent signals</span>
-      </div>
-      
-      
-      <div class="grid grid-cols-4 gap-1 text-[11px] mt-1 mb-1">
-        <div><div class="text-slate-600">Entry</div><div class="text-slate-400">$1015.68 - $1065.54</div></div>
-        <div><div class="text-slate-600">Stop</div><div class="text-slate-400">$940.89</div></div>
-        <div><div class="text-slate-600">Target</div><div class="text-slate-400">$1240.05</div></div>
-        <div><div class="text-slate-600">Hold</div><div class="text-slate-400">2-3 weeks</div></div>
-      </div>
-      
-      <a class="text-[11px] text-sky-500/70 hover:underline" target="_blank" rel="noopener"
-         href="https://github.com/hturcotte1/PortfolioManagment/issues/new?template=idea-action.yml&amp;title=Idea+URI&amp;ticker=URI">Give a verdict &rarr;</a>
-    </div>
-  
-    <div class="border-l-2 border-l-slate-700 pl-3">
-      <div class="flex items-baseline gap-2 flex-wrap">
-        <a href="ticker/LEU.html" class="text-sm font-semibold text-slate-300 tlink">LEU</a>
+        <a href="ticker/NNE.html" class="text-sm font-semibold text-slate-300 tlink">NNE</a>
         <span class="text-[11px] text-slate-500">Momentum + news -- 2 independent signals</span>
       </div>
       
       
       <div class="grid grid-cols-4 gap-1 text-[11px] mt-1 mb-1">
-        <div><div class="text-slate-600">Entry</div><div class="text-slate-400">$101.20 - $108.00</div></div>
-        <div><div class="text-slate-600">Stop</div><div class="text-slate-400">$88.45</div></div>
-        <div><div class="text-slate-600">Target</div><div class="text-slate-400">$136.90</div></div>
+        <div><div class="text-slate-600">Entry</div><div class="text-slate-400">$12.05 - $12.91</div></div>
+        <div><div class="text-slate-600">Stop</div><div class="text-slate-400">$10.46</div></div>
+        <div><div class="text-slate-600">Target</div><div class="text-slate-400">$16.52</div></div>
         <div><div class="text-slate-600">Hold</div><div class="text-slate-400">2-3 weeks</div></div>
       </div>
       
       <a class="text-[11px] text-sky-500/70 hover:underline" target="_blank" rel="noopener"
-         href="https://github.com/hturcotte1/PortfolioManagment/issues/new?template=idea-action.yml&amp;title=Idea+LEU&amp;ticker=LEU">Give a verdict &rarr;</a>
+         href="https://github.com/hturcotte1/PortfolioManagment/issues/new?template=idea-action.yml&amp;title=Idea+NNE&amp;ticker=NNE">Give a verdict &rarr;</a>
     </div>
   
     <div class="border-l-2 border-l-slate-700 pl-3">
       <div class="flex items-baseline gap-2 flex-wrap">
-        <a href="ticker/CIFR.html" class="text-sm font-semibold text-slate-300 tlink">CIFR</a>
-        <span class="text-[11px] text-slate-500">Momentum + news -- 2 independent signals</span>
+        <a href="ticker/V.html" class="text-sm font-semibold text-slate-300 tlink">V</a>
+        <span class="text-[11px] text-slate-500">Momentum + theme fit -- 2 independent signals</span>
       </div>
       
       
       <div class="grid grid-cols-4 gap-1 text-[11px] mt-1 mb-1">
-        <div><div class="text-slate-600">Entry</div><div class="text-slate-400">$6.13 - $6.96</div></div>
-        <div><div class="text-slate-600">Stop</div><div class="text-slate-400">$4.59</div></div>
-        <div><div class="text-slate-600">Target</div><div class="text-slate-400">$10.46</div></div>
+        <div><div class="text-slate-600">Entry</div><div class="text-slate-400">$419.20 - $427.10</div></div>
+        <div><div class="text-slate-600">Stop</div><div class="text-slate-400">$404.38</div></div>
+        <div><div class="text-slate-600">Target</div><div class="text-slate-400">$460.69</div></div>
         <div><div class="text-slate-600">Hold</div><div class="text-slate-400">2-3 weeks</div></div>
       </div>
       
       <a class="text-[11px] text-sky-500/70 hover:underline" target="_blank" rel="noopener"
-         href="https://github.com/hturcotte1/PortfolioManagment/issues/new?template=idea-action.yml&amp;title=Idea+CIFR&amp;ticker=CIFR">Give a verdict &rarr;</a>
+         href="https://github.com/hturcotte1/PortfolioManagment/issues/new?template=idea-action.yml&amp;title=Idea+V&amp;ticker=V">Give a verdict &rarr;</a>
+    </div>
+  
+    <div class="border-l-2 border-l-slate-700 pl-3">
+      <div class="flex items-baseline gap-2 flex-wrap">
+        <a href="ticker/TOST.html" class="text-sm font-semibold text-slate-300 tlink">TOST</a>
+        <span class="text-[11px] text-slate-500">Momentum + theme fit -- 2 independent signals</span>
+      </div>
+      
+      
+      <div class="grid grid-cols-4 gap-1 text-[11px] mt-1 mb-1">
+        <div><div class="text-slate-600">Entry</div><div class="text-slate-400">$34.35 - $35.48</div></div>
+        <div><div class="text-slate-600">Stop</div><div class="text-slate-400">$32.24</div></div>
+        <div><div class="text-slate-600">Target</div><div class="text-slate-400">$40.26</div></div>
+        <div><div class="text-slate-600">Hold</div><div class="text-slate-400">2-3 weeks</div></div>
+      </div>
+      
+      <a class="text-[11px] text-sky-500/70 hover:underline" target="_blank" rel="noopener"
+         href="https://github.com/hturcotte1/PortfolioManagment/issues/new?template=idea-action.yml&amp;title=Idea+TOST&amp;ticker=TOST">Give a verdict &rarr;</a>
     </div>
   
   </div>
