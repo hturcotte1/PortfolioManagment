@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09 21:49 UTC",
+  "generated_at": "2026-11-10 04:31 UTC",
   "diagnostics": {
     "stooq": "no data",
     "yahoo_chart": "ok (251 rows, last close $641.37)",
@@ -43,7 +43,7 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 2184,
+      "prompt_chars": 2204,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -52,7 +52,7 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 1646,
+      "prompt_chars": 1557,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -61,7 +61,7 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 2173,
+      "prompt_chars": 2150,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -70,7 +70,7 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 2461,
+      "prompt_chars": 2402,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -79,7 +79,7 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 2201,
+      "prompt_chars": 2202,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -88,7 +88,7 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 2388,
+      "prompt_chars": 2465,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -97,7 +97,7 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 2213,
+      "prompt_chars": 2179,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -106,7 +106,7 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 2176,
+      "prompt_chars": 2165,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -115,7 +115,7 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 2249,
+      "prompt_chars": 2192,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -124,7 +124,7 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 2400,
+      "prompt_chars": 2266,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -133,7 +133,7 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 2321,
+      "prompt_chars": 2229,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -142,7 +142,25 @@
     {
       "model": "openai/gpt-4o-mini",
       "tag": "news_classify",
-      "prompt_chars": 2335,
+      "prompt_chars": 2408,
+      "status": 200,
+      "kind": "parse_error",
+      "msg": "Expecting value: line 1 column 1 (char 0)",
+      "body": "OK\r\n"
+    },
+    {
+      "model": "openai/gpt-4o-mini",
+      "tag": "news_classify",
+      "prompt_chars": 2232,
+      "status": 200,
+      "kind": "parse_error",
+      "msg": "Expecting value: line 1 column 1 (char 0)",
+      "body": "OK\r\n"
+    },
+    {
+      "model": "openai/gpt-4o-mini",
+      "tag": "news_classify",
+      "prompt_chars": 2579,
       "status": 200,
       "kind": "parse_error",
       "msg": "Expecting value: line 1 column 1 (char 0)",
@@ -177,19 +195,19 @@
       },
       "VIX": {
         "ticker": "^VIX",
-        "price": 19.979999542236328,
-        "day_change_pct": -22.074882925688385,
+        "price": 19.920000076293945,
+        "day_change_pct": -22.308890208725245,
         "high_52w": 31.049999237060547,
         "low_52w": 13.470000267028809,
-        "pct_off_52w_high": -35.65217380621166
+        "pct_off_52w_high": -35.845408805943215
       },
       "DXY": {
         "ticker": "DX-Y.NYB",
-        "price": 101.6760025024414,
-        "day_change_pct": -0.6099711932566595,
+        "price": 101.66500091552734,
+        "day_change_pct": 0.014755916796143706,
         "high_52w": 102.58000183105469,
         "low_52w": 96.22000122070312,
-        "pct_off_52w_high": -0.8812627339411958
+        "pct_off_52w_high": -0.8919876186338103
       },
       "TNX": {
         "ticker": "^TNX",
@@ -396,35 +414,49 @@
       "spy_above_sma50": false,
       "spy_above_sma200": true,
       "spy_stacked_up": false,
-      "vix_level": 19.979999542236328,
-      "vix_change_5d_pct": -5.531915354120699,
+      "vix_level": 19.920000076293945,
+      "vix_change_5d_pct": -5.815600777404655,
       "hyg_ief_trend": "falling",
       "breadth_pct": 60.0,
       "spy_range_bound_10d": true
     },
-    "summary": "Risk-off - below the 50-day, vol elevated (VIX 20.0, breadth 60%) [confidence 2/3]"
+    "summary": "Risk-off - below the 50-day, vol elevated (VIX 19.9, breadth 60%) [confidence 2/3]"
   },
   "headlines": [
     {
       "source": "CNBC",
       "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
       "url": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
-      "published": "Mon, 09 Nov 2026 21:04:50 GMT",
+      "published": "Mon, 09 Nov 2026 22:56:39 GMT",
       "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet."
+    },
+    {
+      "source": "CNBC",
+      "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+      "url": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+      "published": "Tue, 10 Nov 2026 01:43:47 GMT",
+      "summary": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy."
     },
     {
       "source": "CNBC",
       "title": "Hegseth impeachment articles introduced by Rep. Massie",
       "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-      "published": "Mon, 09 Nov 2026 21:15:56 GMT",
+      "published": "Mon, 09 Nov 2026 22:41:12 GMT",
       "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth filed by Republican Rep. Thomas Masie."
     },
     {
       "source": "CNBC",
-      "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-      "url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-      "published": "Mon, 09 Nov 2026 20:41:38 GMT",
-      "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market."
+      "title": "China exports, imports soar past expectations in October \u2014 surplus narrows sharply",
+      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+      "published": "Tue, 10 Nov 2026 03:56:15 GMT",
+      "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September."
+    },
+    {
+      "source": "CNBC",
+      "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
+      "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+      "published": "Tue, 10 Nov 2026 03:58:46 GMT",
+      "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off."
     },
     {
       "source": "CNBC",
@@ -432,20 +464,6 @@
       "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
       "published": "Mon, 09 Nov 2026 21:03:55 GMT",
       "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%."
-    },
-    {
-      "source": "CNBC",
-      "title": "Children\u2019s Place files for bankruptcy protection, seeks buyer",
-      "url": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
-      "published": "Mon, 09 Nov 2026 20:57:46 GMT",
-      "summary": "The Children's Place has filed for chapter 11 bankruptcy protection and is seeking bids from potential new owners by Dec. 9."
-    },
-    {
-      "source": "CNBC",
-      "title": "Lucid misses Wall Street\u2019s earnings expectations, expands loan from Saudi Arabia fund",
-      "url": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
-      "published": "Mon, 09 Nov 2026 21:27:54 GMT",
-      "summary": "The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan."
     },
     {
       "source": "CNBC markets",
@@ -491,86 +509,86 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-      "url": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 21:24:00 GMT",
-      "summary": "Tuesday\u2019s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade\u2019s resilience"
+      "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
+      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "published": "Tue, 10 Nov 2026 03:38:00 GMT",
+      "summary": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d"
     },
     {
       "source": "MarketWatch",
-      "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-      "url": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 21:21:00 GMT",
-      "summary": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels."
+      "title": "The short seller who saw signs of Nvidia\u2019s China scandal months ago claims Megaspeed isn\u2019t the only company helping China access chips",
+      "url": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+      "published": "Tue, 10 Nov 2026 00:48:00 GMT",
+      "summary": "\u2018We were confident in the research initially, and we\u2019re still confident in it now,\u2019 says Christian Lamarco, founder of Culper Research"
     },
     {
       "source": "MarketWatch",
-      "title": "Why prediction markets and Wall Street pros so often fail to see what\u2019s coming",
-      "url": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 21:14:00 GMT",
-      "summary": "The probabilities make it almost certain that macro forecasts will be wrong far more often than right."
+      "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 23:52:00 GMT",
+      "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful podcaster at 72."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 53 and not sure how to handle merging finances with my long-term partner.",
-      "url": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 21:02:00 GMT",
-      "summary": "The \u2018split\u2019 you discuss should be more about estate planning than contemplating a future divorce"
+      "title": "Rocket Lab shares dip after the company\u2019s \u2018defining\u2019 quarter misses the mark",
+      "url": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 22:49:00 GMT",
+      "summary": "The rocket-launch company just posted a steeper loss than analysts were expecting."
     },
     {
       "source": "MarketWatch",
-      "title": "Hot U.S. inflation hasn\u2019t cooled off. Rising consumer prices to keep Fed rate hike on track.",
-      "url": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 21:01:00 GMT",
-      "summary": "Rising prices point to the Fed increasing borrowing costs before Christmas."
+      "title": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
+      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 22:49:00 GMT",
+      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes"
     },
     {
       "source": "MarketWatch",
-      "title": "Analysts say these chip stocks are bargains. Is it time to buy?",
-      "url": "https://www.marketwatch.com/story/analysts-say-these-chip-stocks-are-bargains-is-it-time-to-buy-fb5fdde8?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 20:48:00 GMT",
-      "summary": "While some analysts view the steep drop in names like Nvidia, Micron and Sandisk as an overreaction, others are staying cautious."
+      "title": "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Huang scandal",
+      "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 21:55:00 GMT",
+      "summary": "The fallout from the board\u2019s new investigation could become \u201ca longer-lasting problem for the company,\u201d analysts say."
     },
     {
       "source": "Seeking Alpha",
-      "title": "Rackspace Technology Non-GAAP EPS of -$0.06 beats by $0.02, revenue of $609M beats by $35.05M",
-      "url": "https://seekingalpha.com/news/4669309-rackspace-technology-non-gaap-eps-of-0_06-beats-by-0_02-revenue-of-609m-beats-by-35_05m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "published": "Mon, 09 Nov 2026 16:25:29 -0500",
+      "title": "YieldMax MSTR Performance & Distribution Tg 25 ETF declares $0.1268 dividend",
+      "url": "https://seekingalpha.com/news/4669468-yieldmax-mstr-performance-and-distribution-tg-25-etf-declares-0_1268-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "published": "Mon, 09 Nov 2026 23:05:16 -0500",
       "summary": ""
     },
     {
       "source": "Seeking Alpha",
-      "title": "Senseonics GAAP EPS of -$0.50 beats by $0.02, revenue of $19.6M beats by $3.4M",
-      "url": "https://seekingalpha.com/news/4669307-senseonics-gaap-eps-of-0_50-beats-by-0_02-revenue-of-19_6m-beats-by-3_4m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "published": "Mon, 09 Nov 2026 16:25:01 -0500",
+      "title": "YieldMax NVDA Performance & Distribution Target 25 ETF declares $0.2042 dividend",
+      "url": "https://seekingalpha.com/news/4669467-yieldmax-nvda-performance-and-distribution-target-25-etf-declares-0_2042-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "published": "Mon, 09 Nov 2026 23:04:29 -0500",
       "summary": ""
     },
     {
       "source": "Seeking Alpha",
-      "title": "Applied Materials climbs 11% amid broad market rally",
-      "url": "https://seekingalpha.com/news/4669275-applied-materials-climbs-11-amid-broad-market-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "published": "Mon, 09 Nov 2026 16:24:49 -0500",
+      "title": "YieldMax TSLA Performance & Distribution Target 25 ETF declares $0.1739 dividend",
+      "url": "https://seekingalpha.com/news/4669466-yieldmax-tsla-performance-and-distribution-target-25-etf-declares-0_1739-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "published": "Mon, 09 Nov 2026 23:03:25 -0500",
       "summary": ""
     },
     {
       "source": "Seeking Alpha",
-      "title": "Gladstone Investment Non-GAAP NII of $0.18 misses by $0.02",
-      "url": "https://seekingalpha.com/news/4669304-gladstone-investment-non-gaap-nii-of-018-misses-by-002?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "published": "Mon, 09 Nov 2026 16:24:35 -0500",
+      "title": "Skydance targets $6B run-rate synergies in 3 years while outlining $10B free cash flow goal for 2030",
+      "url": "https://seekingalpha.com/news/4669465-skydance-targets-6b-run-rate-synergies-in-3-years-while-outlining-10b-free-cash-flow-goal-for?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "published": "Mon, 09 Nov 2026 23:02:05 -0500",
       "summary": ""
     },
     {
       "source": "Seeking Alpha",
-      "title": "Take-Two says preorders for GTA 6 are at 'unprecedented' levels",
-      "url": "https://seekingalpha.com/news/4669187-take-two-says-preorders-for-gta-6-are-at-unprecedented-levels?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "published": "Mon, 09 Nov 2026 16:24:19 -0500",
+      "title": "Trump Media outlines plan to close TAE merger by end of 2026 while keeping equity issuance off the table",
+      "url": "https://seekingalpha.com/news/4669464-trump-media-outlines-plan-to-close-tae-merger-by-end-of-2026-while-keeping-equity-issuance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "published": "Mon, 09 Nov 2026 23:01:54 -0500",
       "summary": ""
     },
     {
       "source": "Seeking Alpha",
-      "title": "Charles Schwab lowers account minimums for IPO shares - WSJ",
-      "url": "https://seekingalpha.com/news/4669276-charles-schwab-lowers-account-minimums-for-ipo-shares-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "published": "Mon, 09 Nov 2026 16:23:48 -0500",
+      "title": "WhiteHorse Finance declares $0.25 dividend",
+      "url": "https://seekingalpha.com/news/4669463-whitehorse-finance-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "published": "Mon, 09 Nov 2026 22:59:03 -0500",
       "summary": ""
     }
   ],
@@ -600,14 +618,14 @@
           "bb_lower": 3.661470538931474,
           "atr14": 0.32892864091055735,
           "atr_pct": 6.838433364314767,
-          "vol_ratio_20d": 1.7349594040230891,
+          "vol_ratio_20d": 1.7764224330530636,
           "high_52w": 9.010000228881836,
           "pct_off_52w_high": -46.61487435526431,
           "stacked_uptrend": false,
           "stacked_downtrend": false,
           "breakout_20d": true,
           "held": false,
-          "score": 2.5625042509594724,
+          "score": 2.6039672799894467,
           "trump_signal_result": {
             "mention": false,
             "valence": "none",
@@ -641,14 +659,14 @@
           "bb_lower": 158.615417736733,
           "atr14": 6.961640494210379,
           "atr_pct": 3.658437511079413,
-          "vol_ratio_20d": 1.3125562209151393,
+          "vol_ratio_20d": 1.321908902477639,
           "high_52w": 190.5,
           "pct_off_52w_high": -0.11023974481217191,
           "stacked_uptrend": true,
           "stacked_downtrend": false,
           "breakout_20d": true,
           "held": false,
-          "score": 1.9849141363970015,
+          "score": 1.9942668179595011,
           "trump_signal_result": {
             "mention": false,
             "valence": "none",
@@ -682,14 +700,14 @@
           "bb_lower": 4.122591423513229,
           "atr14": 0.3618570736476353,
           "atr_pct": 5.855292616487237,
-          "vol_ratio_20d": 1.3288757433493554,
+          "vol_ratio_20d": 1.3364957200481855,
           "high_52w": 16.350000381469727,
           "pct_off_52w_high": -62.201836794189155,
           "stacked_uptrend": false,
           "stacked_downtrend": false,
           "breakout_20d": true,
           "held": false,
-          "score": 1.9526157748625366
+          "score": 1.9602357515613666
         }
       ],
       "momentum_continuation": [
@@ -715,7 +733,7 @@
           "bb_lower": 511.2007762257997,
           "atr14": 16.540010724748885,
           "atr_pct": 3.0338623843419796,
-          "vol_ratio_20d": 0.971560909310656,
+          "vol_ratio_20d": 0.9746391762904946,
           "high_52w": 555.7999877929688,
           "pct_off_52w_high": -1.9107584293692657,
           "stacked_uptrend": true,
@@ -744,9 +762,9 @@
           "bb_pct": 0.909219043146488,
           "bb_upper": 269.65451329399025,
           "bb_lower": 239.64248530220115,
-          "atr14": 10.554995945521764,
-          "atr_pct": 3.954218797114374,
-          "vol_ratio_20d": 1.0167605120485552,
+          "atr14": 10.55713871547154,
+          "atr_pct": 3.9550215431558717,
+          "vol_ratio_20d": 1.0354327739642204,
           "high_52w": 284.0199890136719,
           "pct_off_52w_high": -6.017180831968824,
           "stacked_uptrend": true,
@@ -775,9 +793,9 @@
           "bb_pct": 0.7913305362333581,
           "bb_upper": 568.2204003414877,
           "bb_lower": 485.07260808136385,
-          "atr14": 19.64640372140067,
-          "atr_pct": 3.566431988589478,
-          "vol_ratio_20d": 0.7166960323016764,
+          "atr14": 19.64642116001674,
+          "atr_pct": 3.5664351542394903,
+          "vol_ratio_20d": 0.7170886225563199,
           "high_52w": 558.8800048828125,
           "pct_off_52w_high": -1.4332253248717604,
           "stacked_uptrend": true,
@@ -808,7 +826,7 @@
           "bb_lower": 54.05339121299867,
           "atr14": 1.013571330479213,
           "atr_pct": 1.74783807750014,
-          "vol_ratio_20d": 0.9937103719192534,
+          "vol_ratio_20d": 0.9983997407731086,
           "high_52w": 59.20000076293945,
           "pct_off_52w_high": -2.0439173460790614,
           "stacked_uptrend": true,
@@ -839,7 +857,7 @@
           "bb_lower": 387.53214854434924,
           "atr14": 9.882145472935267,
           "atr_pct": 2.3408530858467564,
-          "vol_ratio_20d": 0.8993808030597785,
+          "vol_ratio_20d": 0.9042314293505286,
           "high_52w": 436.57000732421875,
           "pct_off_52w_high": -3.3007314795695035,
           "stacked_uptrend": true,
@@ -870,7 +888,7 @@
           "bb_lower": 29.70225801736464,
           "atr14": 1.4099998474121094,
           "atr_pct": 4.055219525018083,
-          "vol_ratio_20d": 1.0075898619512866,
+          "vol_ratio_20d": 1.007669746357436,
           "high_52w": 38.34000015258789,
           "pct_off_52w_high": -9.311423267126015,
           "stacked_uptrend": true,
@@ -901,7 +919,7 @@
           "bb_lower": 54.65088384513342,
           "atr14": 1.6610712323869978,
           "atr_pct": 2.7661469666794747,
-          "vol_ratio_20d": 0.9982197587243762,
+          "vol_ratio_20d": 0.9988401121154014,
           "high_52w": 67.4000015258789,
           "pct_off_52w_high": -10.905047659377653,
           "stacked_uptrend": true,
@@ -932,7 +950,7 @@
           "bb_lower": 589.354918940279,
           "atr14": 16.367139543805802,
           "atr_pct": 2.495713637293776,
-          "vol_ratio_20d": 0.8198333372527028,
+          "vol_ratio_20d": 0.8202865116901846,
           "high_52w": 672.6799926757812,
           "pct_off_52w_high": -2.507878233464647,
           "stacked_uptrend": true,
@@ -965,7 +983,7 @@
           "bb_lower": 105.6916372121551,
           "atr14": 10.026428767613002,
           "atr_pct": 8.186844670266948,
-          "vol_ratio_20d": 0.8442022690573677,
+          "vol_ratio_20d": 0.8554020669841977,
           "high_52w": 194.75,
           "pct_off_52w_high": -37.114248410422015,
           "stacked_uptrend": false,
@@ -998,7 +1016,7 @@
           "bb_lower": 75.64170662441525,
           "atr14": 3.527857644217355,
           "atr_pct": 4.351619165532802,
-          "vol_ratio_20d": 0.7868516584798555,
+          "vol_ratio_20d": 0.8006790017346189,
           "high_52w": 92.33999633789062,
           "pct_off_52w_high": -12.204891802060747,
           "stacked_uptrend": false,
@@ -1029,7 +1047,7 @@
           "bb_lower": 158.1638428656971,
           "atr14": 9.601429530552455,
           "atr_pct": 5.599480645127089,
-          "vol_ratio_20d": 1.1775884568140795,
+          "vol_ratio_20d": 1.179802178314329,
           "high_52w": 251.02000427246094,
           "pct_off_52w_high": -31.69070261245515,
           "stacked_uptrend": false,
@@ -1058,9 +1076,9 @@
           "bb_pct": 0.28905921102831117,
           "bb_upper": 108.93838028724821,
           "bb_lower": 82.66561827842563,
-          "atr14": 4.891071319580078,
-          "atr_pct": 5.418869049213989,
-          "vol_ratio_20d": 0.8624960052655976,
+          "atr14": 4.890714372907366,
+          "atr_pct": 5.418473584263553,
+          "vol_ratio_20d": 0.8624848297119295,
           "high_52w": 106.58000183105469,
           "pct_off_52w_high": -15.312440809199712,
           "stacked_uptrend": false,
@@ -1089,9 +1107,9 @@
           "bb_pct": 0.19303988598747807,
           "bb_upper": 212.9418868242494,
           "bb_lower": 184.77211769235217,
-          "atr14": 7.69035884312221,
-          "atr_pct": 4.043088466260776,
-          "vol_ratio_20d": 0.6879158349214083,
+          "atr14": 7.700001307896206,
+          "atr_pct": 4.04815784454459,
+          "vol_ratio_20d": 0.6891103781760421,
           "high_52w": 233.69000244140625,
           "pct_off_52w_high": -18.605843328039214,
           "stacked_uptrend": false,
@@ -1120,9 +1138,9 @@
           "bb_pct": 0.13343951904346815,
           "bb_upper": 268.0330819173147,
           "bb_lower": 188.41591710612283,
-          "atr14": 14.07557133265904,
-          "atr_pct": 7.071730208724686,
-          "vol_ratio_20d": 0.8457546322684961,
+          "atr14": 14.096286228724889,
+          "atr_pct": 7.082137612645802,
+          "vol_ratio_20d": 0.8464797208324976,
           "high_52w": 331.2900085449219,
           "pct_off_52w_high": -39.9197113850949,
           "stacked_uptrend": false,
@@ -1153,7 +1171,7 @@
           "bb_lower": 101.16018833425267,
           "atr14": 8.58071299961635,
           "atr_pct": 7.715080835675344,
-          "vol_ratio_20d": 0.8451042083117859,
+          "vol_ratio_20d": 0.866856240718445,
           "high_52w": 136.0,
           "pct_off_52w_high": -18.220587337718293,
           "stacked_uptrend": false,
@@ -1182,9 +1200,9 @@
           "bb_pct": 0.23068292543508362,
           "bb_upper": 185.61444081129318,
           "bb_lower": 141.99855815110917,
-          "atr14": 8.965431213378906,
-          "atr_pct": 5.895982741893856,
-          "vol_ratio_20d": 0.6461043251276855,
+          "atr14": 8.969002859933036,
+          "atr_pct": 5.8983315822275895,
+          "vol_ratio_20d": 0.6480414374975811,
           "high_52w": 179.22000122070312,
           "pct_off_52w_high": -15.154560583147628,
           "stacked_uptrend": false,
@@ -1213,9 +1231,9 @@
           "bb_pct": 0.5012499624856349,
           "bb_upper": 4.303790758559964,
           "bb_lower": 3.303709246208407,
-          "atr14": 0.336564234324864,
-          "atr_pct": 8.845314807358195,
-          "vol_ratio_20d": 0.8348805541348988,
+          "atr14": 0.33657136985233854,
+          "atr_pct": 8.84550233764333,
+          "vol_ratio_20d": 0.8362831676577069,
           "high_52w": 4.960000038146973,
           "pct_off_52w_high": -23.286289566668465,
           "stacked_uptrend": true,
@@ -1248,7 +1266,7 @@
           "bb_lower": 511.2007762257997,
           "atr14": 16.540010724748885,
           "atr_pct": 3.0338623843419796,
-          "vol_ratio_20d": 0.971560909310656,
+          "vol_ratio_20d": 0.9746391762904946,
           "high_52w": 555.7999877929688,
           "pct_off_52w_high": -1.9107584293692657,
           "stacked_uptrend": true,
@@ -1276,9 +1294,9 @@
           "bb_pct": 0.5550135408336679,
           "bb_upper": 14.407121805999372,
           "bb_lower": 10.076378197815325,
-          "atr14": 1.0627498626708984,
-          "atr_pct": 8.515624211957793,
-          "vol_ratio_20d": 1.3232650804091584,
+          "atr14": 1.0627140998840332,
+          "atr_pct": 8.515337651155091,
+          "vol_ratio_20d": 1.324068622046228,
           "high_52w": 38.86000061035156,
           "pct_off_52w_high": -67.88471604163615,
           "stacked_uptrend": false,
@@ -1318,7 +1336,7 @@
           "bb_lower": 31.372385070838952,
           "atr14": 1.5192858832223075,
           "atr_pct": 4.424245417796869,
-          "vol_ratio_20d": 1.0877169125547086,
+          "vol_ratio_20d": 1.088253344789493,
           "high_52w": 61.810001373291016,
           "pct_off_52w_high": -44.44264780840679,
           "stacked_uptrend": false,
@@ -1348,7 +1366,7 @@
           "bb_lower": 6.751699729547903,
           "atr14": 0.5971428666796003,
           "atr_pct": 7.836520677792473,
-          "vol_ratio_20d": 0.8058209251462892,
+          "vol_ratio_20d": 0.8078448593170081,
           "high_52w": 20.139999389648438,
           "pct_off_52w_high": -62.16484549907379,
           "stacked_uptrend": false,
@@ -1378,7 +1396,7 @@
           "bb_lower": 236.78727894253484,
           "atr14": 13.767147609165736,
           "atr_pct": 4.986471002852606,
-          "vol_ratio_20d": 1.747454230182487,
+          "vol_ratio_20d": 1.862322982155331,
           "high_52w": 378.6000061035156,
           "pct_off_52w_high": -27.076071873489887,
           "stacked_uptrend": false,
@@ -1418,7 +1436,7 @@
           "bb_lower": 46.25625747893232,
           "atr14": 4.626642499651227,
           "atr_pct": 7.860418708248453,
-          "vol_ratio_20d": 1.384248504659846,
+          "vol_ratio_20d": 1.5237791164424437,
           "high_52w": 150.22999572753906,
           "pct_off_52w_high": -60.82007436311084,
           "stacked_uptrend": false,
@@ -1456,9 +1474,9 @@
           "bb_pct": 0.5484630333229996,
           "bb_upper": 31.97374564713194,
           "bb_lower": 20.60425461226748,
-          "atr14": 2.2480643136160716,
-          "atr_pct": 8.375798438284715,
-          "vol_ratio_20d": 1.848512928990937,
+          "atr14": 2.2480713980538503,
+          "atr_pct": 8.375824833358255,
+          "vol_ratio_20d": 1.8559347622089402,
           "high_52w": 111.6500015258789,
           "pct_off_52w_high": -75.96059132487629,
           "stacked_uptrend": false,
@@ -1490,7 +1508,7 @@
           "bb_lower": 17.8054605209751,
           "atr14": 1.3865000861031669,
           "atr_pct": 7.41443866061759,
-          "vol_ratio_20d": 1.5167670850256552,
+          "vol_ratio_20d": 1.531096782953957,
           "high_52w": 36.2400016784668,
           "pct_off_52w_high": -48.39955878354531,
           "stacked_uptrend": false,
@@ -1522,14 +1540,14 @@
           "bb_lower": 158.615417736733,
           "atr14": 6.961640494210379,
           "atr_pct": 3.658437511079413,
-          "vol_ratio_20d": 1.3125562209151393,
+          "vol_ratio_20d": 1.321908902477639,
           "high_52w": 190.5,
           "pct_off_52w_high": -0.11023974481217191,
           "stacked_uptrend": true,
           "stacked_downtrend": false,
           "breakout_20d": true,
           "held": false,
-          "score": 1.6562781104575697
+          "score": 1.6609544512388195
         },
         {
           "ticker": "LLY",
@@ -1553,20 +1571,30 @@
           "bb_lower": 1161.1371177384615,
           "atr14": 52.40360804966518,
           "atr_pct": 3.711435239342004,
-          "vol_ratio_20d": 1.0257826390484395,
+          "vol_ratio_20d": 1.3115405019250985,
           "high_52w": 1417.989990234375,
           "pct_off_52w_high": -0.4259578067615034,
           "stacked_uptrend": true,
           "stacked_downtrend": false,
           "breakout_20d": false,
           "held": false,
-          "score": 1.5128913195242197
+          "score": 1.6557702509625494,
+          "trump_signal_result": {
+            "mention": false,
+            "valence": "none",
+            "confidence": 0.0,
+            "as_of": null,
+            "source": "",
+            "summary": "",
+            "manual": false,
+            "low_confidence_seen": []
+          }
         },
         {
           "ticker": "ROKU",
           "theme": "Consumer growth",
           "price": 160.52000427246094,
-          "day_change_pct": null,
+          "day_change_pct": 0.0,
           "sector": null,
           "market_cap": null,
           "pe_ratio": null,
@@ -1613,16 +1641,16 @@
           "bb_pct": 0.893744826562244,
           "bb_upper": 352.5302993706165,
           "bb_lower": 335.2107009955945,
-          "atr14": 9.413576398577009,
-          "atr_pct": 2.6843013296764404,
-          "vol_ratio_20d": 0.9434495325852138,
+          "atr14": 9.417146955217634,
+          "atr_pct": 2.68531948149593,
+          "vol_ratio_20d": 0.9770176753772732,
           "high_52w": 350.69000244140625,
           "pct_off_52w_high": 0.0,
           "stacked_uptrend": true,
           "stacked_downtrend": false,
           "breakout_20d": true,
           "held": false,
-          "score": 1.471724766292607
+          "score": 1.4885088376886366
         },
         {
           "ticker": "MRNA",
@@ -1644,16 +1672,16 @@
           "bb_pct": 1.0285138668122968,
           "bb_upper": 266.76733114960484,
           "bb_lower": 188.4661710476608,
-          "atr14": 23.651858738490514,
-          "atr_pct": 8.792512542189781,
-          "vol_ratio_20d": 0.7406111950623281,
+          "atr14": 23.66400146484375,
+          "atr_pct": 8.797026566856413,
+          "vol_ratio_20d": 0.7429755832632742,
           "high_52w": 269.0,
           "pct_off_52w_high": 0.0,
           "stacked_uptrend": true,
           "stacked_downtrend": false,
           "breakout_20d": true,
           "held": false,
-          "score": 1.370305597531164
+          "score": 1.371487791631637
         }
       ],
       "rsi_extreme_overbought": [
@@ -1677,9 +1705,9 @@
           "bb_pct": 0.921429378581438,
           "bb_upper": 580.5922056646008,
           "bb_lower": 512.5997987299305,
-          "atr14": 10.740718296595983,
-          "atr_pct": 1.8671392084478025,
-          "vol_ratio_20d": 1.1160128087914665,
+          "atr14": 10.742863246372767,
+          "atr_pct": 1.8675120810730583,
+          "vol_ratio_20d": 1.2284310331284203,
           "high_52w": 579.0900268554688,
           "pct_off_52w_high": -0.6631139680164372,
           "stacked_uptrend": true,
@@ -1710,9 +1738,9 @@
         "bb_pct": 0.8724517095608937,
         "bb_upper": 12.463104227328426,
         "bb_lower": 9.145895787930364,
-        "atr14": 1.0693573951721191,
-        "atr_pct": 8.881705968108148,
-        "vol_ratio_20d": 2.342525009801849,
+        "atr14": 1.0697144780840193,
+        "atr_pct": 8.884671773033661,
+        "vol_ratio_20d": 2.363108790131283,
         "high_52w": 45.70000076293945,
         "pct_off_52w_high": -73.6542674817264,
         "stacked_uptrend": false,
@@ -1740,9 +1768,9 @@
         "bb_pct": 0.3275171302913476,
         "bb_upper": 47.66151890578364,
         "bb_lower": 31.643981506203673,
-        "atr14": 3.9524927139282227,
-        "atr_pct": 10.714266140750645,
-        "vol_ratio_20d": 1.4159865110424323,
+        "atr14": 3.9524997983660017,
+        "atr_pct": 10.714285344973733,
+        "vol_ratio_20d": 1.5182187020106548,
         "high_52w": 133.08999633789062,
         "pct_off_52w_high": -72.2819141898602,
         "stacked_uptrend": false,
@@ -1770,9 +1798,9 @@
         "bb_pct": 0.5484630333229996,
         "bb_upper": 31.97374564713194,
         "bb_lower": 20.60425461226748,
-        "atr14": 2.2480643136160716,
-        "atr_pct": 8.375798438284715,
-        "vol_ratio_20d": 1.848512928990937,
+        "atr14": 2.2480713980538503,
+        "atr_pct": 8.375824833358255,
+        "vol_ratio_20d": 1.8559347622089402,
         "high_52w": 111.6500015258789,
         "pct_off_52w_high": -75.96059132487629,
         "stacked_uptrend": false,
@@ -1800,9 +1828,9 @@
         "bb_pct": 0.2088035884333417,
         "bb_upper": 341.6711015938281,
         "bb_lower": 183.93390176310552,
-        "atr14": 25.40578351702009,
-        "atr_pct": 11.714752657827038,
-        "vol_ratio_20d": 1.4247186050398166,
+        "atr14": 25.407926286969865,
+        "atr_pct": 11.715740701354505,
+        "vol_ratio_20d": 1.4497749533994413,
         "high_52w": 483.0199890136719,
         "pct_off_52w_high": -55.101238033639845,
         "stacked_uptrend": false,
@@ -1832,7 +1860,7 @@
         "bb_lower": 426.1939200671264,
         "atr14": 41.066414969308035,
         "atr_pct": 8.074720998379826,
-        "vol_ratio_20d": 1.727176606090818,
+        "vol_ratio_20d": 1.736006355984501,
         "high_52w": 649.4199829101562,
         "pct_off_52w_high": -21.687043830521468,
         "stacked_uptrend": false,
@@ -1860,9 +1888,9 @@
         "bb_pct": 0.5550135408336679,
         "bb_upper": 14.407121805999372,
         "bb_lower": 10.076378197815325,
-        "atr14": 1.0627498626708984,
-        "atr_pct": 8.515624211957793,
-        "vol_ratio_20d": 1.3232650804091584,
+        "atr14": 1.0627140998840332,
+        "atr_pct": 8.515337651155091,
+        "vol_ratio_20d": 1.324068622046228,
         "high_52w": 38.86000061035156,
         "pct_off_52w_high": -67.88471604163615,
         "stacked_uptrend": false,
@@ -1900,9 +1928,9 @@
         "bb_pct": 0.7059734457015215,
         "bb_upper": 130.70993134126675,
         "bb_lower": 85.23806899442663,
-        "atr14": 8.960714067731585,
-        "atr_pct": 7.636538560925499,
-        "vol_ratio_20d": 1.1075669697954897,
+        "atr14": 8.964999607631139,
+        "atr_pct": 7.640190802303803,
+        "vol_ratio_20d": 1.1093067589239785,
         "high_52w": 337.760009765625,
         "pct_off_52w_high": -65.25935784425337,
         "stacked_uptrend": false,
@@ -1930,9 +1958,9 @@
         "bb_pct": 0.24505741150029295,
         "bb_upper": 10.145879702381528,
         "bb_lower": 5.8596201850849035,
-        "atr14": 0.7998571055276054,
-        "atr_pct": 11.575356341392148,
-        "vol_ratio_20d": 1.2027152066692566,
+        "atr14": 0.8030713966914585,
+        "atr_pct": 11.621872857091594,
+        "vol_ratio_20d": 1.2057356234261742,
         "high_52w": 18.809999465942383,
         "pct_off_52w_high": -63.26422092715398,
         "stacked_uptrend": false,
@@ -1962,7 +1990,7 @@
         "bb_lower": 160.87869498433187,
         "atr14": 17.50614275251116,
         "atr_pct": 9.021925045470637,
-        "vol_ratio_20d": 1.0491804407436884,
+        "vol_ratio_20d": 1.0996251742306262,
         "high_52w": 378.45001220703125,
         "pct_off_52w_high": -48.72770854080905,
         "stacked_uptrend": false,
@@ -1990,9 +2018,9 @@
         "bb_pct": 0.3276205674528508,
         "bb_upper": 463.9025648740711,
         "bb_lower": 325.06343244038203,
-        "atr14": 25.16571044921875,
-        "atr_pct": 6.79144819275481,
-        "vol_ratio_20d": 1.2470765392292755,
+        "atr14": 25.166425432477677,
+        "atr_pct": 6.791641144659407,
+        "vol_ratio_20d": 1.252889702994117,
         "high_52w": 723.0,
         "pct_off_52w_high": -48.7482727810555,
         "stacked_uptrend": false,
@@ -2024,7 +2052,7 @@
         "bb_lower": 161.5216356016364,
         "atr14": 10.880000523158483,
         "atr_pct": 5.6782007664012815,
-        "vol_ratio_20d": 1.4514776295046221,
+        "vol_ratio_20d": 1.4807765949928589,
         "high_52w": 318.25,
         "pct_off_52w_high": -39.792615676244594,
         "stacked_uptrend": false,
@@ -2054,7 +2082,7 @@
         "bb_lower": 182.24312305220394,
         "atr14": 8.785000392368861,
         "atr_pct": 4.91688614898961,
-        "vol_ratio_20d": 3.3247344720640313,
+        "vol_ratio_20d": 3.348278252999604,
         "high_52w": 239.24000549316406,
         "pct_off_52w_high": -25.317675110130967,
         "stacked_uptrend": false,
@@ -2082,9 +2110,9 @@
         "bb_pct": 0.05728767158543892,
         "bb_upper": 156.15010775347164,
         "bb_lower": 123.73288937787605,
-        "atr14": 9.299336569649833,
-        "atr_pct": 7.404520137599698,
-        "vol_ratio_20d": 0.8343143225033038,
+        "atr14": 9.299999782017299,
+        "atr_pct": 7.4050482149838865,
+        "vol_ratio_20d": 0.8413279116823023,
         "high_52w": 238.8800048828125,
         "pct_off_52w_high": -47.425488207143424,
         "stacked_uptrend": false,
@@ -2114,7 +2142,7 @@
         "bb_lower": 6.157562494858519,
         "atr14": 0.645714351109096,
         "atr_pct": 6.629510947462447,
-        "vol_ratio_20d": 1.065753876219879,
+        "vol_ratio_20d": 1.1165518318554288,
         "high_52w": 21.40999984741211,
         "pct_off_52w_high": -54.50724035247732,
         "stacked_uptrend": false,
@@ -2144,7 +2172,7 @@
         "bb_lower": 15.764830602481648,
         "atr14": 0.8392857824053083,
         "atr_pct": 5.007671664341632,
-        "vol_ratio_20d": 1.346972698453736,
+        "vol_ratio_20d": 1.3761322329508494,
         "high_52w": 24.56999969482422,
         "pct_off_52w_high": -31.78673000792749,
         "stacked_uptrend": false,
@@ -2174,7 +2202,7 @@
         "bb_lower": 3.910589374522819,
         "atr14": 0.26407149859837126,
         "atr_pct": 6.520283608936229,
-        "vol_ratio_20d": 1.6155733991728445,
+        "vol_ratio_20d": 1.6250199832303993,
         "high_52w": 14.40999984741211,
         "pct_off_52w_high": -71.89451607480619,
         "stacked_uptrend": false,
@@ -2202,9 +2230,9 @@
         "bb_pct": 0.19303988598747807,
         "bb_upper": 212.9418868242494,
         "bb_lower": 184.77211769235217,
-        "atr14": 7.69035884312221,
-        "atr_pct": 4.043088466260776,
-        "vol_ratio_20d": 0.6879158349214083,
+        "atr14": 7.700001307896206,
+        "atr_pct": 4.04815784454459,
+        "vol_ratio_20d": 0.6891103781760421,
         "high_52w": 233.69000244140625,
         "pct_off_52w_high": -18.605843328039214,
         "stacked_uptrend": false,
@@ -2234,7 +2262,7 @@
         "bb_lower": 18.134452305408274,
         "atr14": 2.837928363255092,
         "atr_pct": 13.255153589354746,
-        "vol_ratio_20d": 1.2277447791398206,
+        "vol_ratio_20d": 1.2638057660757611,
         "high_52w": 67.83999633789062,
         "pct_off_52w_high": -68.44044663449665,
         "stacked_uptrend": false,
@@ -2262,9 +2290,9 @@
         "bb_pct": 0.5401526098638391,
         "bb_upper": 364.42193894891955,
         "bb_lower": 307.4640687415101,
-        "atr14": 14.543574741908483,
-        "atr_pct": 4.299906652132167,
-        "vol_ratio_20d": 0.747045661917346,
+        "atr14": 14.564287458147321,
+        "atr_pct": 4.30603050736856,
+        "vol_ratio_20d": 0.7669950882087947,
         "high_52w": 676.5499877929688,
         "pct_off_52w_high": -50.00664886718911,
         "stacked_uptrend": false,
@@ -2294,7 +2322,7 @@
         "bb_lower": 232.53489674050596,
         "atr14": 8.989288330078125,
         "atr_pct": 3.7878341701705986,
-        "vol_ratio_20d": 0.8329311433128019,
+        "vol_ratio_20d": 0.8426383586694245,
         "high_52w": 357.5299987792969,
         "pct_off_52w_high": -33.622351093756386,
         "stacked_uptrend": false,
@@ -2660,7 +2688,7 @@
     "headline": "No trade today. No setup meets the conviction bar.",
     "primary_action": null,
     "secondary_actions": [],
-    "market_snapshot": "SPX +2.35%, VIX 20.0, Industrials leads +3.8%.",
+    "market_snapshot": "SPX +2.35%, VIX 19.9, Industrials leads +3.8%.",
     "watching": [
       "ACHR - watching for clean breakout",
       "ABNB - watching for clean breakout",
@@ -2668,7 +2696,7 @@
       "FTNT - watching for reversal confirmation",
       "DXCM - watching SMA50 hold"
     ],
-    "generated_for": "2026-11-09",
+    "generated_for": "2026-11-10",
     "regime": {
       "regime": "risk_off",
       "confidence": 2,
@@ -2682,23 +2710,23 @@
         "spy_above_sma50": false,
         "spy_above_sma200": true,
         "spy_stacked_up": false,
-        "vix_level": 19.979999542236328,
-        "vix_change_5d_pct": -5.531915354120699,
+        "vix_level": 19.920000076293945,
+        "vix_change_5d_pct": -5.815600777404655,
         "hyg_ief_trend": "falling",
         "breadth_pct": 60.0,
         "spy_range_bound_10d": true
       },
-      "summary": "Risk-off - below the 50-day, vol elevated (VIX 20.0, breadth 60%) [confidence 2/3]"
+      "summary": "Risk-off - below the 50-day, vol elevated (VIX 19.9, breadth 60%) [confidence 2/3]"
     },
     "telemetry": {
-      "date": "2026-11-09",
-      "candidates_evaluated": 8,
+      "date": "2026-11-10",
+      "candidates_evaluated": 9,
       "cleared_primary": 0,
       "cleared_insider_promotion": 0,
       "blocked_by": {
         "technical": 2,
         "sector_momentum": 3,
-        "news": 1,
+        "news": 2,
         "trump": 0,
         "earnings_window": 1,
         "correlation_block": 0,
@@ -2709,12 +2737,12 @@
       },
       "near_miss": [
         {
-          "ticker": "ACHR",
+          "ticker": "LLY",
           "passed": [
             "technical",
-            "news"
+            "sector_momentum"
           ],
-          "failed": "sector_momentum",
+          "failed": "news",
           "insider_score": 0,
           "insider_status": "zero",
           "news_status": "ok"
@@ -2743,10 +2771,10 @@
         "scored": 0,
         "zero": 2,
         "unavailable": 0,
-        "not_evaluated": 6
+        "not_evaluated": 7
       },
       "news": {
-        "ok": 6,
+        "ok": 7,
         "empty": 0,
         "outage": 0,
         "unknown": 2
@@ -2755,21 +2783,21 @@
     "telemetry_30d": {
       "days": 30,
       "cleared": 5,
-      "reached_2of3": 59,
-      "mean_near_miss_per_day": 1.97,
+      "reached_2of3": 57,
+      "mean_near_miss_per_day": 1.9,
       "top_blocker_signal": "sector_momentum",
-      "top_blocker_pct": 62.2,
+      "top_blocker_pct": 61.3,
       "insider": {
         "scored": 0,
-        "zero": 47,
+        "zero": 49,
         "unavailable": 0,
-        "not_evaluated": 167
+        "not_evaluated": 168
       },
       "news": {
-        "ok": 176,
+        "ok": 178,
         "empty": 1,
         "outage": 0,
-        "unknown": 37
+        "unknown": 38
       },
       "insider_unavailable_days": 0,
       "news_outage_days": 0
@@ -2964,19 +2992,19 @@
         "12 recent news items - watch for narrative shifts"
       ],
       "key_risks": [
-        "Elevated valuation (P/E 111)"
+        "Elevated valuation (P/E 101)"
       ],
       "suggested_action_detail": "Maintain current size; review on next earnings or 10%+ move",
       "source": "rules",
-      "rec_id": "01282daa",
+      "rec_id": "9b7bcdb2",
       "ticker": "NBIS",
       "quote": {
         "ticker": "NBIS",
         "price": 141.4499969482422,
         "prev_close": 129.49000549316406,
         "day_change_pct": 9.236227467539576,
-        "market_cap": 35913900032,
-        "pe_ratio": 110.50781,
+        "market_cap": 38453919744,
+        "pe_ratio": 101.03571,
         "high_52w": 286.69000244140625,
         "low_52w": 73.87000274658203,
         "sector": "Communication Services",
@@ -4019,7 +4047,7 @@
         "bb_pct": 0.2587936791920265,
         "atr14": 15.741644178118024,
         "atr_pct": 11.128769542411536,
-        "vol_ratio_20d": 0.7314674364610009,
+        "vol_ratio_20d": 0.7388498053746105,
         "breakout_20d": false
       },
       "news": [
@@ -4043,13 +4071,13 @@
         },
         {
           "headline": "Cloudflare Jumps 11%, Nebius Surges 9% as AI Cloud Stocks Defy NVIDIA\u2019s Slide; CoreWeave Rallies 6% on Wayve Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-jumps-11-nebius-surges-175511344.html",
+          "url": "https://finance.yahoo.com/news/cloudflare-jumps-11-nebius-surges-175511344.html",
           "source": "24/7 Wall St.",
           "published": "2026-11-09T17:55:11Z"
         },
         {
           "headline": "Nvidia Isn\u2019t Staying in The $180s for Long",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-isn-t-staying-180s-174502274.html",
+          "url": "https://finance.yahoo.com/news/nvidia-isn-t-staying-180s-174502274.html",
           "source": "24/7 Wall St.",
           "published": "2026-11-09T17:45:02Z"
         },
@@ -4066,12 +4094,6 @@
           "published": "2026-11-09T15:20:33Z"
         },
         {
-          "headline": "Stocks to Watch: Nvidia, AMD, Skydance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026/card/stocks-to-watch-nvidia-coreweave-kkr-z3Xw3Fb0qxdhdyFK3li9?siteid=yhoof2&yptr=yahoo",
-          "source": "The Wall Street Journal",
-          "published": "2026-11-09T14:51:45Z"
-        },
-        {
           "headline": "Alphabet Has $75.7 Billion of Data-Center Backstops. Lenders Just Started Doubting Them",
           "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-75-7-billion-data-124441155.html",
           "source": "TIKR",
@@ -4084,10 +4106,16 @@
           "published": "2026-11-09T12:36:00Z"
         },
         {
-          "headline": "Nebius Stock Ahead of Q3 Earnings: Should You Buy, Hold or Sell? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTNMTzdZSUJFa1ZzQjZYOWc2aXJkNjRMeEFPMV9DU2lLZVo0UlZ2RTBQaG5XV3VyS1VtTkpISHUxODFpckU0UGNIaEpSOW1UV0JLbk5jQ0FOUHlCMWNGQXE3bnBQMFZHMUc3RFNJN2s3SFZHZDg2bV9CNlVVNUtrN2o5R1liTEJRTUVEUFJiSEhGSkRnWkRvZ2VUTQ?oc=5",
+          "headline": "Nebius Q3 Earnings Preview: What To Expect From Upcoming Report",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-q3-earnings-preview-expect-111135990.html",
+          "source": "GuruFocus.com",
+          "published": "2026-11-09T11:11:35Z"
+        },
+        {
+          "headline": "Not Revenue. Not Growth. Here\u2019s What I\u2019ll Be Watching When CoreWeave and Nebius Report This Week. - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS0M0UlBxR294QW8weXRRamFSc3d2c2pVSmNKd3AzTE1WMEtkeUkyTkJxdHJSNXFfczRwNzNfYjVESG02TW8wZ2oxTTdVYmNjcFVycDNvVk9mU0E3QXBmVnlFQjltMF85OUpBSHlCcFE4R0NBZlhEM014NFJLV19Ma1gydENpR2poLUNkQjZRUnVGZy1k?oc=5",
           "source": "Yahoo Finance",
-          "published": "Mon, 09 Nov 2026 12:36:00 GMT"
+          "published": "Mon, 09 Nov 2026 19:22:01 GMT"
         },
         {
           "headline": "Nebius: AI Panic Round Trip Gift (NASDAQ:NBIS) - Seeking Alpha",
@@ -4098,7 +4126,7 @@
       ],
       "earnings": {
         "date": "2026-11-12",
-        "days_away": 3
+        "days_away": 2
       },
       "consensus": {
         "target_mean": 278.05,
@@ -4265,9 +4293,9 @@
         "percentile_in_sector": 100.0,
         "vs_own_history_percentile": null,
         "metric": "trailing_pe",
-        "metric_value": 110.51,
+        "metric_value": 101.04,
         "n_peers": 9,
-        "summary": "trailing pe 110.5 = 100th percentile in sector (extreme)"
+        "summary": "trailing pe 101.0 = 100th percentile in sector (extreme)"
       }
     },
     {
@@ -4281,7 +4309,7 @@
       "key_risks": [],
       "suggested_action_detail": "Scale in on dips toward SMA50; do not chase",
       "source": "rules",
-      "rec_id": "cc36a5dd",
+      "rec_id": "a022b0c0",
       "ticker": "AMZN",
       "quote": {
         "ticker": "AMZN",
@@ -4289,7 +4317,7 @@
         "prev_close": 259.29998779296875,
         "day_change_pct": 2.942539622834258,
         "market_cap": 2886350929920,
-        "pe_ratio": 21.57882,
+        "pe_ratio": 20.968578,
         "high_52w": 284.0199890136719,
         "low_52w": 198.7899932861328,
         "sector": "Consumer Cyclical",
@@ -5330,9 +5358,9 @@
         "bb_upper": 269.65451329399025,
         "bb_lower": 239.64248530220115,
         "bb_pct": 0.909219043146488,
-        "atr14": 10.554995945521764,
-        "atr_pct": 3.954218797114374,
-        "vol_ratio_20d": 1.0167605120485552,
+        "atr14": 10.55713871547154,
+        "atr_pct": 3.9550215431558717,
+        "vol_ratio_20d": 1.0354327739642204,
         "breakout_20d": true
       },
       "news": [
@@ -5343,58 +5371,58 @@
           "published": "2026-11-09T15:16:11Z"
         },
         {
-          "headline": "The business mistake McDonald's and Chipotle keep making: Robert Irvine",
-          "url": "https://finance.yahoo.com/video/business-mistake-mcdonalds-chipotle-keep-110000524.html",
-          "source": "Yahoo Finance Video",
-          "published": "2026-11-09T11:00:00Z"
+          "headline": "Anthropic's S-1 Says It Will Expand Its Data Center Footprint. Here's Who Could Pour the Concrete, Wire the Power, and Cool the Chips.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-1-says-expand-data-031400345.html",
+          "source": "Motley Fool",
+          "published": "2026-11-10T03:14:00Z"
         },
         {
-          "headline": "Stock Market Today: Dow Pops, Multiple Stocks Clear Entries; Jensen Huang Details Emerge (Live Coverage)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-stock-nvda-jensen-huang-probe/?src=A00220&yptr=yahoo",
+          "headline": "Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone",
+          "url": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?siteid=yhoof2&yptr=yahoo",
+          "source": "The Wall Street Journal",
+          "published": "2026-11-10T02:48:00Z"
+        },
+        {
+          "headline": "Tech leads Asian stock rally as traders track Wall St rebound",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html",
+          "source": "AFP",
+          "published": "2026-11-10T02:39:30Z"
+        },
+        {
+          "headline": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-amazon-tesla-nvidia-cpi-inflation-report/?src=A00220&yptr=yahoo",
           "source": "Investor's Business Daily",
-          "published": "2026-11-09T20:46:20Z"
+          "published": "2026-11-10T02:31:48Z"
         },
         {
-          "headline": "Nvidia $5T CEO scandal, AI legislation headaches, and Tesla returns deposits for Cybertrucks",
-          "url": "https://finance.yahoo.com/video/nvidia-5t-ceo-scandal-ai-legislation-headaches-and-tesla-returns-deposits-for-cybertrucks-184342686.html",
-          "source": "Yahoo Finance Video",
-          "published": "2026-11-09T18:43:42Z"
+          "headline": "Democrats Are Wasting No Time Investigating Corporate America\u2019s Biggest Names",
+          "url": "https://www.wsj.com/business/democrats-are-wasting-no-time-investigating-corporate-americas-biggest-names-a582799e?siteid=yhoof2&yptr=yahoo",
+          "source": "The Wall Street Journal",
+          "published": "2026-11-10T02:00:00Z"
         },
         {
-          "headline": "AI Agents Are \u201can Existential Risk to DoorDash\u201d? Seriously? I\u2019ll Take the Under",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-agents-existential-risk-doordash-184329423.html",
-          "source": "TIKR",
-          "published": "2026-11-09T18:43:29Z"
+          "headline": "Securitize to Acquire River One, Expanding Into $6 Trillion Asset-Backed Finance Market",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/securitize-acquire-river-one-expanding-233100619.html",
+          "source": "CryptoProwl",
+          "published": "2026-11-09T23:31:00Z"
         },
         {
-          "headline": "Anthropic Makes $3.4 Billion Power Bet As Electricity Concerns Grow",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-makes-3-4-billion-184024502.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-09T18:40:24Z"
+          "headline": "\u2018Big Short\u2019 Investor Steve Eisman Says OpenAI\u2019s Collapse Could Trigger an Immediate Recession",
+          "url": "https://finance.yahoo.com/news/big-short-investor-steve-eisman-230714187.html",
+          "source": "24/7 Wall St.",
+          "published": "2026-11-09T23:07:14Z"
         },
         {
-          "headline": "Airtable plugin making $270K per year",
-          "url": "https://finance.yahoo.com/video/airtable-plugin-making-270k-per-183212857.html",
-          "source": "Starter Story",
-          "published": "2026-11-09T18:32:12Z"
+          "headline": "Trade Desk\u2019s Earnings Beat Defies Analysts\u2019 \u2018Lost Year\u2019 Projections",
+          "url": "https://www.barrons.com/articles/trade-desk-earnings-stock-price-7ac7ae25?siteid=yhoof2&yptr=yahoo",
+          "source": "Barrons.com",
+          "published": "2026-11-09T22:06:00Z"
         },
         {
-          "headline": "Constellation Energy Stocks Jump 6.94% After Q3 Beat and Raised Guidance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-stocks-jump-6-181850302.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-09T18:18:50Z"
-        },
-        {
-          "headline": "Amazon Stocks Rise 4.05% as JPMorgan Adds It to Focus List on AWS",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stocks-rise-4-05-180349063.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-09T18:03:49Z"
-        },
-        {
-          "headline": "Amazon Is \u201cthe Cheapest It\u2019s Been\u201d in Years. Its P/E Fell From 34 to 21",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-cheapest-years-p-e-173227803.html",
-          "source": "TIKR",
-          "published": "2026-11-09T17:32:27Z"
+          "headline": "Jeff Bezos says your family is 'not going to need' 2 paychecks thanks to AI",
+          "url": "https://finance.yahoo.com/technology/ai/articles/jeff-bezos-says-family-not-220300084.html",
+          "source": "TheStreet",
+          "published": "2026-11-09T22:03:00Z"
         },
         {
           "headline": "Amazon.com (AMZN) Added Over 100 New Alexa Shopping Functions - Yahoo Finance",
@@ -5411,7 +5439,7 @@
       ],
       "earnings": {
         "date": "2026-10-29",
-        "days_away": -11
+        "days_away": -12
       },
       "consensus": {
         "target_mean": 326.99017,
@@ -5528,9 +5556,9 @@
         "percentile_in_sector": 27.3,
         "vs_own_history_percentile": null,
         "metric": "trailing_pe",
-        "metric_value": 21.58,
+        "metric_value": 20.97,
         "n_peers": 11,
-        "summary": "trailing pe 21.6 = 27th percentile in sector (fair)"
+        "summary": "trailing pe 21.0 = 27th percentile in sector (fair)"
       }
     },
     {
@@ -5546,7 +5574,7 @@
       ],
       "suggested_action_detail": "Exit fully on bounce toward SMA200",
       "source": "rules",
-      "rec_id": "13392624",
+      "rec_id": "40960ebe",
       "ticker": "OKLO",
       "quote": {
         "ticker": "OKLO",
@@ -6595,12 +6623,18 @@
         "bb_upper": 31.97374564713194,
         "bb_lower": 20.60425461226748,
         "bb_pct": 0.5484630333229996,
-        "atr14": 2.2480643136160716,
-        "atr_pct": 8.375798438284715,
-        "vol_ratio_20d": 1.848512928990937,
+        "atr14": 2.2480713980538503,
+        "atr_pct": 8.375824833358255,
+        "vol_ratio_20d": 1.8559347622089402,
         "breakout_20d": false
       },
       "news": [
+        {
+          "headline": "OKLO Stock Is On Track To Reverse 6 Weeks Of Losses, But This Analyst Warns Nuclear Euphoria Is Fading",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-track-reverse-6-012007094.html",
+          "source": "Stocktwits",
+          "published": "2026-11-10T01:20:07Z"
+        },
         {
           "headline": "Should You Buy Oklo Stock While It's Under $30?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-oklo-stock-while-under-213402993.html",
@@ -6609,7 +6643,7 @@
         },
         {
           "headline": "NuScale Is Still Down 61% in 2026: Did Today Mark the Bottom for SMR Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-still-down-61-2026-200226711.html",
+          "url": "https://finance.yahoo.com/news/nuscale-still-down-61-2026-200226711.html",
           "source": "24/7 Wall St.",
           "published": "2026-11-09T20:02:26Z"
         },
@@ -6656,27 +6690,21 @@
           "published": "2026-11-08T03:26:11Z"
         },
         {
-          "headline": "NuScale Just Hit a New 52-Week Low After Losing 26% in a Week. Is the Selling Overdone?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-just-hit-52-week-234937076.html",
-          "source": "TIKR",
-          "published": "2026-11-07T23:49:37Z"
-        },
-        {
           "headline": "Oklo Stock Jumps on Promising Updates on Its Novel Nuclear Reactors - Barron's",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrRmJJWUcxdzBUQUVOYURmaFFJWVhNUTl2cnVhb0hEQlp0cE5sdXJkVkl3MzE5ekZyMXpnNDd5VW1WVWExLWZhRXp5cy1weUFZU0N3NGg5dDNSTWpqb0oxRmc4WEhVenBIR01zdW44XzNxWUE3OGc?oc=5",
           "source": "Barron's",
           "published": "Fri, 06 Nov 2026 23:07:00 GMT"
         },
         {
-          "headline": "OKLO Stock Rises After Q3 Earnings Beat - TipRanks",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSWJ4NjEwYUNtd2xyYXZwcVB5dlVwMjM0MVdKWmZnOFgtd3NTZjN1bmJpTWdJMU9PQzJCNVA3N2dEaXAyZmRobE01RHBMbnBySFQ0V3hxQTZxSEtaTVFBLTJhZVRTRmRPNW1UVmhWNDZteDJJa0FXdA?oc=5",
-          "source": "TipRanks",
-          "published": "Fri, 06 Nov 2026 13:27:37 GMT"
+          "headline": "OKLO Q3 Earnings Call Highlights Reactor and Fuel Expansion Plans - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWTFSNHA2bzFJdlgtU0o1a0JUcGNBYUdvNDZfX3NUWEI5VFllVmZrbUEtRVVzcHk1cTY1eDJIVWpDbGR4ZkxTNENQVm1XZUppSGFsR3RSendQVGk1bXV4WEJHM3B0SkpuRzZxakZRaUU3OHpvOUJKdkhoSl90dUswd2hmOWM5T1VrekZGdTJMam1IN00?oc=5",
+          "source": "Yahoo Finance",
+          "published": "Mon, 09 Nov 2026 14:00:00 GMT"
         }
       ],
       "earnings": {
         "date": "2026-11-06",
-        "days_away": -3
+        "days_away": -4
       },
       "consensus": {
         "target_mean": 57.19048,
@@ -6871,7 +6899,7 @@
       ],
       "suggested_action_detail": "Exit fully on bounce toward SMA200",
       "source": "rules",
-      "rec_id": "e1691069",
+      "rec_id": "0712d07a",
       "ticker": "NFLX",
       "quote": {
         "ticker": "NFLX",
@@ -6879,7 +6907,7 @@
         "prev_close": 63.40999984741211,
         "day_change_pct": 0.8516021397678372,
         "market_cap": 262599557120,
-        "pe_ratio": 18.482658,
+        "pe_ratio": 18.323782,
         "high_52w": 115.75,
         "low_52w": 61.9900016784668,
         "sector": "Communication Services",
@@ -7922,7 +7950,7 @@
         "bb_pct": 0.3570162911008068,
         "atr14": 2.1157144818987166,
         "atr_pct": 3.3083885170566303,
-        "vol_ratio_20d": 0.7497475845162176,
+        "vol_ratio_20d": 0.7543776288554912,
         "breakout_20d": false
       },
       "news": [
@@ -7993,15 +8021,15 @@
           "published": "Fri, 06 Nov 2026 12:20:22 GMT"
         },
         {
-          "headline": "Netflix: Growth Slows, But Potential Remains Intact - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXJUbGZFUmFBTzFZWElwS3J1ZVdiWEc0OEdsVHFsWjd2bm96TGcwTlczX2pMMFNXTXFmeDFYQ25Cc2JVa3RpYXpIT1JWWkZIUDFEQTRqLS0yMkJwT0JGdmNRaGlSTi1SYUVaNUIxQmJHVHYyaDlpTWluNmV5RWNFZHpUNXIzRG5McUljVk8xSnItVUlk?oc=5",
-          "source": "Seeking Alpha",
-          "published": "Sat, 07 Nov 2026 08:03:04 GMT"
+          "headline": "Forget Selling Netflix: NFLX Is the Streaming Stock I'm Buying More Of - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObFJZVE1zdThpY1lJLTV2TzdwVFAxazdkRmxaVDZrWFNSRk1SZUJfSVZRNnRRZ0xEdC1nWEtCWnFkTU4tUzlxbnY2c0t4T28xWFQyRlAzaURsbzYwTjBMWUk3QUYzTVJvZFZETl9PSE5GbFRISktDVW53TnpXcEJIYzVqb0VKZTd1X3lnRFktSQ?oc=5",
+          "source": "The Motley Fool",
+          "published": "Wed, 14 Oct 2026 07:00:00 GMT"
         }
       ],
       "earnings": {
         "date": "2027-01-19",
-        "days_away": 71
+        "days_away": 70
       },
       "consensus": {
         "target_mean": 84.76326,
@@ -8237,7 +8265,7 @@
       ],
       "suggested_action_detail": "Exit fully on any bounce toward SMA50",
       "source": "rules",
-      "rec_id": "4b40a8eb",
+      "rec_id": "64a0b5a2",
       "ticker": "IREN",
       "quote": {
         "ticker": "IREN",
@@ -9288,7 +9316,7 @@
         "bb_pct": 0.21292470760309903,
         "atr14": 2.837928363255092,
         "atr_pct": 13.255153589354746,
-        "vol_ratio_20d": 1.2277447791398206,
+        "vol_ratio_20d": 1.2638057660757611,
         "breakout_20d": false
       },
       "news": [
@@ -9312,7 +9340,7 @@
         },
         {
           "headline": "Cloudflare Jumps 11%, Nebius Surges 9% as AI Cloud Stocks Defy NVIDIA\u2019s Slide; CoreWeave Rallies 6% on Wayve Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-jumps-11-nebius-surges-175511344.html",
+          "url": "https://finance.yahoo.com/news/cloudflare-jumps-11-nebius-surges-175511344.html",
           "source": "24/7 Wall St.",
           "published": "2026-11-09T17:55:11Z"
         },
@@ -9347,27 +9375,27 @@
           "published": "2026-11-09T14:53:04Z"
         },
         {
-          "headline": "Stocks to Watch: Nvidia, AMD, Skydance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026/card/stocks-to-watch-nvidia-coreweave-kkr-z3Xw3Fb0qxdhdyFK3li9?siteid=yhoof2&yptr=yahoo",
-          "source": "The Wall Street Journal",
-          "published": "2026-11-09T14:51:45Z"
+          "headline": "The Stock Market Doesn\u2019t Understand the Nvidia Spy Scandal",
+          "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-81b70351?siteid=yhoof2&yptr=yahoo",
+          "source": "Barrons.com",
+          "published": "2026-11-09T12:39:00Z"
         },
         {
-          "headline": "Record Revenue, 52-Week Lows: Is the Massive Selloff in IREN Stock a Gift? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXc4cWk4UDFWUktmWU1yei1pNU9kdlg4WkxXbHpsMm13NjBYM3FfclRteVJwdTFuMzdkc2ZoSzFlb2U4Mi1jRTVzREg4eFV5bTFpamZiWjMxZ3RXSURFbWJWaWRCSEZITk5McnlUMGVMZThoQkNacmZiSnljcmIybWl1MGtIN0F4dmI4ZkZwS1E2SDVIdHc?oc=5",
+          "headline": "IREN's $4B Revenue Goal Delayed: Is the Stock Losing Its Appeal? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEJJUFFNRVV2YjJZOEdtOV9KS093MDktajMwLTlmTXhhencxckpReXpyeF9HSGxNWlJTazJqbHVKY1otRDl3eGMtaGVaUmRsR0V1X3AzWmNhWTMwbU1BV1dyN08wR3VxQndpWktMVG4zTEM0UjBFQUdxUExKOWZlNmlndFI0YS1nWVE3T1IxenFHSU5yeV84bHhB?oc=5",
           "source": "Yahoo Finance",
-          "published": "Sat, 07 Nov 2026 23:25:39 GMT"
+          "published": "Mon, 09 Nov 2026 15:21:00 GMT"
         },
         {
-          "headline": "TeraWulf Rises 4% After Q3 Beat and Google-Backed Anthropic Lease; IREN Surges 17%, Cipher Digital Climbs 6% - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLTZrUkpGUDM2RVl0TGpBdWdZTHJrTF9aaFVmR2E1SXB1N3lrcnpyVXI4SmQtRnNFa0ZocFIxMXVRdkN2Nmw0ejlMeV9ZbVFNckpsMkY0eHUxaDAwaHNKemRxUE9Za2d3bkp4ZEZKN205QXMzbWpVNVU0YXRVaGNkc2hndERlTEV1ZC11cEtxa3YxdXEtbHZUbDFqclNfX3l6WDhmeWdoOGNYdnQzX3U0ZzdJQUs5QUlCUWtYV2ZEdUhmekZFSkdITGJYTmRDRVZqZHJzbjZRNDZjTTQ2ZThB?oc=5",
-          "source": "24/7 Wall St.",
-          "published": "Fri, 06 Nov 2026 14:54:00 GMT"
+          "headline": "Why Iren Stock Soared Today - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03NklTN01RNkZ0MWpKMU95QTZmSXVrcHg3eUNuajFsSWJ5bFBiYlE5VE9la3psSzBfbW1HRVB6TEs2clp4V0NYek9qRGYyWUxZa1JfNjJtb0x1dXFueGFFV2pKUlVPTHNVWXBBd3VoVVloOU1Xc0QzVzRR?oc=5",
+          "source": "The Motley Fool",
+          "published": "Sat, 07 Nov 2026 01:59:00 GMT"
         }
       ],
       "earnings": {
         "date": "2027-02-04",
-        "days_away": 87
+        "days_away": 86
       },
       "consensus": {
         "target_mean": 57.21368,
@@ -9506,7 +9534,7 @@
       "key_risks": [],
       "suggested_action_detail": "Maintain current size; review on next earnings or 10%+ move",
       "source": "rules",
-      "rec_id": "05d221c2",
+      "rec_id": "555ce788",
       "ticker": "FBL",
       "quote": {
         "ticker": "FBL",
@@ -10555,17 +10583,17 @@
         "bb_upper": 34.37865199515053,
         "bb_lower": 17.3423481040316,
         "bb_pct": 0.40135772670201475,
-        "atr14": 1.8336432320731026,
-        "atr_pct": 7.583305247852323,
-        "vol_ratio_20d": 0.7985609253895231,
+        "atr14": 1.8340003149850028,
+        "atr_pct": 7.584782017527234,
+        "vol_ratio_20d": 0.8040281824311367,
         "breakout_20d": false
       },
       "news": [
         {
-          "headline": "FBL Nov 2026 40.000 call (FBL261120C00040000) stock price, news, quote and history - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ENDlYR1JuUU9DdmYxeTJ4eFlBZFN0emxwdE82MFZESjV1MTllU1BoeWRIMVEzWjVSV01STjhSUnhGQkdacUEycmpwZkplbWs0b1h5LWpvV3F2eGlvdHhFVDF3ZDI?oc=5",
+          "headline": "FBL Nov 2026 37.000 put (FBL261120P00037000) stock price, news, quote and history - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIYjcxdDZwaGRRUFViR1RUbjYxRFE5YjR4cURuMGtCdUlvaXllSUlGczB1V2M1RkZRMGRLTmxPQXo2TEZzVjV5dnppVFNBYVhsSWtiZG9KbEY5WXowRWZtTXl6SmM?oc=5",
           "source": "Yahoo Finance UK",
-          "published": "Mon, 09 Nov 2026 01:58:17 GMT"
+          "published": "Mon, 09 Nov 2026 17:35:36 GMT"
         },
         {
           "headline": "FBL Nov 2026 22.000 call (FBL261120C00022000) Interactive Stock Chart - Yahoo Finance",
@@ -10580,16 +10608,16 @@
           "published": "Tue, 14 Jul 2026 00:49:37 GMT"
         },
         {
+          "headline": "FBL261120C00030000 Interactive Stock Chart | FBL Nov 2026 30.000 call Stock - Yahoo Finance - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBySXZXTjA3NmtzenJHT1U2bmhIdFdqbl9OaGZXZjhkRExXWEJlX2luYjNYbENSQ0ZCSWVBcDA2cXNLYkhhLUR4WTNyZUpvOUZZeXZHdnQ5ekVzdnFZQ29OMW1KUQ?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "Mon, 09 Nov 2026 12:50:09 GMT"
+        },
+        {
           "headline": "FBL Nov 2026 47.000 call (FBL261120C00047000) stock price, news, quote and history - Yahoo Finance UK",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01UkpRUkl3LVlRb1lPcWI2LS1ETkY1cUZlZnpVM0VzVWZVZ1ZRbDZFaXZoUHY0Vndqam94dW9OZzJCMk9wMGZmU1A2QXR6TnpBc1NySlRhdlZRMWstLWJMMjAtRjg?oc=5",
           "source": "Yahoo Finance UK",
           "published": "Fri, 06 Nov 2026 17:28:53 GMT"
-        },
-        {
-          "headline": "FBL261120C00035000 Interactive Stock Chart | FBL Nov 2026 35.000 call Stock - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LUGlmMG1ualVaZHJrQUtuazA0cnZhNmV1N1FkMzh0OGhxN1ZQdlRGRXdteVNoM1J4QlVWSXo1dG1DekFuNDlyOWw5cmVVc25sVlFTRUVQZWEydk9wMGpR?oc=5",
-          "source": "Yahoo Finance",
-          "published": "Fri, 06 Nov 2026 18:42:25 GMT"
         },
         {
           "headline": "FBL ETF: Great For Daily Exposure, Not For Holding (NASDAQ:FBL) - Seeking Alpha",
@@ -10616,10 +10644,10 @@
           "published": "Sun, 18 Dec 2022 04:52:28 GMT"
         },
         {
-          "headline": "FBL Nov 2026 28.000 call (FBL261120C00028000) stock price, news, quote and history - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52dTdkd1dhT3hmUWtnajRYb2FaUlJoazhmZkY5SFBQU1U2ZmljRGdtbnZUMDNST2dISV9lWnZfb28ycnJiSGhVelVsMFhPN0lMdk9PTjlRUEhBLTBsOUQ2R2pMSmo?oc=5",
-          "source": "Yahoo Finance UK",
-          "published": "Thu, 05 Nov 2026 21:02:41 GMT"
+          "headline": "FBL261120C00035000 Interactive Stock Chart | FBL Nov 2026 35.000 call Stock - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LUGlmMG1ualVaZHJrQUtuazA0cnZhNmV1N1FkMzh0OGhxN1ZQdlRGRXdteVNoM1J4QlVWSXo1dG1DekFuNDlyOWw5cmVVc25sVlFTRUVQZWEydk9wMGpR?oc=5",
+          "source": "Yahoo Finance",
+          "published": "Fri, 06 Nov 2026 18:42:25 GMT"
         },
         {
           "headline": "FBL: GraniteShares 2x Long META Daily ETF Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
@@ -10724,7 +10752,7 @@
       "key_risks": [],
       "suggested_action_detail": "Trim immediately to bring weight under 25%",
       "source": "rules",
-      "rec_id": "bfb8bf7c",
+      "rec_id": "36ec75ec",
       "ticker": "META",
       "quote": {
         "ticker": "META",
@@ -10732,7 +10760,7 @@
         "prev_close": 610.1500244140625,
         "day_change_pct": 5.116769557307823,
         "market_cap": 1639876001792,
-        "pe_ratio": 21.882294,
+        "pe_ratio": 20.816942,
         "high_52w": 777.5900268554688,
         "low_52w": 525.719970703125,
         "sector": "Communication Services",
@@ -11775,10 +11803,28 @@
         "bb_pct": 0.42004346788559715,
         "atr14": 24.735709054129465,
         "atr_pct": 3.856698823213564,
-        "vol_ratio_20d": 0.757231005984078,
+        "vol_ratio_20d": 0.7680787278284019,
         "breakout_20d": false
       },
       "news": [
+        {
+          "headline": "Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone",
+          "url": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?siteid=yhoof2&yptr=yahoo",
+          "source": "The Wall Street Journal",
+          "published": "2026-11-10T02:48:00Z"
+        },
+        {
+          "headline": "ASTS Stock Retreats On Q3 Sales Miss \u2013 But AST SpaceMobile\u2019s $1B Revenue Opportunity, AI Partnerships Keep Growth In Focus",
+          "url": "https://finance.yahoo.com/technology/ai/articles/asts-stock-retreats-q3-sales-013023492.html",
+          "source": "Stocktwits",
+          "published": "2026-11-10T01:30:23Z"
+        },
+        {
+          "headline": "Tech, Media & Telecom Roundup: Market Talk",
+          "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-a6a9d766?siteid=yhoof2&yptr=yahoo",
+          "source": "The Wall Street Journal",
+          "published": "2026-11-09T21:58:00Z"
+        },
         {
           "headline": "Meta Platforms Stock: Is it a Steal of a Deal at $650?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stock-steal-deal-205801184.html",
@@ -11822,39 +11868,21 @@
           "published": "2026-11-09T18:23:39Z"
         },
         {
-          "headline": "CoreWeave Stocks Jump 6.96% After Multi-Year Wayve Self-Driving AI Deal",
-          "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-stocks-jump-6-96-182326598.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-09T18:23:26Z"
-        },
-        {
-          "headline": "Meta Stocks Climb 4.82% as JPMorgan Bets on AI-Driven Ad Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stocks-climb-4-82-180359679.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-09T18:03:59Z"
-        },
-        {
-          "headline": "AMD Stock Could Jump 34%. No, It\u2019s Got Nothing to Do With the Nvidia Turmoil.",
-          "url": "https://www.barrons.com/articles/amd-stock-upgrade-nvidia-jensen-huang-probe-3fabd3f8?siteid=yhoof2&yptr=yahoo",
-          "source": "Barrons.com",
-          "published": "2026-11-09T18:02:00Z"
-        },
-        {
-          "headline": "Why Meta Platforms Stock Rallied on Monday - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUdMOElZOWFLR1FCQzMxbE5XN0tJeElzdUdrUksySzktUlN3U2QyTGhLbmc0LVZ0b0RadmtCNzkzamlnV2d3dGZoU1Nveks4UHgwMmk4MU93b0owRHNtMjVTWEM4NDJPTDhlM2wyZ0hnbTl2djJ5eFZ4azRrdVN2T05TNWNXaTBHSWtQaG05NnNxV1NlTDdZS0IyQlNCZw?oc=5",
+          "headline": "What Is Meta Platforms (META) Facing As Legal Risks Rise And AI Deals Expand? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmJmaDIwcnRLMjh1eGNUOGhuVjJNMGhyNFltVkNCYl9wMG43ck9jWnpNMHY0elFkWk1aYnM2WERaZ0lTWVpqV3AwVnYwZ2p2QVFWREpnRG5mV3dvRF8yMUhOb1NUcDlnSjAtUTlCanZkWWhINjhWWmcxS2g0aXZJUWEwY2Qyc0kxV25ibHJXNGVRelh5Um85N0x1TmFoZw?oc=5",
           "source": "Yahoo Finance",
-          "published": "Mon, 09 Nov 2026 18:23:39 GMT"
+          "published": "Sun, 08 Nov 2026 22:06:33 GMT"
         },
         {
-          "headline": "As Meta Platforms Buys Conductor, Here\u2019s How to Play META Stock - Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUpIUGFQYkEyTllPRTVzMEViaGc3RkZHdG53VnNnZDJVUzhTVG02TDUtanlVODNIVzQxRXpqTXJ2MTdZVnhjZERLcDNxU015ZUVaOWdPSHFONnZYeXN0aE1qS3VvdXdRc1gtZW9OSHVqWXFzYlU3NVJLYjBkemM1MWx1ZUh5VU5yODRpUmZHMWVfcDlxVDJwMXhmX05hUmx6NlM3dFRSQ3o?oc=5",
-          "source": "Barchart.com",
-          "published": "Sun, 08 Nov 2026 18:15:02 GMT"
+          "headline": "Why Meta Platforms Stock Rallied on Monday - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblRPS2JSaEh6Z2xwbDBmN196Y3dZQW1sNkRMYTRSMHV2dzkyeEtETEVvc295b0k3S1RFcmZ2YjUwbWxBeVhrNEpBNzRVa1FuMlpFUUpaWnBER2NVejFXVGNNX2N2dTdoSVREN2NDcTFaTEtURzUyVUFkSTBIcFdpQ2txdUxvMWF5Z19vT3ln?oc=5",
+          "source": "The Motley Fool",
+          "published": "Mon, 09 Nov 2026 18:03:00 GMT"
         }
       ],
       "earnings": {
         "date": "2027-01-27",
-        "days_away": 79
+        "days_away": 78
       },
       "consensus": {
         "target_mean": 850.1025,
@@ -12027,7 +12055,7 @@
       "key_risks": [],
       "suggested_action_detail": "Maintain current size; review on next earnings or 10%+ move",
       "source": "rules",
-      "rec_id": "d29a9bfe",
+      "rec_id": "b2cca9ad",
       "ticker": "INTC",
       "quote": {
         "ticker": "INTC",
@@ -13078,7 +13106,7 @@
         "bb_pct": 0.18504148535348441,
         "atr14": 6.453571592058454,
         "atr_pct": 10.870088779119975,
-        "vol_ratio_20d": 0.9742329791914625,
+        "vol_ratio_20d": 0.9920139131994685,
         "breakout_20d": false
       },
       "news": [
@@ -13087,6 +13115,24 @@
           "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html",
           "source": "Yahoo Finance",
           "published": "2026-11-09T14:47:15Z"
+        },
+        {
+          "headline": "Amtech, Intel, Applied Materials, AMD, and KLA Corporation shares are soaring, what you need to know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amtech-intel-applied-materials-amd-023736161.html",
+          "source": "StockStory",
+          "published": "2026-11-10T02:37:36Z"
+        },
+        {
+          "headline": "Nvidia CEO admits affair as company launches probe into spy claims",
+          "url": "https://finance.yahoo.com/video/nvidia-ceo-admits-affair-company-022227791.html",
+          "source": "CNN Business",
+          "published": "2026-11-10T02:22:27Z"
+        },
+        {
+          "headline": "Stock Market Today, Nov. 9: AMD Jumps on Oppenheimer Upgrade and Google Cloud Chip Selection",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-223002825.html",
+          "source": "Motley Fool",
+          "published": "2026-11-09T22:30:02Z"
         },
         {
           "headline": "Jensen Huang just handed Wall Street its first $4.5 trillion CEO scandal",
@@ -13125,39 +13171,21 @@
           "published": "2026-11-09T14:11:00Z"
         },
         {
-          "headline": "Why Is Intel (INTC) Pushing Deeper Into Industrial AI With New Edge Tools?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/why-intel-intc-pushing-deeper-140923172.html",
-          "source": "Simply Wall St.",
-          "published": "2026-11-09T14:09:23Z"
-        },
-        {
-          "headline": "Micron Has Lost Over 40% Since June. Where Does Its Price Target Stand Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-lost-over-40-since-134717749.html",
-          "source": "24/7 Wall St.",
-          "published": "2026-11-09T13:47:17Z"
-        },
-        {
-          "headline": "NVIDIA Falls 5% as Board Probes Jensen Huang\u2019s Ties to Alleged Chinese Spy; AMD Rises 4%, Intel Holds Steady",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-5-board-probes-134356169.html",
-          "source": "24/7 Wall St.",
-          "published": "2026-11-09T13:43:56Z"
+          "headline": "Intel Stock (NASDAQ:INTC) Jumps as it Pushes Farther into Edge AI - TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdUpTQXFUSndUTE5fb0ZPNmx3SXkwZ24ydkljMl9mMXl4c1BTc1I0RlhTcGZDaThxS3JsV0ZpLXRfbXF3eHdYcFEyaUZFRjYxUkxQTFM2UnZUQXRjclFBaENLM3dmNVYxZXVOUFNmTzAxVWkzUDNCcTZ0bURaZkFybTcxZnhUak04cm9xZUhoYnpzc0hrdFI4?oc=5",
+          "source": "TipRanks",
+          "published": "Mon, 09 Nov 2026 19:36:12 GMT"
         },
         {
           "headline": "What Intel Doubters Got Wrong - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSFZBWmdRLXIyd3pzS3ctZS1IUUFnLVN6NVpyREdJOUlXRHBtZXlEYXN4bTBQOEd4ODFUNW9MQXB1TG5CN0Z3R1BkeDVtVTNIY2Y1WXZVeS1ocGFWOEMxMkZwc3JnWWExcGRjbEFwdGcwT1hjXzVROHlOdHB1WE9TZFFsS1MxbFF5OEt0a2dxV2ZvZWs?oc=5",
           "source": "Yahoo Finance",
           "published": "Sun, 08 Nov 2026 15:08:28 GMT"
-        },
-        {
-          "headline": "Intel Stock Faces a New Threat That No One Saw Coming - Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmY1YUdLRU9wQ09DUldEWkdwVEFrQjhuOXE0TWMydTAxc1NrRDlvQ3c5QmNnMURrNmFHSWlYc3l6NmNnTm52QmhXbl9TWTJuZWMxaG8xRWxRN3VxQVEwN2JnbHljTU5wSXhBeE81RnVtdkJZenlERWI2SEVlaE5XSXdBNUl3MjNDWUt6X3ZkeHVrTGZvY3JkbzdaalF5QQ?oc=5",
-          "source": "Barchart.com",
-          "published": "Sun, 08 Nov 2026 20:30:03 GMT"
         }
       ],
       "earnings": {
         "date": "2027-01-28",
-        "days_away": 80
+        "days_away": 79
       },
       "consensus": {
         "target_mean": 91.11628,
@@ -13299,7 +13327,7 @@
       "key_risks": [],
       "suggested_action_detail": "Maintain current size; review on next earnings or 10%+ move",
       "source": "rules",
-      "rec_id": "aee457fd",
+      "rec_id": "34f527cf",
       "ticker": "FPS",
       "quote": {
         "ticker": "FPS",
@@ -13307,7 +13335,7 @@
         "prev_close": 19.479999542236328,
         "day_change_pct": 16.016431789275178,
         "market_cap": 7209056768,
-        "pe_ratio": 75.33333,
+        "pe_ratio": 64.571434,
         "high_52w": 64.58999633789062,
         "low_52w": 18.209999084472656,
         "sector": "Industrials",
@@ -13913,10 +13941,16 @@
         "bb_pct": 0.25225913732078414,
         "atr14": 3.1728572845458984,
         "atr_pct": 14.039191287569174,
-        "vol_ratio_20d": 0.966569520649577,
+        "vol_ratio_20d": 0.9730706042988969,
         "breakout_20d": false
       },
       "news": [
+        {
+          "headline": "Forgent Power Solutions (FPS) is Soaring Double Digits \u2014 Here\u2019s Why",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-solutions-fps-soaring-032648287.html",
+          "source": "Insider Monkey",
+          "published": "2026-11-10T03:26:48Z"
+        },
         {
           "headline": "MCHP Q2 Earnings Beat Estimates, Revenues Rise on Demand Recovery",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mchp-q2-earnings-beat-estimates-152400781.html",
@@ -13972,27 +14006,21 @@
           "published": "2026-11-04T17:18:00Z"
         },
         {
-          "headline": "AMD Q3 Earnings Beat Estimates, Strong Data Center Aids Revenue Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-q3-earnings-beat-estimates-164800437.html",
-          "source": "Zacks",
-          "published": "2026-11-04T16:48:00Z"
-        },
-        {
-          "headline": "Why Forgent Power Solutions Stock Sank This Week - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd19ha3ZOOE84TmFZRFNEV1dLNVN2cXVfMkNBc3pIMWhtNnhLY0g5U01BN3NHQ0xVLXB0eUZ3aUNNdXI5VmFLZWlRcTlUalR3eEg2d1R6OVRYMGtvMnFRbW1kRU8zTHN0R2dncWZWN2dnQjEyUjZwMG1reGlGRF9QQmY2SXFGS0xqY2F4ZXRwZ0FhTDRqYWNVM2RiQzFQMmM?oc=5",
+          "headline": "Forgent Power Solutions (FPS) is Soaring Double Digits \u2014 Here\u2019s Why - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWtpeGNQSnZpSHRqbDY0SDJzdTZSdmtXQmpsanVGWlptNHN6TkNNRkgzQkk0M05nYy1jYzk2dGdBWE1wdWdNcEJXSk1xVEZyQ185YlZjVGJlb3pCSEM3dmd0ajFTRFh0TWx5U0p3R2VDOWNrdDhreGJwZ3k0N2F6SE8zQ2JDd04tSjZLUkNiMHBwQU9JRG9XYVU4bVp6bUMyTkE?oc=5",
           "source": "Yahoo Finance",
-          "published": "Fri, 23 Oct 2026 07:00:00 GMT"
+          "published": "Tue, 10 Nov 2026 03:40:50 GMT"
         },
         {
-          "headline": "Forgent Power Solutions (NYSE:FPS) Stock Jumps 11.9% - Here's Why - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWhaSk1hcDlZc21GYmJpNG13ejhEblpkR25WeVZObDNlQnZYWGtqU1Q1bEd3TzRZR0NjaGN1Vml5aHVZYkhyNDkxalZEb2l0ckZUNE9IclFHTHp0SUVlbzhrb2ZfS2RNMmxGWlpHcUdUZU1PSG51YllweUNGblRlZ1dBOU56ODY3NXl5all2bl9CdXEzTlFtbkZtSmJsWWs4LUFBVjZ0OGpnQTBNN1BqWEJCUGNiV2dnYUE?oc=5",
-          "source": "MarketBeat",
-          "published": "Mon, 09 Nov 2026 18:03:38 GMT"
+          "headline": "Forgent Power Solutions, Inc. (FPS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZMkFpN2xjd3J0a29iT0MzSDJkZHpFSGowV2lCeF9Qb0Q4LTAtNmNZRE1KT1RtNEpzeVpnRnJrVS1nMFZyZWROWmNNWDZOZlVP?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "Sat, 07 Nov 2026 23:36:15 GMT"
         }
       ],
       "earnings": {
         "date": "2026-11-12",
-        "days_away": 3
+        "days_away": 2
       },
       "consensus": {
         "target_mean": 52.84615,
@@ -14109,9 +14137,9 @@
         "percentile_in_sector": 100.0,
         "vs_own_history_percentile": null,
         "metric": "trailing_pe",
-        "metric_value": 75.33,
+        "metric_value": 64.57,
         "n_peers": 12,
-        "summary": "trailing pe 75.3 = 100th percentile in sector (extreme)"
+        "summary": "trailing pe 64.6 = 100th percentile in sector (extreme)"
       }
     },
     {
@@ -14127,7 +14155,7 @@
       ],
       "suggested_action_detail": "Exit fully on bounce toward SMA200",
       "source": "rules",
-      "rec_id": "aed393f7",
+      "rec_id": "c93d9e02",
       "ticker": "AMAT",
       "quote": {
         "ticker": "AMAT",
@@ -14135,7 +14163,7 @@
         "prev_close": 332.7200012207031,
         "day_change_pct": 11.369916576542648,
         "market_cap": 294067535872,
-        "pe_ratio": 31.971525,
+        "pe_ratio": 28.702555,
         "high_52w": 723.0,
         "low_52w": 220.22999572753906,
         "sector": "Technology",
@@ -15176,15 +15204,33 @@
         "bb_upper": 463.9025648740711,
         "bb_lower": 325.06343244038203,
         "bb_pct": 0.3276205674528508,
-        "atr14": 25.16571044921875,
-        "atr_pct": 6.79144819275481,
-        "vol_ratio_20d": 1.2470765392292755,
+        "atr14": 25.166425432477677,
+        "atr_pct": 6.791641144659407,
+        "vol_ratio_20d": 1.252889702994117,
         "breakout_20d": false
       },
       "news": [
         {
+          "headline": "Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-vs-dell-technologies-034556470.html",
+          "source": "Motley Fool",
+          "published": "2026-11-10T03:45:56Z"
+        },
+        {
+          "headline": "Amtech, Intel, Applied Materials, AMD, and KLA Corporation shares are soaring, what you need to know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amtech-intel-applied-materials-amd-023736161.html",
+          "source": "StockStory",
+          "published": "2026-11-10T02:37:36Z"
+        },
+        {
+          "headline": "U.S. stock futures steady after tech-led rebound; CPI in focus",
+          "url": "https://finance.yahoo.com/news/u-stock-futures-steady-tech-004342905.html",
+          "source": "Investing.com",
+          "published": "2026-11-10T00:43:42Z"
+        },
+        {
           "headline": "4 Overlooked Tech Stocks That Pay Dividends and Have Room to Grow",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-overlooked-tech-stocks-pay-202742759.html",
+          "url": "https://finance.yahoo.com/news/4-overlooked-tech-stocks-pay-202742759.html",
           "source": "24/7 Wall St.",
           "published": "2026-11-09T20:27:42Z"
         },
@@ -15225,39 +15271,21 @@
           "published": "2026-11-09T13:33:39Z"
         },
         {
-          "headline": "Applied Materials (AMAT) Stock Looks Above Fair Value After Its 127% Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-stock-looks-131021140.html",
-          "source": "Simply Wall St.",
-          "published": "2026-11-09T13:10:21Z"
-        },
-        {
-          "headline": "US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-125311861.html",
-          "source": "MT Newswires",
-          "published": "2026-11-09T12:53:11Z"
-        },
-        {
-          "headline": "AMAT to Post Q4 Earnings: Time to Buy, Sell or Hold the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amat-post-q4-earnings-time-124800229.html",
-          "source": "Zacks",
-          "published": "2026-11-09T12:48:00Z"
-        },
-        {
-          "headline": "AMAT Shares Plunge 30% in a Month: Should You Buy, Sell or Hold? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkg5Smc5OUNEdV9XQ2ZFU0drVk9vcGxoMExyNjJWZFcyWnFkaklvUE1DNlQxcHZHY3lsNFdUdkY1SXF3WnUyVzI5Szg1akRRN1FWNGp5UTBGTTl3dU9JQVNJRDhEWVNYLUhqZjZFZktjWk1mSGh0REdNZ2FjVm5ib3ZvX0lLU0NYOGYwNXp4YnR1QzM5enJn?oc=5",
+          "headline": "Applied Materials (AMAT) Stock Looks Above Fair Value After Its 127% Run - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0p5cE5fOHZydmRvMHNLZjhSLTZibnNSbnRiLWtSLVd1ajNwNkZQcFZqYlFQaGJxM2Y4SmZDRUo2aWdmRXljdUV4U2lGMjByM1ZDaDNfMTMwZUVxaWNFZjZKeUVRVzBVeDZkc3lOa2t1OUxMVldBQzg5RzA1Mm9Fa01DRVZCZ2p6azlHV0NJUDFZMXYtY24zeWlhdVo2U0tX?oc=5",
           "source": "Yahoo Finance",
-          "published": "Thu, 05 Nov 2026 15:05:00 GMT"
+          "published": "Mon, 09 Nov 2026 13:10:21 GMT"
         },
         {
-          "headline": "Can Applied Materials Stock Jump 50%? - Trefis",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHpwSVMtcjlJSlNNZ2VicE1ZSWxwMzdFeVZ5NjBxMkwyWmc0ckhoZmR0SlNLektfdlBCYWZscGdtYWlGM3N4OHVVdEpDNTBSTFN6RGpMdlc2Y3B6VVU1bzQ2OEZ3NTVySEp2OFd0WkF2WlYxMlBSU1AyX1pWTXQ0SFFLNlh4dGZvNWkxUU13eE1qWThIRlpQcEM2bDE?oc=5",
-          "source": "Trefis",
-          "published": "Mon, 09 Nov 2026 05:01:58 GMT"
+          "headline": "AMAT Stock Quote Price and Forecast - CNN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01d0hqbmgzSUQxZDJmZ3RXaElXLUFtLVVBb1FOMnRtMnZwZ1YteUpybDhTWUhMY1NEV3FEeHBSQW9GQWMtakNkdnN4NUMzN043?oc=5",
+          "source": "CNN",
+          "published": "Sun, 08 Nov 2026 20:02:19 GMT"
         }
       ],
       "earnings": {
         "date": "2026-11-12",
-        "days_away": 3
+        "days_away": 2
       },
       "consensus": {
         "target_mean": 626.86487,
@@ -15369,9 +15397,9 @@
         "percentile_in_sector": 64.3,
         "vs_own_history_percentile": null,
         "metric": "trailing_pe",
-        "metric_value": 31.97,
+        "metric_value": 28.7,
         "n_peers": 14,
-        "summary": "trailing pe 32.0 = 64th percentile in sector (fair)"
+        "summary": "trailing pe 28.7 = 64th percentile in sector (fair)"
       }
     },
     {
@@ -15385,7 +15413,7 @@
       "key_risks": [],
       "suggested_action_detail": "Maintain current size; review on next earnings or 10%+ move",
       "source": "rules",
-      "rec_id": "6e90b21a",
+      "rec_id": "f2b8496b",
       "ticker": "GD",
       "quote": {
         "ticker": "GD",
@@ -15393,7 +15421,7 @@
         "prev_close": 354.05999755859375,
         "day_change_pct": 2.2623311926955023,
         "market_cap": 97839898624,
-        "pe_ratio": 21.310772,
+        "pe_ratio": 20.844559,
         "high_52w": 395.9700012207031,
         "low_52w": 312.5299987792969,
         "sector": "Industrials",
@@ -16436,7 +16464,7 @@
         "bb_pct": 0.6607854760845344,
         "atr14": 9.257856096540179,
         "atr_pct": 2.556924326584762,
-        "vol_ratio_20d": 0.6962802944175737,
+        "vol_ratio_20d": 0.696358964102835,
         "breakout_20d": false
       },
       "news": [
@@ -16501,21 +16529,21 @@
           "published": "2026-11-06T01:51:12Z"
         },
         {
-          "headline": "General Dynamics (GD) Stock May Be 20% Undervalued On CEO Succession News - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZTdWSFoyc2hHamhGakx4TDhqeGNQQmJUd216YnlJZ2pzdU5jdGFsWVhVNUx6YnE3U2xOSkhtbVNiUGdmRDUzX0JYcHI2RWdEc21Bb0MyRUh5ZFh0UzJVU1dnaHc0Ykg4R0hkZi1vYlZIaWhOSUR5bGttX2lCbmVJb3RSRmlrZzdySG9YMWJXUHZjdUhTVHhYZ3VR?oc=5",
-          "source": "Yahoo Finance",
-          "published": "Sat, 17 Oct 2026 07:00:00 GMT"
+          "headline": "General Dynamics | GD Stock Price, Company Overview & News - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LLW8xQ1BrRm5tRU5aSGRCQ1A0WG5wWVpJeHpVaVhubjkwTzd3b0FKLXFlN1FCcVYzSUpxems4WkhXT25FTWoyQWlDSmlFZ1ZoWXhjNmg4NDU4SUJfbk5F?oc=5",
+          "source": "Forbes",
+          "published": "Thu, 05 Nov 2026 14:00:00 GMT"
         },
         {
-          "headline": "After donating 138 shares, General Dynamics (GD) director de Leon holds 5,631 shares. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVNIVEh6LW5kNlpmUW1VRVE2TDZtNmhpSF93V3NrZnh1R1JjVFZycEdDM3RNVG5RVFMyVi1kY3BxcFM0SG1pa05sTmNtcWpNTlNlYTRfUXVtZDNzMGMySmhmemVSQTNVX1ZONjRqeHlJUHkxV3RRWWp3VXQxdko2YnIxOEQ2TVRQd1JGQVBrV1l5ZnpDOW9HcExORVRwOEtvRVlKUHdjNWtqX3BPb3dKdGY5QQ?oc=5",
-          "source": "Stock Titan",
-          "published": "Mon, 09 Nov 2026 21:04:51 GMT"
+          "headline": "Did Earnings Guidance Lift Just Shift General Dynamics (GD) Stock Narrative? - Simply Wall St",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnVmUWhacUM3eUEySENBUktUc1FLZWVaUkhpdUFQSUN4Xzh1T0N0M1I0cWF0OFE1YURsUTEtdXhWbVhBS19LZ3E3WEZOaDliaVlaeDRQNFA3SkVaUmZrcDBXVEVkOHdKMEZDN0ZJTHhmVXIxbjZFV2gzTVNfX1JFWUxVSHZER0d0b0JkZm5KMWt6QTdWUGNXVi1IZVlDUkxNX3RqVXFYM25RUWNWZWxnMlRaSm52UTc5bFlFa2tiN29FQi01RXJNaFNhdEltckJpQ1HSAdcBQVVfeXFMTVl6U1d1c0dfSXQxSkFjWjh4VXY3VkFiaU91SXktTXJhcmxhZjJzelczWEhpMDJmQmZqY3FkcktnVlRjaXV3blVVSUxuYjFTRE44TnBiSE1tUFpKQWgtZlJidnhkR3BlN2hhMDF4SFY3WjUwX2JqRmZFTVQtQkhQX1pFV21sVFRINlFrRFJ2RDBLa3MtRXJkRGkzcXlFU19mS3VOcjYxNFVnaUR3M2JiTEd3aG9PeWcxdWNOV0hDb2h0eU1yZFNzc05OcVJ5cG1PSktXYlVXeTQ?oc=5",
+          "source": "Simply Wall St",
+          "published": "Tue, 10 Nov 2026 01:29:02 GMT"
         }
       ],
       "earnings": {
         "date": "2027-01-27",
-        "days_away": 79
+        "days_away": 78
       },
       "consensus": {
         "target_mean": 418.58856,
@@ -16673,7 +16701,7 @@
       "key_risks": [],
       "suggested_action_detail": "Maintain current size; review on next earnings or 10%+ move",
       "source": "rules",
-      "rec_id": "57b4cc10",
+      "rec_id": "7902f243",
       "ticker": "RUN",
       "quote": {
         "ticker": "RUN",
@@ -16681,7 +16709,7 @@
         "prev_close": 9.979999542236328,
         "day_change_pct": -2.404807436137263,
         "market_cap": 2356696832,
-        "pe_ratio": 4.919192,
+        "pe_ratio": 5.0466323,
         "high_52w": 21.40999984741211,
         "low_52w": 6.889999866485596,
         "sector": "Technology",
@@ -17724,7 +17752,7 @@
         "bb_pct": 0.9725964094478355,
         "atr14": 0.645714351109096,
         "atr_pct": 6.629510947462447,
-        "vol_ratio_20d": 1.065753876219879,
+        "vol_ratio_20d": 1.1165518318554288,
         "breakout_20d": false
       },
       "news": [
@@ -17789,21 +17817,21 @@
           "published": "2026-11-05T17:13:45Z"
         },
         {
-          "headline": "Sandisk (SNDK) Stock Looks Reasonable On Its 212% One Year Run - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3ppYlhqM2h0a2RTNW5va1FEM3NfV1FMdnhNYk11N0VzaXdiTmZyUHA3RTh5RGZuRzlhZzhITjNoTEhMZ2pwN3BsWVc4U1lNUDhyWXo4NWV2a0RQb3Q0cUxlaHBfZ1F1ZjhQUVplaHJWR290dHlSOHFoQmQ2UFFjdEFSNWJQdWhzU25XMV9SbmlCTklMVklKUEtxX2tIYkdEcWc?oc=5",
-          "source": "Yahoo Finance",
-          "published": "Mon, 09 Nov 2026 19:16:28 GMT"
+          "headline": "Sunrun Inc. (RUN) stock price, news, quote and history - Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oYVFtdEYxV090OTNaZjFMdC1zWHBEN1B5aDBweGY0MGIwMVV5eXNmZWYxNGd0Q3M0eXFNSV9yU2pEaWhJY3dxVkttZGFaS3JN?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "published": "Sun, 08 Nov 2026 17:48:44 GMT"
         },
         {
-          "headline": "JetBlue Rallies 7% as Airline Stocks Extend Their Run; United Climbs 7%, American Airlines Gains 6% - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaHhzTkVIbVZhSTk1TkVJZm9aNFViVGVRRGMtWVIxRGFYYlBvMUEtNDZjSkc4UjFPaVRNZkxqOWZuZUhEQUk5ZWtiNzNwTkZnLUltVVg0Z01NYmNqZEhPUGdPNU9oYWMweWxOS2R2N1ZlZjNFWU5jZVRNZXU2M3k1aVVIbU1xSE9XcGppd1dvaWgxRlJjSWZkaDdlS29xY09ISW40eUQtbVNXdmZoajFuaGdBaEIzaHFrSTdiYzZBdlV3Y2xyQ0p5X09tQk9ZekRyLWhMQg?oc=5",
-          "source": "24/7 Wall St.",
-          "published": "Mon, 09 Nov 2026 16:02:00 GMT"
+          "headline": "Ceco Environmental Stock: Why It\u2019s Up So Much After Earnings Today - Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR04zNHpTWkV4Q19GZEhVNHdOaDVZZUVtcnkzMXFJSmcwYXpYdWgzaFFnVDNhWFJEUkU5dVIzTGYydGNUaHdPekxuN2UzdVc5TThqQVBqcjBRaTR5QlR5dXNyYW1rX3o2cE1xbml1QVh5aFNMV3p2Rl9wZE1pT1M1RDVJenR6eUZv?oc=5",
+          "source": "Barron's",
+          "published": "Mon, 09 Nov 2026 18:07:00 GMT"
         }
       ],
       "earnings": {
         "date": "2026-11-04",
-        "days_away": -5
+        "days_away": -6
       },
       "consensus": {
         "target_mean": 13.82353,
@@ -18286,12 +18314,12 @@
         ],
         "why": "Momentum & Theme fit -- 2 signals aligned",
         "swing_plan": {
-          "entry_low": 347.87,
+          "entry_low": 347.86,
           "entry_high": 355.4,
-          "entry_zone": "$347.87 - $355.40",
-          "stop": 333.75,
+          "entry_zone": "$347.86 - $355.40",
+          "stop": 333.73,
           "stop_pct": -5.1,
-          "target": 387.4,
+          "target": 387.43,
           "target_pct": 10.2,
           "reward_risk": 2.0,
           "hold_window": "2-3 weeks"
@@ -18340,7 +18368,7 @@
           {
             "source": "momentum",
             "label": "Momentum",
-            "detail": "20-day breakout on 1.7x volume",
+            "detail": "20-day breakout on 1.8x volume",
             "points": 3.0
           }
         ],
@@ -18526,12 +18554,12 @@
         ],
         "why": "News / social signal",
         "swing_plan": {
-          "entry_low": 113.76,
-          "entry_high": 120.92,
-          "entry_zone": "$113.76 - $120.92",
-          "stop": 100.32,
+          "entry_low": 113.75,
+          "entry_high": 120.93,
+          "entry_zone": "$113.75 - $120.93",
+          "stop": 100.3,
           "stop_pct": -14.5,
-          "target": 151.38,
+          "target": 151.42,
           "target_pct": 29.0,
           "reward_risk": 2.0,
           "hold_window": "2-3 weeks"
@@ -18936,12 +18964,12 @@
         ],
         "why": "Momentum signal",
         "swing_plan": {
-          "entry_low": 184.06,
+          "entry_low": 184.05,
           "entry_high": 191.75,
-          "entry_zone": "$184.06 - $191.75",
-          "stop": 172.52,
+          "entry_zone": "$184.05 - $191.75",
+          "stop": 172.5,
           "stop_pct": -8.2,
-          "target": 218.67,
+          "target": 218.7,
           "target_pct": 16.4,
           "reward_risk": 2.0,
           "hold_window": "2-3 weeks"
@@ -18966,12 +18994,12 @@
         ],
         "why": "Momentum signal",
         "swing_plan": {
-          "entry_low": 187.78,
+          "entry_low": 187.76,
           "entry_high": 201.86,
-          "entry_zone": "$187.78 - $201.86",
-          "stop": 166.67,
-          "stop_pct": -14.4,
-          "target": 251.12,
+          "entry_zone": "$187.76 - $201.86",
+          "stop": 166.62,
+          "stop_pct": -14.5,
+          "target": 251.19,
           "target_pct": 28.9,
           "reward_risk": 2.0,
           "hold_window": "2-3 weeks"
@@ -19026,12 +19054,12 @@
         ],
         "why": "Momentum signal",
         "swing_plan": {
-          "entry_low": 144.89,
+          "entry_low": 144.88,
           "entry_high": 153.85,
-          "entry_zone": "$144.89 - $153.85",
-          "stop": 131.44,
+          "entry_zone": "$144.88 - $153.85",
+          "stop": 131.43,
           "stop_pct": -12.0,
-          "target": 185.23,
+          "target": 185.24,
           "target_pct": 24.0,
           "reward_risk": 2.0,
           "hold_window": "2-3 weeks"
@@ -19103,7 +19131,7 @@
         "ticker": "ROKU",
         "theme": "Consumer growth",
         "price": 160.52000427246094,
-        "day_change_pct": null,
+        "day_change_pct": 0.0,
         "score": 2.0,
         "source_count": 1,
         "sources": [
@@ -19139,9 +19167,9 @@
           "entry_low": 261.9,
           "entry_high": 280.83,
           "entry_zone": "$261.90 - $280.83",
-          "stop": 226.42,
+          "stop": 226.4,
           "stop_pct": -16.6,
-          "target": 361.26,
+          "target": 361.3,
           "target_pct": 33.1,
           "reward_risk": 2.0,
           "hold_window": "2-3 weeks"
@@ -19210,11 +19238,11 @@
         "rank": 40
       }
     ],
-    "total_ideas": 45,
+    "total_ideas": 48,
     "source_counts": {
       "momentum": 28,
       "theme": 15,
-      "news": 8,
+      "news": 11,
       "insider": 0
     },
     "insider_scanned": 0,
@@ -19423,12 +19451,12 @@
         ],
         "why": "Momentum & Theme fit -- 2 signals aligned",
         "swing_plan": {
-          "entry_low": 347.87,
+          "entry_low": 347.86,
           "entry_high": 355.4,
-          "entry_zone": "$347.87 - $355.40",
-          "stop": 333.75,
+          "entry_zone": "$347.86 - $355.40",
+          "stop": 333.73,
           "stop_pct": -5.1,
-          "target": 387.4,
+          "target": 387.43,
           "target_pct": 10.2,
           "reward_risk": 2.0,
           "hold_window": "2-3 weeks"
@@ -19445,7 +19473,7 @@
   },
   "idea_queue": {
     "prune_stats": {
-      "dropped_open": 5,
+      "dropped_open": 1,
       "expired_pass": 0
     }
   }
