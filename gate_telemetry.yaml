@@ -1402,34 +1402,34 @@
     outage: 0
     unknown: 2
 - date: '2026-11-10'
-  candidates_evaluated: 9
+  candidates_evaluated: 7
   cleared_primary: 0
   cleared_insider_promotion: 0
   blocked_by:
     technical: 2
     sector_momentum: 3
-    news: 2
+    news: 0
     trump: 0
-    earnings_window: 1
+    earnings_window: 2
     correlation_block: 0
-    valuation_block: 1
+    valuation_block: 0
     regime: 0
     soft_veto: 0
     trump_block: 0
   near_miss:
-  - ticker: LLY
+  - ticker: IREN
     passed:
     - technical
-    - sector_momentum
-    failed: news
+    - news
+    failed: sector_momentum
     insider_score: 0
     insider_status: zero
     news_status: ok
-  - ticker: NNE
+  - ticker: TEM
     passed:
     - technical
-    - sector_momentum
-    failed: news
+    - news
+    failed: sector_momentum
     insider_score: 0
     insider_status: zero
     news_status: ok
@@ -1444,9 +1444,9 @@
     scored: 0
     zero: 2
     unavailable: 0
-    not_evaluated: 7
+    not_evaluated: 5
   news:
-    ok: 7
+    ok: 5
     empty: 0
     outage: 0
     unknown: 2
