@@ -15379,14 +15379,14 @@
       excess_return: -0.26353433822628125
       hit: false
     '20':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-11-24'
+      exit_price: 12.949999809265137
+      benchmark_exit_price: 718.780029296875
+      forward_return: -0.5267677720599526
+      benchmark_forward_return: -0.06661037184305602
+      excess_return: -0.4601574002168966
+      hit: false
   last_updated: '2026-11-24'
 - ticker: QLYS
   miss_date: '2026-10-27'
@@ -15421,14 +15421,14 @@
       excess_return: -0.1961980679307108
       hit: false
     '20':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-11-24'
+      exit_price: 192.16000366210938
+      benchmark_exit_price: 718.780029296875
+      forward_return: -0.15920276006189107
+      benchmark_forward_return: -0.06661037184305602
+      excess_return: -0.09259238821883506
+      hit: false
   last_updated: '2026-11-24'
 - ticker: RBRK
   miss_date: '2026-10-27'
@@ -15463,14 +15463,14 @@
       excess_return: -0.17088293566860335
       hit: false
     '20':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-11-24'
+      exit_price: 110.62999725341797
+      benchmark_exit_price: 718.780029296875
+      forward_return: -0.19165573023495702
+      benchmark_forward_return: -0.06661037184305602
+      excess_return: -0.125045358391901
+      hit: false
   last_updated: '2026-11-24'
 - ticker: TENB
   miss_date: '2026-10-27'
@@ -15505,14 +15505,14 @@
       excess_return: -0.11243711096707146
       hit: false
     '20':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-11-24'
+      exit_price: 45.22999954223633
+      benchmark_exit_price: 718.780029296875
+      forward_return: -0.07029808584534865
+      benchmark_forward_return: -0.06661037184305602
+      excess_return: -0.003687714002292633
+      hit: false
   last_updated: '2026-11-24'
 - ticker: TSLA
   miss_date: '2026-10-27'
@@ -15547,14 +15547,14 @@
       excess_return: -0.04016141980023044
       hit: false
     '20':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-11-24'
+      exit_price: 384.67999267578125
+      benchmark_exit_price: 718.780029296875
+      forward_return: -0.05243063774984569
+      benchmark_forward_return: -0.06661037184305602
+      excess_return: 0.014179734093210328
+      hit: true
   last_updated: '2026-11-24'
 - ticker: QLYS
   miss_date: '2026-10-28'
@@ -16880,14 +16880,14 @@
       excess_return: -0.16412390018408352
       hit: false
     '10':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-11-24'
+      exit_price: 12.949999809265137
+      benchmark_exit_price: 718.780029296875
+      forward_return: -0.33023013072367385
+      benchmark_forward_return: -0.03783567825216296
+      excess_return: -0.2923944524715109
+      hit: false
     '20':
       status: pending
       exit_date: null
@@ -16922,14 +16922,14 @@
       excess_return: 0.010153159403111423
       hit: true
     '10':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-11-24'
+      exit_price: 1407.5899658203125
+      benchmark_exit_price: 718.780029296875
+      forward_return: -0.0109265769130709
+      benchmark_forward_return: -0.03783567825216296
+      excess_return: 0.02690910133909206
+      hit: true
     '20':
       status: pending
       exit_date: null
@@ -16964,14 +16964,14 @@
       excess_return: -0.08079921356816425
       hit: false
     '10':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-11-24'
+      exit_price: 8.84000015258789
+      benchmark_exit_price: 718.780029296875
+      forward_return: -0.2315248343486913
+      benchmark_forward_return: -0.03783567825216296
+      excess_return: -0.19368915609652834
+      hit: false
     '20':
       status: pending
       exit_date: null
@@ -17006,14 +17006,14 @@
       excess_return: -0.1824814282106053
       hit: false
     '10':
-      status: pending
-      exit_date: null
-      exit_price: null
-      benchmark_exit_price: null
-      forward_return: null
-      benchmark_forward_return: null
-      excess_return: null
-      hit: null
+      status: realized
+      exit_date: '2026-11-24'
+      exit_price: 54.83000183105469
+      benchmark_exit_price: 718.780029296875
+      forward_return: -0.30726467752338005
+      benchmark_forward_return: -0.03783567825216296
+      excess_return: -0.2694289992712171
+      hit: false
     '20':
       status: pending
       exit_date: null
