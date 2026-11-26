@@ -215,7 +215,7 @@
   idea_id: c9ee5681
   first_seen: '2026-06-26'
   last_seen: '2026-11-26'
-  last_rank: 11
+  last_rank: 10
   last_score: 2.5
   last_why: Momentum signal
   swing_plan:
@@ -326,7 +326,7 @@
   idea_id: 83125cc8
   first_seen: '2026-07-30'
   last_seen: '2026-11-26'
-  last_rank: 12
+  last_rank: 11
   last_score: 2.5
   last_why: Momentum signal
   swing_plan:
@@ -346,7 +346,7 @@
   idea_id: 37b12904
   first_seen: '2026-08-04'
   last_seen: '2026-11-26'
-  last_rank: 30
+  last_rank: 31
   last_score: 1.0
   last_why: Momentum signal
   swing_plan:
@@ -466,7 +466,7 @@
   idea_id: e5f2231f
   first_seen: '2026-09-03'
   last_seen: '2026-11-26'
-  last_rank: 31
+  last_rank: 32
   last_score: 1.0
   last_why: Momentum signal
   swing_plan:
@@ -506,19 +506,10 @@
   idea_id: a31c4739
   first_seen: '2026-09-10'
   last_seen: '2026-11-26'
-  last_rank: 9
-  last_score: 2.5
+  last_rank: 26
+  last_score: 2.0
   last_why: Momentum signal
-  swing_plan:
-    entry_low: 159.67
-    entry_high: 161.93
-    entry_zone: $159.67 - $161.93
-    stop: 155.44
-    stop_pct: -3.3
-    target: 171.52
-    target_pct: 6.7
-    reward_risk: 2.0
-    hold_window: 2-3 weeks
+  swing_plan: null
   verdict: open
   verdict_at: null
   user_note: null
@@ -679,7 +670,7 @@
   idea_id: a910299c
   first_seen: '2026-10-06'
   last_seen: '2026-11-26'
-  last_rank: 27
+  last_rank: 28
   last_score: 1.29
   last_why: News / social signal
   swing_plan:
@@ -719,7 +710,7 @@
   idea_id: babbb87b
   first_seen: '2026-10-07'
   last_seen: '2026-11-26'
-  last_rank: 10
+  last_rank: 9
   last_score: 2.5
   last_why: Momentum signal
   swing_plan:
@@ -1120,17 +1111,17 @@
 - ticker: COST
   idea_id: 75fde9af
   first_seen: '2026-11-03'
-  last_seen: '2026-11-25'
+  last_seen: '2026-11-26'
   last_rank: 12
   last_score: 2.5
   last_why: Momentum signal
   swing_plan:
-    entry_low: 1083.02
-    entry_high: 1097.88
-    entry_zone: $1083.02 - $1097.88
-    stop: 1055.15
+    entry_low: 1081.24
+    entry_high: 1096.1
+    entry_zone: $1081.24 - $1096.10
+    stop: 1053.37
     stop_pct: -3.2
-    target: 1161.05
+    target: 1159.27
     target_pct: 6.5
     reward_risk: 2.0
     hold_window: 2-3 weeks
@@ -1192,7 +1183,7 @@
   idea_id: 7d3d4df2
   first_seen: '2026-11-09'
   last_seen: '2026-11-26'
-  last_rank: 26
+  last_rank: 27
   last_score: 1.39
   last_why: News / social signal
   swing_plan:
@@ -1332,7 +1323,7 @@
   idea_id: fde432f9
   first_seen: '2026-11-13'
   last_seen: '2026-11-26'
-  last_rank: 29
+  last_rank: 30
   last_score: 1.05
   last_why: News / social signal
   swing_plan:
@@ -1634,7 +1625,7 @@
   idea_id: 9841c420
   first_seen: '2026-11-25'
   last_seen: '2026-11-26'
-  last_rank: 32
+  last_rank: 33
   last_score: 1.0
   last_why: Momentum signal
   swing_plan:
@@ -1654,7 +1645,7 @@
   idea_id: 7248ae5a
   first_seen: '2026-11-25'
   last_seen: '2026-11-26'
-  last_rank: 33
+  last_rank: 34
   last_score: 1.0
   last_why: Momentum signal
   swing_plan:
@@ -1674,7 +1665,7 @@
   idea_id: 4a815a1d
   first_seen: '2026-11-25'
   last_seen: '2026-11-26'
-  last_rank: 34
+  last_rank: 35
   last_score: 1.0
   last_why: Momentum signal
   swing_plan:
@@ -1694,7 +1685,7 @@
   idea_id: 56d58ad1
   first_seen: '2026-11-26'
   last_seen: '2026-11-26'
-  last_rank: 28
+  last_rank: 29
   last_score: 1.27
   last_why: News / social signal
   swing_plan:
