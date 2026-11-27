@@ -21,7 +21,7 @@
 - ticker: ABNB
   idea_id: 72c2c9d7
   first_seen: '2026-05-21'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 5
   last_score: 5.72
   last_why: Momentum & Theme fit -- 2 signals aligned
@@ -132,7 +132,7 @@
 - ticker: AAPL
   idea_id: 82e2e180
   first_seen: '2026-06-01'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 4
   last_score: 6.24
   last_why: Momentum & Theme fit -- 2 signals aligned
@@ -172,7 +172,7 @@
 - ticker: QLYS
   idea_id: 5b0ff15f
   first_seen: '2026-06-17'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 2
   last_score: 7.02
   last_why: Momentum & Theme fit -- 2 signals aligned
@@ -192,7 +192,7 @@
 - ticker: DXCM
   idea_id: c6789ea9
   first_seen: '2026-06-22'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 19
   last_score: 2.4
   last_why: Theme fit signal
@@ -203,7 +203,7 @@
 - ticker: OKTA
   idea_id: b87152fe
   first_seen: '2026-06-25'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 16
   last_score: 2.4
   last_why: Theme fit signal
@@ -214,7 +214,7 @@
 - ticker: V
   idea_id: c9ee5681
   first_seen: '2026-06-26'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 10
   last_score: 2.5
   last_why: Momentum signal
@@ -234,7 +234,7 @@
 - ticker: TENB
   idea_id: 8fb35854
   first_seen: '2026-06-26'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 1
   last_score: 7.02
   last_why: Momentum & Theme fit -- 2 signals aligned
@@ -254,7 +254,7 @@
 - ticker: S
   idea_id: 02aa629c
   first_seen: '2026-06-29'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 15
   last_score: 2.4
   last_why: Theme fit signal
@@ -325,7 +325,7 @@
 - ticker: MA
   idea_id: 83125cc8
   first_seen: '2026-07-30'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 11
   last_score: 2.5
   last_why: Momentum signal
@@ -345,7 +345,7 @@
 - ticker: MRVL
   idea_id: 37b12904
   first_seen: '2026-08-04'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 31
   last_score: 1.0
   last_why: Momentum signal
@@ -465,7 +465,7 @@
 - ticker: PLTR
   idea_id: e5f2231f
   first_seen: '2026-09-03'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 32
   last_score: 1.0
   last_why: Momentum signal
@@ -505,7 +505,7 @@
 - ticker: ROKU
   idea_id: a31c4739
   first_seen: '2026-09-10'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 26
   last_score: 2.0
   last_why: Momentum signal
@@ -516,7 +516,7 @@
 - ticker: ZS
   idea_id: 1fb28f23
   first_seen: '2026-09-14'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 14
   last_score: 2.4
   last_why: Theme fit signal
@@ -587,7 +587,7 @@
 - ticker: XLF
   idea_id: 5c78664e
   first_seen: '2026-09-24'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 6
   last_score: 5.72
   last_why: Momentum & Theme fit -- 2 signals aligned
@@ -607,7 +607,7 @@
 - ticker: LLY
   idea_id: 1949d19d
   first_seen: '2026-09-24'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 18
   last_score: 2.4
   last_why: Theme fit signal
@@ -638,7 +638,7 @@
 - ticker: XLV
   idea_id: 923e59b6
   first_seen: '2026-09-28'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 21
   last_score: 2.4
   last_why: Theme fit signal
@@ -669,7 +669,7 @@
 - ticker: LYFT
   idea_id: a910299c
   first_seen: '2026-10-06'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 28
   last_score: 1.29
   last_why: News / social signal
@@ -709,7 +709,7 @@
 - ticker: VRNS
   idea_id: babbb87b
   first_seen: '2026-10-07'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 9
   last_score: 2.5
   last_why: Momentum signal
@@ -789,7 +789,7 @@
 - ticker: TOST
   idea_id: f3304a81
   first_seen: '2026-10-15'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 3
   last_score: 6.37
   last_why: Momentum & Theme fit -- 2 signals aligned
@@ -849,7 +849,7 @@
 - ticker: ISRG
   idea_id: '47970210'
   first_seen: '2026-10-19'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 25
   last_score: 2.0
   last_why: Momentum signal
@@ -869,7 +869,7 @@
 - ticker: ASTS
   idea_id: 02834e53
   first_seen: '2026-10-19'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 8
   last_score: 2.56
   last_why: News / social signal
@@ -889,7 +889,7 @@
 - ticker: VRTX
   idea_id: 8e5f936c
   first_seen: '2026-10-20'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 13
   last_score: 2.5
   last_why: Momentum signal
@@ -906,30 +906,10 @@
   verdict: open
   verdict_at: null
   user_note: null
-- ticker: BTBT
-  idea_id: a69da5fa
-  first_seen: '2026-10-20'
-  last_seen: '2026-11-12'
-  last_rank: 23
-  last_score: 2.19
-  last_why: News / social signal
-  swing_plan:
-    entry_low: 0.76
-    entry_high: 0.83
-    entry_zone: $0.76 - $0.83
-    stop: 0.63
-    stop_pct: -20.8
-    target: 1.12
-    target_pct: 40.9
-    reward_risk: 2.0
-    hold_window: 1-3 weeks
-  verdict: open
-  verdict_at: null
-  user_note: null
 - ticker: XBI
   idea_id: 47e64e8c
   first_seen: '2026-10-22'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 22
   last_score: 2.4
   last_why: Theme fit signal
@@ -940,7 +920,7 @@
 - ticker: PYPL
   idea_id: 8a541958
   first_seen: '2026-10-26'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 17
   last_score: 2.4
   last_why: Theme fit signal
@@ -963,46 +943,6 @@
     stop_pct: -17.3
     target: 17.69
     target_pct: 34.5
-    reward_risk: 2.0
-    hold_window: 2-3 weeks
-  verdict: open
-  verdict_at: null
-  user_note: null
-- ticker: CIFR
-  idea_id: 6f7f6a61
-  first_seen: '2026-10-27'
-  last_seen: '2026-11-12'
-  last_rank: 21
-  last_score: 2.22
-  last_why: News / social signal
-  swing_plan:
-    entry_low: 6.71
-    entry_high: 7.51
-    entry_zone: $6.71 - $7.51
-    stop: 5.22
-    stop_pct: -26.6
-    target: 10.89
-    target_pct: 53.2
-    reward_risk: 2.0
-    hold_window: 2-3 weeks
-  verdict: open
-  verdict_at: null
-  user_note: null
-- ticker: ONTO
-  idea_id: bce49445
-  first_seen: '2026-10-28'
-  last_seen: '2026-11-12'
-  last_rank: 20
-  last_score: 2.22
-  last_why: News / social signal
-  swing_plan:
-    entry_low: 207.87
-    entry_high: 222.25
-    entry_zone: $207.87 - $222.25
-    stop: 180.92
-    stop_pct: -15.9
-    target: 283.34
-    target_pct: 31.7
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -1068,30 +1008,10 @@
   verdict: open
   verdict_at: null
   user_note: null
-- ticker: KLAC
-  idea_id: 91d5308f
-  first_seen: '2026-10-29'
-  last_seen: '2026-11-12'
-  last_rank: 39
-  last_score: 1.0
-  last_why: Momentum signal
-  swing_plan:
-    entry_low: 157.05
-    entry_high: 164.97
-    entry_zone: $157.05 - $164.97
-    stop: 142.22
-    stop_pct: -11.7
-    target: 198.59
-    target_pct: 23.3
-    reward_risk: 2.0
-    hold_window: 2-3 weeks
-  verdict: open
-  verdict_at: null
-  user_note: null
 - ticker: PATH
   idea_id: 09bd6a35
   first_seen: '2026-10-30'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 24
   last_score: 2.0
   last_why: Momentum signal
@@ -1111,7 +1031,7 @@
 - ticker: COST
   idea_id: 75fde9af
   first_seen: '2026-11-03'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 12
   last_score: 2.5
   last_why: Momentum signal
@@ -1151,7 +1071,7 @@
 - ticker: JOBY
   idea_id: f4642006
   first_seen: '2026-11-06'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 7
   last_score: 2.78
   last_why: News / social signal
@@ -1171,7 +1091,7 @@
 - ticker: SPGI
   idea_id: a12b8e15
   first_seen: '2026-11-06'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 20
   last_score: 2.4
   last_why: Theme fit signal
@@ -1182,7 +1102,7 @@
 - ticker: ACHR
   idea_id: 7d3d4df2
   first_seen: '2026-11-09'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 27
   last_score: 1.39
   last_why: News / social signal
@@ -1214,26 +1134,6 @@
     stop_pct: -4.7
     target: 749.27
     target_pct: 9.4
-    reward_risk: 2.0
-    hold_window: 2-3 weeks
-  verdict: open
-  verdict_at: null
-  user_note: null
-- ticker: SMCI
-  idea_id: c3d33ec2
-  first_seen: '2026-11-11'
-  last_seen: '2026-11-12'
-  last_rank: 18
-  last_score: 2.37
-  last_why: News / social signal
-  swing_plan:
-    entry_low: 29.47
-    entry_high: 31.39
-    entry_zone: $29.47 - $31.39
-    stop: 25.85
-    stop_pct: -15.1
-    target: 39.59
-    target_pct: 30.1
     reward_risk: 2.0
     hold_window: 2-3 weeks
   verdict: open
@@ -1322,7 +1222,7 @@
 - ticker: NU
   idea_id: fde432f9
   first_seen: '2026-11-13'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 30
   last_score: 1.05
   last_why: News / social signal
@@ -1604,7 +1504,7 @@
 - ticker: DKNG
   idea_id: c666d8f8
   first_seen: '2026-11-25'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 23
   last_score: 2.39
   last_why: News / social signal
@@ -1624,7 +1524,7 @@
 - ticker: NOW
   idea_id: 9841c420
   first_seen: '2026-11-25'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 33
   last_score: 1.0
   last_why: Momentum signal
@@ -1644,7 +1544,7 @@
 - ticker: MELI
   idea_id: 7248ae5a
   first_seen: '2026-11-25'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 34
   last_score: 1.0
   last_why: Momentum signal
@@ -1664,7 +1564,7 @@
 - ticker: CRSP
   idea_id: 4a815a1d
   first_seen: '2026-11-25'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 35
   last_score: 1.0
   last_why: Momentum signal
@@ -1684,7 +1584,7 @@
 - ticker: IONQ
   idea_id: 56d58ad1
   first_seen: '2026-11-26'
-  last_seen: '2026-11-26'
+  last_seen: '2026-11-27'
   last_rank: 29
   last_score: 1.27
   last_why: News / social signal

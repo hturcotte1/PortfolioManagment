@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26 20:32 UTC",
+  "generated_at": "2026-11-27 04:34 UTC",
   "diagnostics": {
     "stooq": "no data",
     "yahoo_chart": "ok (251 rows, last close $609.89)",
@@ -77,11 +77,11 @@
       },
       "DXY": {
         "ticker": "DX-Y.NYB",
-        "price": 103.77100372314453,
-        "day_change_pct": 0.09742987940890625,
+        "price": 103.69300079345703,
+        "day_change_pct": 0.022188313801484432,
         "high_52w": 104.31999969482422,
         "low_52w": 96.22000122070312,
-        "pct_off_52w_high": -0.5262614774594614
+        "pct_off_52w_high": -0.601034224694592
       },
       "TNX": {
         "ticker": "^TNX",
@@ -299,45 +299,52 @@
   "headlines": [
     {
       "source": "CNBC",
+      "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends \u2018whenever I want it\u2019",
+      "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+      "published": "Fri, 27 Nov 2026 03:30:23 GMT",
+      "summary": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\""
+    },
+    {
+      "source": "CNBC",
+      "title": "Sovereign wealth funds are acting more like private equity giants \u2014 and inheriting their risks",
+      "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+      "published": "Fri, 27 Nov 2026 00:22:29 GMT",
+      "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms."
+    },
+    {
+      "source": "CNBC",
       "title": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
       "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "published": "Thu, 26 Nov 2026 18:44:15 GMT",
+      "published": "Thu, 26 Nov 2026 21:13:17 GMT",
       "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\""
     },
     {
       "source": "CNBC",
+      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "published": "Thu, 26 Nov 2026 12:46:55 GMT",
+      "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington."
+    },
+    {
+      "source": "CNBC",
+      "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+      "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "published": "Fri, 27 Nov 2026 02:04:09 GMT",
+      "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging."
+    },
+    {
+      "source": "CNBC",
+      "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+      "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+      "published": "Thu, 26 Nov 2026 17:04:54 GMT",
+      "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday."
+    },
+    {
+      "source": "CNBC markets",
       "title": "Semiconductor chips are the new oil. Here's why",
       "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
       "published": "Thu, 26 Nov 2026 17:52:15 GMT",
       "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand."
-    },
-    {
-      "source": "CNBC",
-      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "published": "Wed, 25 Nov 2026 16:17:13 GMT",
-      "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets."
-    },
-    {
-      "source": "CNBC",
-      "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-      "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-      "published": "Thu, 26 Nov 2026 18:27:43 GMT",
-      "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours."
-    },
-    {
-      "source": "CNBC",
-      "title": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "published": "Thu, 26 Nov 2026 15:28:26 GMT",
-      "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year."
-    },
-    {
-      "source": "CNBC",
-      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
-      "published": "Thu, 26 Nov 2026 06:39:34 GMT",
-      "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it."
     },
     {
       "source": "CNBC markets",
@@ -376,45 +383,66 @@
     },
     {
       "source": "MarketWatch",
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "published": "Fri, 27 Nov 2026 01:15:00 GMT",
+      "summary": "Doing nothing and maintaining an even temperament is often the work of gods."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "published": "Fri, 27 Nov 2026 01:00:00 GMT",
+      "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "published": "Fri, 27 Nov 2026 00:31:00 GMT",
+      "summary": "Why did a futurist with Huang\u2019s prescient vision build a company where all roads lead to him?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "published": "Thu, 26 Nov 2026 22:00:00 GMT",
+      "summary": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "published": "Thu, 26 Nov 2026 21:45:00 GMT",
+      "summary": "\u201cWe have a house worth $450,000. Our combined annual income is $125,000.\u201d"
+    },
+    {
+      "source": "MarketWatch",
       "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
       "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
       "published": "Thu, 26 Nov 2026 19:00:00 GMT",
       "summary": "\u201cRetirement is a financial status, not an age.\u201d"
     },
     {
-      "source": "MarketWatch",
-      "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "published": "Thu, 26 Nov 2026 18:30:00 GMT",
-      "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d"
+      "source": "Seeking Alpha",
+      "title": "Rocket Lab Launches 101st Electron Mission",
+      "url": "https://seekingalpha.com/news/4676910-rocket-lab-launches-101st-electron-mission?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "published": "Thu, 26 Nov 2026 22:59:16 -0500",
+      "summary": ""
     },
     {
-      "source": "MarketWatch",
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "published": "Thu, 26 Nov 2026 16:30:00 GMT",
-      "summary": "Doing nothing and maintaining an even temperament is often the work of gods."
+      "source": "Seeking Alpha",
+      "title": "Intercede outlines GBP 21M revenue guidance as it expands MyID authenticate and post-quantum cryptography work",
+      "url": "https://seekingalpha.com/news/4676909-intercede-outlines-gbp-21m-revenue-guidance-as-it-expands-myid-authenticate-and-post-quantum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "published": "Thu, 26 Nov 2026 21:03:56 -0500",
+      "summary": ""
     },
     {
-      "source": "MarketWatch",
-      "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "published": "Thu, 26 Nov 2026 16:00:00 GMT",
-      "summary": "\u201cGiven my age, I never make a major new purchase without thinking about the future.\u201d"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "published": "Thu, 26 Nov 2026 15:30:00 GMT",
-      "summary": "Why did a futurist with Huang\u2019s prescient vision build a company where all roads lead to him?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "published": "Thu, 26 Nov 2026 15:13:00 GMT",
-      "summary": "\u201cHe explained that he wasn\u2019t trying to hide the payment, but his former wife lost her job in a medical billing company.\u201d"
+      "source": "Seeking Alpha",
+      "title": "Here are the major earnings before the open Friday",
+      "url": "https://seekingalpha.com/news/4676738-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "published": "Thu, 26 Nov 2026 18:00:09 -0500",
+      "summary": ""
     },
     {
       "source": "Seeking Alpha",
@@ -435,27 +463,6 @@
       "title": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
       "url": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "published": "Thu, 26 Nov 2026 13:06:09 -0500",
-      "summary": ""
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend",
-      "url": "https://seekingalpha.com/news/4676905-innovator-premium-income-15-buffer-etf-january-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "published": "Thu, 26 Nov 2026 12:49:34 -0500",
-      "summary": ""
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend",
-      "url": "https://seekingalpha.com/news/4676904-innovator-s-and-p-investment-grade-preferred-etf-declares-0_085-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "published": "Thu, 26 Nov 2026 12:49:16 -0500",
-      "summary": ""
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Innovator Premium Income 15 Buffer ETF - April declares $0.1412 dividend",
-      "url": "https://seekingalpha.com/news/4676903-innovator-premium-income-15-buffer-etf-april-declares-0_1412-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "published": "Thu, 26 Nov 2026 12:48:46 -0500",
       "summary": ""
     }
   ],
@@ -2180,7 +2187,7 @@
       "ABNB - watching SMA50 hold",
       "AAPL - fresh 52w high, waiting for retest"
     ],
-    "generated_for": "2026-11-26",
+    "generated_for": "2026-11-27",
     "regime": {
       "regime": "risk_off",
       "confidence": 2,
@@ -2203,7 +2210,7 @@
       "summary": "Risk-off - below the 50-day, vol elevated (VIX 26.8, breadth 48%) [confidence 2/3]"
     },
     "telemetry": {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "candidates_evaluated": 0,
       "cleared_primary": 0,
       "cleared_insider_promotion": 0,
@@ -2244,21 +2251,21 @@
     "telemetry_30d": {
       "days": 30,
       "cleared": 2,
-      "reached_2of3": 40,
-      "mean_near_miss_per_day": 1.33,
+      "reached_2of3": 35,
+      "mean_near_miss_per_day": 1.17,
       "top_blocker_signal": "sector_momentum",
-      "top_blocker_pct": 51.1,
+      "top_blocker_pct": 47.7,
       "insider": {
         "scored": 0,
-        "zero": 32,
+        "zero": 27,
         "unavailable": 0,
-        "not_evaluated": 109
+        "not_evaluated": 103
       },
       "news": {
-        "ok": 111,
+        "ok": 101,
         "empty": 0,
         "outage": 0,
-        "unknown": 30
+        "unknown": 29
       },
       "insider_unavailable_days": 0,
       "news_outage_days": 0
@@ -2456,7 +2463,7 @@
       ],
       "suggested_action_detail": "Exit fully on bounce toward SMA200",
       "source": "rules",
-      "rec_id": "18f6d826",
+      "rec_id": "9b460ae6",
       "ticker": "NBIS",
       "quote": {
         "ticker": "NBIS",
@@ -3586,7 +3593,7 @@
       ],
       "earnings": {
         "date": "2027-02-11",
-        "days_away": 77
+        "days_away": 76
       },
       "consensus": {
         "target_mean": 231.6,
@@ -3753,7 +3760,7 @@
       "key_risks": [],
       "suggested_action_detail": "Maintain current size; review on next earnings or 10%+ move",
       "source": "rules",
-      "rec_id": "63b52e5f",
+      "rec_id": "2399138c",
       "ticker": "AMZN",
       "quote": {
         "ticker": "AMZN",
@@ -4809,6 +4816,54 @@
       },
       "news": [
         {
+          "headline": "Amazon Lost 40 Satellites on a Boeing-Lockheed Rocket in November. SpaceX Is the Only Company That Can Fix Amazon\u2019s Problem. Is the Stock a Buy Near $130?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-lost-40-satellites-boeing-035302826.html",
+          "source": "Motley Fool",
+          "published": "2026-11-27T03:53:02Z"
+        },
+        {
+          "headline": "Can Amazon (AMZN) Turn Its AWS Growth Outlook Into Cash?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-turn-aws-growth-035240906.html",
+          "source": "Insider Monkey",
+          "published": "2026-11-27T03:52:40Z"
+        },
+        {
+          "headline": "5 Best Quantum Computing Stocks To Buy for 2027",
+          "url": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html",
+          "source": "Insider Monkey",
+          "published": "2026-11-27T03:21:49Z"
+        },
+        {
+          "headline": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
+          "source": "Insider Monkey",
+          "published": "2026-11-27T03:08:56Z"
+        },
+        {
+          "headline": "Weeks Before His Wife Needs a Nursing Home, He Buys a $75,000 SUV Online. Medicaid Ignores One Car Whatever It Costs, Taking $75,000 Off the Savings It Expects Them to Spend Down",
+          "url": "https://finance.yahoo.com/healthcare/articles/weeks-wife-needs-nursing-home-000407167.html",
+          "source": "24/7 Wall St.",
+          "published": "2026-11-27T00:04:07Z"
+        },
+        {
+          "headline": "Amazon tried to kill Musk\u2019s plan for 1 million AI satellites. The FCC chair scolded it and gave SpaceX the green light",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amazon-tried-kill-musk-plan-233000718.html",
+          "source": "Moneywise",
+          "published": "2026-11-26T23:30:00Z"
+        },
+        {
+          "headline": "Steve Cohen\u2019s 5 Biggest Stock Bets for 2027",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/steve-cohen-5-biggest-stock-220614898.html",
+          "source": "Insider Monkey",
+          "published": "2026-11-26T22:06:14Z"
+        },
+        {
+          "headline": "Jensen Huang\u2019s Return Doesn\u2019t Make Nvidia Stock (NVDA) a Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-return-doesn-t-212200380.html",
+          "source": "TipRanks",
+          "published": "2026-11-26T21:22:00Z"
+        },
+        {
           "headline": "SpaceX Stocks Rise 1.3% as FCC Approves 1 Million Orbital Data Center Satellites",
           "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stocks-rise-1-3-191028542.html",
           "source": "GuruFocus.com",
@@ -4821,58 +4876,10 @@
           "published": "2026-11-26T18:17:00Z"
         },
         {
-          "headline": "Stanley Druckenmiller, Bill Ackman and 7 Other Famous Investors Own Amazon. Here\u2019s Who Bought and Sold Recently",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-bill-ackman-7-181113794.html",
-          "source": "TIKR",
-          "published": "2026-11-26T18:11:13Z"
-        },
-        {
-          "headline": "Amazon , Walmart Battle for $124 Billion Holiday Shopping Market",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-walmart-battle-124-billion-175223253.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-26T17:52:23Z"
-        },
-        {
-          "headline": "NFL's Thanksgiving Boom Raises Stakes for Disney, Netflix",
-          "url": "https://finance.yahoo.com/media-advertising/articles/nfls-thanksgiving-boom-raises-stakes-174228885.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-26T17:42:28Z"
-        },
-        {
-          "headline": "Meta Platforms Stocks Jump 3.4% on Reported Amazon Talks Over Muse AI Agent",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stocks-jump-3-172338883.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-26T17:23:38Z"
-        },
-        {
-          "headline": "Amazon Stocks Fall 3.12% as Bernstein Flags a 16% Drop in Cloud Web Traffic",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stocks-fall-3-12-171531523.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-26T17:15:31Z"
-        },
-        {
-          "headline": "Amazon Has 59 Buy Ratings and Not a Single Sell. Here\u2019s Where its Headed",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-59-buy-ratings-not-171002574.html",
-          "source": "24/7 Wall St.",
-          "published": "2026-11-26T17:10:02Z"
-        },
-        {
-          "headline": "Walmart, Amazon Face Surprising Shopping Shift",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-amazon-face-surprising-shopping-160813140.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-26T16:08:13Z"
-        },
-        {
-          "headline": "UPS or FDX: Which Parcel Delivery Giant Is a Better Play Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ups-fdx-parcel-delivery-giant-143600408.html",
-          "source": "Zacks",
-          "published": "2026-11-26T14:36:00Z"
-        },
-        {
-          "headline": "Amazon Is The Smartest Way To Own Anthropic (NASDAQ:AMZN) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFhMeDB5S290YzhSLTFMWkpYVjZOeGpvNzdOWVg2TDItUVFxRzVrenN6Y3k3a0RoRUphb2JXeWczR1FZa1pOYTR1ZWNwRlV3Q281SUx6R2FrN3ZMX0gtX2R6dFBJTHd3NjN3ZVpsWDRNbHl6anB1SmVDVEl0Q0pfRi1sTldLeFZIQWV5Wg?oc=5",
-          "source": "Seeking Alpha",
-          "published": "Wed, 25 Nov 2026 15:29:59 GMT"
+          "headline": "3 Glorious AI Stocks to Buy Hand Over Fist If the Stock Market Crashes - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHJRNzRpNGJpWlJKUE9nQXVXVVNiakZWeElwel96U1BWem0zYXdvTVdteVhwUU9zOGNZdmdINTJNM0YxTEJhZGREQ2o4RDhBSHdRcHZqclRsb2kzTnUxazE3SVhDalNtRVJHMkxkU2JmNHcyZFI4Um53X0ZlN0k3UmUzNC1OeHEyOTFQVFFfS0NSSmdVSmJHbWRsdWF4bHptTGJUSnoyOGVmcW9BWmhZVDlsQQ?oc=5",
+          "source": "The Motley Fool",
+          "published": "Wed, 25 Nov 2026 19:42:01 GMT"
         },
         {
           "headline": "Amazon\u2019s CEO, CFO and AWS Chief All Just Sold Amazon Stock - Yahoo Finance",
@@ -4883,7 +4890,7 @@
       ],
       "earnings": {
         "date": "2027-02-04",
-        "days_away": 70
+        "days_away": 69
       },
       "consensus": {
         "target_mean": 326.34033,
@@ -5107,7 +5114,7 @@
       ],
       "suggested_action_detail": "Exit fully on any bounce toward SMA50",
       "source": "rules",
-      "rec_id": "10b919df",
+      "rec_id": "96b3130c",
       "ticker": "OKLO",
       "quote": {
         "ticker": "OKLO",
@@ -6223,21 +6230,21 @@
           "published": "2026-11-24T16:52:23Z"
         },
         {
-          "headline": "OKLO Has More Cash, But Is NuScale the Better Nuclear Stock? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUjhRcHl5N1hwcFpLbWxqUEpYREJ5dVo1QjhnOWxTaF9HX3dVQTBXRWhXYWNxYzZ6eFdLODMyZ0E5S1hocGJmZEs4Z0lVNDg3R1hBdmVFOXNxb0RoQm1pWmJya244Y0tQNnhpckY2TkFBYU9nN3p4ZnVyRkNYUTV4SlQ4OElpeWpXa25mU2xJLXlVZU1mZDB0NW9n?oc=5",
+          "headline": "1 Reason I Haven\u2019t Bought Oklo Stock -- and Probably Never Will - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0V1RUVCMjc5ZzlGU2lfSG00cDV2aEZvbTNEZGhtLWVTTlhUaHVMaTV4WGp6WFVnTmpOME1oeWpWbmJZLWR2b3ZVUGFINHJ3VW1MX1pqVTFNclV4LWRPaDFTYllSWW9iNjdfMkxPT21xSDB0eDhjeUx4QUxwWWVsTVRvMno2a1RHTGQ4NUY0enVmQQ?oc=5",
           "source": "Yahoo Finance",
-          "published": "Wed, 25 Nov 2026 12:28:00 GMT"
+          "published": "Wed, 25 Nov 2026 02:20:00 GMT"
         },
         {
-          "headline": "1 Reason I Haven\u2019t Bought Oklo Stock -- and Probably Never Will - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1V1OTNRVlNWYlhOUHczclJfSXkwUk14ZHh3MjZGY0R3X3k0OUc4ZU9UbVBrRjEtZ0dJLTZDcXdHcmxVUmcxalZyRFMwRlNWTllDazdOaUd4SlZ2bzd3dndzclhvSWxkc1RhNXB5N2FuYWpKNExnNUlEb1hTaFFoU1dPQ1VTQ2tOOFlKTWUwVEU2bVJQS3kxTWk2b1JQdURWZ2RYcVBn?oc=5",
-          "source": "The Motley Fool",
-          "published": "Wed, 25 Nov 2026 02:00:00 GMT"
+          "headline": "OKLO Has More Cash, But Is NuScale the Better Nuclear Stock? - Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTlNZbjVFelBZa1ZtLWdZeXhBT3ZaSWxoY1NDbHUzYTBsR1BsSXRRdl9PMkNhZHdVcW5Fbm5aQldFX2dFMVdDYWs3LUxxbkpEUVNhU1AwdlFTcTBQOHh1NW0tRTZTSEtTQ0g4RTk2aFlwY0V5c0ZJMURtOVZlN0gtUlZ1M3AxLXdOTlVwQXJwTnptUjdpWVZmX0dwRy1pMnJV?oc=5",
+          "source": "Zacks Investment Research",
+          "published": "Wed, 25 Nov 2026 12:50:38 GMT"
         }
       ],
       "earnings": {
         "date": "2026-11-06",
-        "days_away": -20
+        "days_away": -21
       },
       "consensus": {
         "target_mean": 55.42857,
@@ -6458,7 +6465,7 @@
       ],
       "suggested_action_detail": "Exit fully on bounce toward SMA200",
       "source": "rules",
-      "rec_id": "47ce37e4",
+      "rec_id": "c010be4a",
       "ticker": "NFLX",
       "quote": {
         "ticker": "NFLX",
@@ -7574,21 +7581,21 @@
           "published": "2026-11-25T04:26:01Z"
         },
         {
-          "headline": "Netflix vs. Apple: Which Streaming Stock Has an Edge Right Now? - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdlh5ZGRQejVsRkpydENWREd4a25zczNpZjU4b1BTZDVGWGhLaHdqSUhHbElPdnhzOG95bVRyM3dXenA5bTJ4UlFwVldVRUNHYXpRc1VkU3F0VVNxYldoSEdCR3I5bzZnZW9oQW8yUWNVM2h5bjF1Tmg5UmRaTGx1MXgtVFRmQ0hpejNrT1pINW04Q3oyWDBnU1VsUFc3TGlnN2M4UG5Ya1RPaU9UWlF2akVQNjJPcW9tYThNM2txTW40ZEdwUEVvcnVjcEQzaW9Sd2xuTUtfV0xSbkVSZkE?oc=5",
+          "headline": "Netflix Stock and Higher Content Spend: Can Margins Hold Firm in 2027? - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcnk1Nlc0aXJzOFM1YkJEa21iSXN5S1E4ck9IM0ZyN0lGV3k4MWlpVVYyT1RIejdZZEFVN1hXYXlxN19pZ3N0Szc3MjZqSzBNUFUzcFlsMUlQSnNVanBRaW1ISEY2ZVZQeVNIUnFwdXlnRFZMSndrZ2tiNVRXamttbkJTMlR4N0dtb2RFMzdzWFZUMnNHLWw2MTVQenB5VGF3Y04wNjNKSlk0Ql9kS3NISVktc3ByMGljSmtYVjNjbUotS1d3aVNHVzJ0X05mTXlnY0RnT2xsWHZGc2w2ekk5ajZPRUZac1QxU2FB?oc=5",
           "source": "The Globe and Mail",
-          "published": "Thu, 26 Nov 2026 16:37:43 GMT"
+          "published": "Fri, 27 Nov 2026 04:25:43 GMT"
         },
         {
-          "headline": "Here's What Would Prove Me Wrong About Netflix Stock - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYWQwY2RzNnR4SFQ4UUxrNUtzNmlId1BiRVUyXzFNNllab1lENmRYZzAzckkwX1pnUC1sR19LSW93Q1dJWDhxY1dBNVFLdW5vZnpCdG1JSWNGSTRNd1lnLVNlc2p0ZzdteGFGdnBUN3JiUTdQQU5UUk5EQjhreEQ1MlVtQkpJMnZ3RzRVLUVGcVFtTWZCRXZkUTlPYUEwcFE1S3hBa3EwX3hsR3U2YjFpTWk4eHdackRRWGlQbDV6MmRvdkgyQU5xVV93TUhJRE9pMlE?oc=5",
-          "source": "The Globe and Mail",
-          "published": "Thu, 26 Nov 2026 18:24:29 GMT"
+          "headline": "Netflix Stock Is Down 37% in 2026, But the Business Is Still Growing. Here's Why I'd Buy It Before the End of November. - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNjlzblZCRWc1NUFGMW9CVWluRWlqOUdGYjU4V1FoOFptQThibXRCNG1vLXhsNTZncmdNd1dDQmJ2WXlsZURyV3djbWp1OGFWSkVXMXFPMlNaZGJlSlRTbElPZV90NDNkZGhyMElZa2pVNFBIbGtPbG5xQ2pVSjVJU3U0S3YyckN4b0R4N3h2TjhFYmV0RUNybDNONXBMLUVPNURtQ0pyWXFBZ3czX3U5elNBMUNOYm9PSkFLT2RlbmhMWEFjbExWSmQyVlZjS01LT1A1YjFzakZQQkpEb25uVWQyUFc4WkNrNzFCNQ?oc=5",
+          "source": "The Motley Fool",
+          "published": "Wed, 25 Nov 2026 00:07:00 GMT"
         }
       ],
       "earnings": {
         "date": "2027-01-19",
-        "days_away": 54
+        "days_away": 53
       },
       "consensus": {
         "target_mean": 84.54884,
@@ -7635,7 +7642,7 @@
         }
       ],
       "insider_form4": {
-        "count": 19,
+        "count": 18,
         "filings": [
           {
             "form": "4",
@@ -7744,12 +7751,6 @@
             "filed": "2026-10-29",
             "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001065280&type=4&dateb=&owner=include&count=10",
             "accession": "0001583109-26-000004"
-          },
-          {
-            "form": "4",
-            "filed": "2026-10-27",
-            "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001065280&type=4&dateb=&owner=include&count=10",
-            "accession": "0001193119-26-000003"
           }
         ],
         "lookback_days": 30
@@ -7830,7 +7831,7 @@
       ],
       "suggested_action_detail": "Exit fully on any bounce toward SMA50",
       "source": "rules",
-      "rec_id": "d222d083",
+      "rec_id": "eb27e8de",
       "ticker": "IREN",
       "quote": {
         "ticker": "IREN",
@@ -8946,10 +8947,10 @@
           "published": "2026-11-25T15:30:24Z"
         },
         {
-          "headline": "IREN Selloff Draws Attention: Grant Cardone Joins Retail Bulls Asking Where The Bottom Is - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObi1mdVZESTVTWlphUURQVEhybmtEUmR1cC1rNkU1S2hNSlRjMGFHdjFORkNYVFRJWUtFeGI1Y19ROG15MXFuTTJBLXVFbXpkOTExM3NQaFlTbmdZVExDcENtdmRSaGczT3dsekJqMjczdGtSZkVJMnNfMHd2cXZ6dlFIYnEyRXJmdk5Pbi04R1dSUHJ5a05ZOUtBQlhFUHFr?oc=5",
+          "headline": "Dead Cat Bounce? AI Stocks Climb 20%+, but IREN, Applied Digital Stay Down 50%+ - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeFc3MUhqci14WndUZ1N4emR3UXUxcUZzWVZMLXEyQURlZXRPYjg3dGlIaXBmX2xyUzNQNDFDMWlXSmhDT0lhUlBZSXEzVWE2N2VSZHFRbkRmOWpRNkk3Zk0xaThuLVM4V0N2UDh5VzVmTDJDQlpwYXZWSU5RR2RJU3FWamNtRnZsbERjQmhWdExnN29i?oc=5",
           "source": "Yahoo Finance",
-          "published": "Wed, 25 Nov 2026 08:43:21 GMT"
+          "published": "Tue, 24 Nov 2026 03:05:00 GMT"
         },
         {
           "headline": "Prediction: IREN\u2019s Microsoft Deal Could Be Just the Beginning of Its Next Growth Phase - 24/7 Wall St.",
@@ -8960,7 +8961,7 @@
       ],
       "earnings": {
         "date": "2027-02-04",
-        "days_away": 70
+        "days_away": 69
       },
       "consensus": {
         "target_mean": 52.74,
@@ -9092,7 +9093,7 @@
       "key_risks": [],
       "suggested_action_detail": "Maintain current size; review on next earnings or 10%+ move",
       "source": "rules",
-      "rec_id": "fb4ff7e0",
+      "rec_id": "bca5bf6b",
       "ticker": "FBL",
       "quote": {
         "ticker": "FBL",
@@ -10148,10 +10149,10 @@
       },
       "news": [
         {
-          "headline": "FBL Dec 2026 51.000 put (FBL261218P00051000) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mc2JyM25Kcy00M1JpLVlWbmRzNGFBeGtRSHBYVWh1eDhOXzc1S1FiWE9xd3Q0QTZvUFZfRkhXQ3d4dmNPYWNBb0V5bEZIM043UUljXzg0UWYyV2Y0RFhwbUk3Tm1DZ2lkVGlmeg?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "published": "Thu, 26 Nov 2026 12:35:54 GMT"
+          "headline": "FBL Dec 2026 51.000 put (FBL261218P00051000) interactive stock chart \u2013 Yahoo Finance - Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53WGRjd2xCUTh6YndXelBsOG1VdEdOa1EtUjV1T3hhR2NLTjhNUWU0UHhULTZjYjlnUmdLcWpKWEowVHVybWV6VzlTM3ZTQVdDa1lONTVKMG1XRTM5SzlGRGx0M0lxdF8yZVdaYg?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "published": "Thu, 26 Nov 2026 05:57:37 GMT"
         },
         {
           "headline": "FBL261218C00013000 Interactive Stock Chart | FBL Dec 2026 13.000 call Stock - Yahoo Finance",
@@ -10160,16 +10161,16 @@
           "published": "Wed, 25 Nov 2026 02:03:46 GMT"
         },
         {
-          "headline": "FBL ETF Profile: Dividends, Returns (NASDAQ:FBL) - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ldjNiTkpzMnpJcVByaVp0XzRPOEJTbnNsVHkycVJkS1VEUFU2aldFeXk1OFViTDRpaHh0Y2R5bFRFWUV6anVlRDJTQURIa0JJUnhrYV9OelZLc01ualNiaVhISUZ4Zw?oc=5",
-          "source": "TradingView",
-          "published": "Tue, 14 Jul 2026 00:49:37 GMT"
-        },
-        {
           "headline": "FBL - GraniteShares 2x Long META Daily ETF Stock Price and Quote - Finviz",
           "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5zNnI4YkpVWFd6bDEzenR3dkUzS1VMSzZzSERWdDVlREdHaDZxYlJqWmJuWF9QQW1td2szcHlxcUlhZFYy?oc=5",
           "source": "Finviz",
           "published": "Wed, 27 May 2026 14:05:20 GMT"
+        },
+        {
+          "headline": "FBL ETF Profile: Dividends, Returns (NASDAQ:FBL) - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ldjNiTkpzMnpJcVByaVp0XzRPOEJTbnNsVHkycVJkS1VEUFU2aldFeXk1OFViTDRpaHh0Y2R5bFRFWUV6anVlRDJTQURIa0JJUnhrYV9OelZLc01ualNiaVhISUZ4Zw?oc=5",
+          "source": "TradingView",
+          "published": "Tue, 14 Jul 2026 00:49:37 GMT"
         },
         {
           "headline": "How (FBL) Movements Inform Risk Allocation Models - Stock Traders Daily",
@@ -10310,7 +10311,7 @@
       "key_risks": [],
       "suggested_action_detail": "Trim immediately to bring weight under 25%",
       "source": "rules",
-      "rec_id": "6feb41c3",
+      "rec_id": "cd9dce50",
       "ticker": "META",
       "quote": {
         "ticker": "META",
@@ -11366,6 +11367,24 @@
       },
       "news": [
         {
+          "headline": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
+          "source": "Insider Monkey",
+          "published": "2026-11-27T03:08:56Z"
+        },
+        {
+          "headline": "Jensen Huang\u2019s Return Doesn\u2019t Make Nvidia Stock (NVDA) a Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-return-doesn-t-212200380.html",
+          "source": "TipRanks",
+          "published": "2026-11-26T21:22:00Z"
+        },
+        {
+          "headline": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-enters-ai-agent-race-193003515.html",
+          "source": "Barchart",
+          "published": "2026-11-26T19:30:03Z"
+        },
+        {
           "headline": "AMD Stocks Slip 1.75% After Filing Registers 337 Million Shares for Resale",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-slip-1-75-182928246.html",
           "source": "GuruFocus.com",
@@ -11402,28 +11421,10 @@
           "published": "2026-11-26T16:59:27Z"
         },
         {
-          "headline": "CoreWeave Seeks $4.5 Billion Meta-Backed Loan as Bond Yields Hit 18%",
-          "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-seeks-4-5-billion-163142061.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-26T16:31:42Z"
-        },
-        {
-          "headline": "Meta Platforms Just Partnered With Walmart. Here's Why Investors Should Pay Attention",
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-just-partnered-walmart-162502467.html",
-          "source": "Motley Fool",
-          "published": "2026-11-26T16:25:02Z"
-        },
-        {
-          "headline": "CoreWeave Can Now Borrow at 7% With Meta\u2019s Name on the Loan",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-now-borrow-7-meta-154820333.html",
-          "source": "24/7 Wall St.",
-          "published": "2026-11-26T15:48:20Z"
-        },
-        {
-          "headline": "CoreWeave Has the Backlog Lead, Nebius Has the Leverage Edge: Who Wins the Next $100B?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-backlog-lead-nebius-leverage-154523480.html",
-          "source": "24/7 Wall St.",
-          "published": "2026-11-26T15:45:23Z"
+          "headline": "Is Meta Stock Outperforming the Nasdaq?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-outperforming-nasdaq-165055115.html",
+          "source": "Barchart",
+          "published": "2026-11-26T16:50:55Z"
         },
         {
           "headline": "Meta Stock Dips: What's Going On? - Benzinga",
@@ -11440,7 +11441,7 @@
       ],
       "earnings": {
         "date": "2027-01-27",
-        "days_away": 62
+        "days_away": 61
       },
       "consensus": {
         "target_mean": 842.53656,
@@ -11690,7 +11691,7 @@
       "key_risks": [],
       "suggested_action_detail": "Maintain current size; review on next earnings or 10%+ move",
       "source": "rules",
-      "rec_id": "60469b58",
+      "rec_id": "dfa7c013",
       "ticker": "INTC",
       "quote": {
         "ticker": "INTC",
@@ -12746,10 +12747,34 @@
       },
       "news": [
         {
+          "headline": "Intel\u2019s (INTC) AI Opportunity Is Growing, But There\u2019s One Big Problem Holding It Back",
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-ai-opportunity-growing-031416634.html",
+          "source": "Insider Monkey",
+          "published": "2026-11-27T03:14:16Z"
+        },
+        {
+          "headline": "Intel (INTC) Faces Lawsuit And AI Selloff As Fair Value Debate Gets Harder",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-faces-lawsuit-ai-220908878.html",
+          "source": "Simply Wall St.",
+          "published": "2026-11-26T22:09:08Z"
+        },
+        {
+          "headline": "Steve Cohen\u2019s 5 Biggest Stock Bets for 2027",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/steve-cohen-5-biggest-stock-220614898.html",
+          "source": "Insider Monkey",
+          "published": "2026-11-26T22:06:14Z"
+        },
+        {
           "headline": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
           "source": "Insider Monkey",
           "published": "2026-11-26T19:47:38Z"
+        },
+        {
+          "headline": "Nvidia Cut Its Intel Stake and Bought More SpaceX. Cathie Wood Is Buying Too. Why SPCX Stock Faces a Big Test on December 8.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-cut-intel-stake-bought-193003089.html",
+          "source": "Barchart",
+          "published": "2026-11-26T19:30:03Z"
         },
         {
           "headline": "Intel Stocks Slip After Erasing a 10.3% Plunge Below $50",
@@ -12764,6 +12789,12 @@
           "published": "2026-11-26T18:12:10Z"
         },
         {
+          "headline": "Nvidia Just Revealed a Major $19 Billion Vote of Confidence in Intel Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-revealed-major-19-163003138.html",
+          "source": "Barchart",
+          "published": "2026-11-26T16:30:03Z"
+        },
+        {
           "headline": "ASX's LEAP Demand Accelerates: Can Revenue Growth Stay Strong?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/asxs-leap-demand-accelerates-revenue-160400372.html",
           "source": "Zacks",
@@ -12776,51 +12807,21 @@
           "published": "2026-11-26T12:15:26Z"
         },
         {
-          "headline": "What iShares PHLX SOX Semi (SOXX) Sold: AMD Leads on Nov. 24",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-soxx-110411069.html",
-          "source": "GuruFocus.com",
-          "published": "2026-11-26T11:04:11Z"
-        },
-        {
-          "headline": "Bad News for Intel: Dell Says Companies Are \u201cDeferring Their PC Purchases\u201d for AI Servers",
-          "url": "https://finance.yahoo.com/technology/articles/bad-news-intel-dell-says-085021150.html",
-          "source": "TIKR",
-          "published": "2026-11-26T08:50:21Z"
-        },
-        {
-          "headline": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-stall-thanksgiving-ai-011953375.html",
-          "source": "BeInCrypto",
-          "published": "2026-11-26T01:19:53Z"
-        },
-        {
-          "headline": "The $2 trillion chip rally is unraveling \u2014 here's what history says comes next",
-          "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
+          "headline": "Intel\u2019s (INTC) AI Opportunity Is Growing, But There\u2019s One Big Problem Holding It Back - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWElzQ3ZrX0ZkTmMzVG5GcVVZUDNrYzI1X0ZxbEdCRlZkaUxRNXVCTmhNWldScFRfUjFvMVlSRHQ4UFYxclZheUNoenAwMXVVXzVDakRfbEd3ejhJTUVwTDVKWXIwOG43aGs3alRRSUE0dVBJY3FBWVY5NTV2aWZKR29xWUhCYnE5b0ZFUmJxRnJ3Z255VGZjSTBkYU5qQQ?oc=5",
           "source": "Yahoo Finance",
-          "published": "2026-11-25T14:53:06Z"
+          "published": "Fri, 27 Nov 2026 03:14:00 GMT"
         },
         {
-          "headline": "What Sent Qualcomm Stock Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sent-qualcomm-stock-higher-202330968.html",
-          "source": "Trefis",
-          "published": "2026-11-25T20:23:30Z"
-        },
-        {
-          "headline": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUNkbFdtOFpFalJSNEk4SnFjbVI0c3ZzbjFvVU50WGpoZURxeURhajJET1RmQzVrcW8tbzJKMGpYRjhKTndfeVI4YnhaSV9NXzFHYlc0OEwtZVhOYTFNa3B4Wks3OGRxcmVBenA5MnI0LVdCQW5hYnBEMU5FVEN4ZVBUbUtiaGNGUmFrZERIcUYzZ9IBlwFBVV95cUxNYTZPZTVqb0NZbTNWc1VacjRLODhlUmpUekNhaUtlbkx2SkJXQ2VNbFdMSlNENUR5UXVtR0VTeUU1LUVSS09JY0NOVWhFWHE1RWVFeGpiLWF6b1VWWmp6QUdHZXJwX1NodjI1WFlSRTRmYWF2NEwyZlJxdWRVVlhjUFZLQWwweW5SOEdHcWVNTzhJRm5UY3ZR?oc=5",
-          "source": "CNBC",
-          "published": "Fri, 30 Oct 2026 07:00:00 GMT"
-        },
-        {
-          "headline": "The Intel stock collapse is getting worse \u2014 and the $3.5Tchip rout is spreading - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYXNGRkpFR1R4ZkhibXhKWEVTams1NDB2ZXU4UzZHcmlOYWRFOXRKb1poRUZxQ180WHQ0VWplOG95a2hxemxRQjhibE9aQWFkY3BiRWgtNWZzMXBXNjN1M01mQXRwN3B2R2ZPQjhxbGkteVN5STNoYzhQN2Vmdm1PZGhVN183RzRsaE1YMG1vSjNSQnlteTdwSU5MSllqOTJZOHZFaHJOZVN1ZGJ5bUI5ZjcwQnRQU08zcGlDRF9VV21LYzhRVm41ZFRld0pwUGpjVURBazJWS25xQQ?oc=5",
+          "headline": "Why Is Intel Stock Falling 5.8% Today? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkpEWHNSWFFWS2E1aEZXcVdISU1nU3EtOXI1UWxwUDk0NWZWaEJMMVRudlZIc3d6a3A1Tmp0WF9LZmtuV0ZyTWdkT3JFWUdxLXlKckQwUkdCTVRFM3Biekp3RnpuaWJOM0pzYjdQaW44TEFmRGRIMDFVcC0wU1h3LThVRnhaMmZ3ekJNdnJDUG8ycUxT?oc=5",
           "source": "Yahoo Finance",
-          "published": "Mon, 02 Nov 2026 08:00:00 GMT"
+          "published": "Tue, 24 Nov 2026 13:41:46 GMT"
         }
       ],
       "earnings": {
         "date": "2027-01-28",
-        "days_away": 63
+        "days_away": 62
       },
       "consensus": {
         "target_mean": 90.4186,
@@ -12962,7 +12963,7 @@
       ],
       "suggested_action_detail": "Exit fully on any bounce toward SMA50",
       "source": "rules",
-      "rec_id": "ba6cb7cb",
+      "rec_id": "4681e653",
       "ticker": "FPS",
       "quote": {
         "ticker": "FPS",
@@ -13710,21 +13711,21 @@
           "published": "2026-11-13T01:02:25Z"
         },
         {
-          "headline": "Why Forgent Power Solutions (FPS) Failed to Live Up to Its IPO Hype? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGd3X28zMHpFdHNvSWpFaW9DS3NWVDdWQk96Y1gwUXotYmJxRTVlUjNsUGhYVEsxczBQbmlEUHNYZ3EtbkhZRkNBRTVuVFhRX21iRWVRU19NSE5LbTlhcENEZWlRSGszQ3QwR2hiYVZwSGVvaUVYQndPRnEzR3BISE45dm1teTBuWE1yVldKRnFUUGlXd1hGaF93YmM?oc=5",
-          "source": "Yahoo Finance",
-          "published": "Thu, 26 Nov 2026 01:12:00 GMT"
+          "headline": "FPS Nov 2026 13.500 put (FPS261127P00013500) Stock Historical Prices & Data - Yahoo Finance - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZUHFyZEprS19OQThIdExzX2FTLTlTV3U3TzRReERwNzRQcE1iXzgzN01GTEhqSEk5VFBrQm5ibTZFSlF5bUZMc3ZyMnpJRFRRcXBpLVNSWnczazFTdEM5YVN6UFNjZnNFUWJBa1ptcw?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "Thu, 26 Nov 2026 20:18:23 GMT"
         },
         {
-          "headline": "Early access co-op FPS Far Far West shares work on UI updates, loadouts, fishing, and weapon skins - Massively Overpowered",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGxsbFBMdVBic0dzRl9qcWlibFlSb1YzWnhCak44dlVyTkIxWHVUSjR3cnF6bG5XNGN1YnRVN1ZwbE9VZFRsVmdxRTl0bGRTdTlSd1FSa0pKenVZMXBiX01Rc08tUlRQQ1Y3dU5GSlNmR0VyVDRYQWk4Z1VzTzJEalJsd1pjSGMwdktLakFOdXRTc1N6QmN6VkZwdEtielRKNUxjUnNnR3FfT1FJak4zc2x4UDVjTFl3Yjd4UnlLRFk1LUxlQ1Q0Ty1UZw?oc=5",
-          "source": "Massively Overpowered",
-          "published": "Thu, 26 Nov 2026 00:00:41 GMT"
+          "headline": "Why Forgent Power Solutions Stock Is Plummeting Today - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVXdBWkZOd0s4am51RUpRMnZZT3dERUdMSk5teDVsUmtuV0xSaVpoQ3ZpTDU0bUxxeXI2SVA5c29Vc0hXOThDM2hERmZGTDdHSnlVZ2pwS3NRZ1lLTjNMTnR6STZjaUktWTlhS1BuNEFoWTVFR3ZwYThMNHVvenkzOTY1STV5ZlJQbzZieTR1U0czZzVTbXl4Wm9Nbk4?oc=5",
+          "source": "The Motley Fool",
+          "published": "Thu, 12 Nov 2026 08:00:00 GMT"
         }
       ],
       "earnings": {
         "date": "2027-02-15",
-        "days_away": 81
+        "days_away": 80
       },
       "consensus": {
         "target_mean": 40.0,
@@ -13899,7 +13900,7 @@
       ],
       "suggested_action_detail": "Exit fully on bounce toward SMA200",
       "source": "rules",
-      "rec_id": "d0c2cfe7",
+      "rec_id": "54aceae5",
       "ticker": "AMAT",
       "quote": {
         "ticker": "AMAT",
@@ -14955,6 +14956,12 @@
       },
       "news": [
         {
+          "headline": "Why Summit Insights Downgraded Applied Materials (AMAT) After Record Results",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-summit-insights-downgraded-applied-034833923.html",
+          "source": "Insider Monkey",
+          "published": "2026-11-27T03:48:33Z"
+        },
+        {
           "headline": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
           "source": "Insider Monkey",
@@ -15009,27 +15016,21 @@
           "published": "2026-11-25T23:42:34Z"
         },
         {
-          "headline": "Is Applied Materials Stock Just Falling With Its Group?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-stock-just-falling-215859473.html",
-          "source": "Trefis",
-          "published": "2026-11-25T21:58:59Z"
-        },
-        {
-          "headline": "Applied Materials (AMAT) Supplies Almost Every Fab. Is That Enough? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVJEbENmT2ZwYmNhMVp5QUEydW1jZnJHMEdIczJZTVdXcUZxYnkyTmZzUVljNVU4ZkZXZ1YwZGpXcnVEbXFyRzhXbTdfVW53V090SGdwVWFDSDFyQ2dwYjd5ZEFyWjA0TEJ5dGczdU9NVGVROEVoUzg1MHNfeENESFdqU3BtQ05DNjVsMncyUGxsSTh1SlpDVXpNbVM2SzZTTTMyZHdB?oc=5",
+          "headline": "Why Summit Insights Downgraded Applied Materials (AMAT) After Record Results - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekZzUEtuRVFCbUV5dll1UVVSVEhzci1GdFZES0JrN2UzY2lkQnRjNnp3Vl9hNEtPbDYtTTVGQVd2Y1RaVmdaUGJ6bXpkSzM0MHR6RXJya1ludlp4QjBIWHF4R0ltUmVwX3NsbjIycDl3QW5UQXpVekdXZzZJOEdoMVREQ2Uta1U1WHhLaDMxVEdzV0lZTVhqOTFWb0VBNHhnMHgzMk1n?oc=5",
           "source": "Yahoo Finance",
-          "published": "Thu, 26 Nov 2026 00:53:00 GMT"
+          "published": "Fri, 27 Nov 2026 03:48:00 GMT"
         },
         {
-          "headline": "Jim Cramer tells investors to buy beaten-down chip stock down 53% - TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTFaLWhKd0FabV9yOEJ6RUNXRlJOVzJqc1dCZGF1Rjc2ZXQ0X2QzbnpBQ1NjMFhoa29DemQtcWJfQkZVZExUZzRmNUw3NFhBdzlUcEI3d2VWTFRxS3E5VWc4M1lVdll1Wi1CQm9iMlpjdzZyN0lVZ2hpQm4zM2MyN1hfMmxqaEFHVmhwRnE2X0J2TjBUMXhzNFFuajVrOFRUUHhyX3FjRi1VbTIzUUZkdmVhUDhEekpJWUxz?oc=5",
-          "source": "TheStreet",
-          "published": "Wed, 25 Nov 2026 22:30:59 GMT"
+          "headline": "New Buy Rating for Applied Materials (AMAT), the Technology Giant - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWVQ5X2NyTllRNmY3Zk5mRVdPclhDY2Jjbi04X3hQYXNWTS1YcmpZTWJFOGtKaFJObHBCLTRJOWp2Sm1kWE02VWhtWFpBc2puV3hiWG5uSl9YMHlaUEJoUFF0RHJSeUR4TF9tLU1OdGg1RHpJdENtNDVMSS1TTUxtOWNDYmJHMEE1RWJWampjOHlJWlJKWVE1a09tQkp2NUJIVUUwV1hsWXN0V0cwOVc4X1dLamN0aEstaXpJbzk0TGNCN2xIWEdsX2JoNm5QRGR4ekZZWUNhYjBMUXpWUkZRUA?oc=5",
+          "source": "The Globe and Mail",
+          "published": "Thu, 26 Nov 2026 14:06:17 GMT"
         }
       ],
       "earnings": {
         "date": "2027-02-11",
-        "days_away": 77
+        "days_away": 76
       },
       "consensus": {
         "target_mean": 556.05554,
@@ -15160,7 +15161,7 @@
       "key_risks": [],
       "suggested_action_detail": "Maintain current size; review on next earnings or 10%+ move",
       "source": "rules",
-      "rec_id": "05b63846",
+      "rec_id": "94774843",
       "ticker": "GD",
       "quote": {
         "ticker": "GD",
@@ -16282,15 +16283,15 @@
           "published": "Tue, 24 Nov 2026 12:10:57 GMT"
         },
         {
-          "headline": "General Dynamics (NYSE:GD) Stock Forecast & Analyst Predictions - Simply Wall St",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYS1kZzBZSUxYUFd6RTd5aXljbTRaTjgxUTFRX3Vjb3dHcnlfcXhZcDhndVZSUFVfbnVIdHRzQmc4SmRTZnBJcU9oQ1F6UlI2YUV5VHBUWDNUcDEyYXFhT3l6YW84VzQtQUN3ZDlqelItbWRVcUJrZ0ZERW40OFZWYUNnWQ?oc=5",
-          "source": "Simply Wall St",
-          "published": "Mon, 23 Nov 2026 08:00:00 GMT"
+          "headline": "General Dynamics (GD) Stock Forecast and Price Target 2026 $GD - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lV0lNeXU3MFF6MEhOSlREOG15ZGd6VXR0cm1rRGZSUTVPbFhGcUhMVHQxU051YzBSY0dmNjMtV2ZPMktjbUg4S0tzRnZrY3pYTVMySExBa0lDX19SY1dPSQ?oc=5",
+          "source": "MarketBeat",
+          "published": "Tue, 24 Nov 2026 08:00:00 GMT"
         }
       ],
       "earnings": {
         "date": "2027-01-27",
-        "days_away": 62
+        "days_away": 61
       },
       "consensus": {
         "target_mean": 417.96274,
@@ -16449,7 +16450,7 @@
       ],
       "suggested_action_detail": "Exit fully on bounce toward SMA200",
       "source": "rules",
-      "rec_id": "32978f73",
+      "rec_id": "cb5b5c7c",
       "ticker": "RUN",
       "quote": {
         "ticker": "RUN",
@@ -17571,15 +17572,15 @@
           "published": "Thu, 26 Nov 2026 18:14:26 GMT"
         },
         {
-          "headline": "BCP Holdings Mozart Manager Unloads $822M of Medline Stock After Run-Up - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUc4ZC1YZ29CVjBFaWl6STNyMlhLWlktRmRqVGtiVWcyZm5JQV9HcnY1NkpwbFdOWnRDSzhUV3BwS1M5dG9sQjd0a2pXSHU0dk5zN21MbVlMWDNhcnRKQ2lhVE40Z1RfeW9NLUNKNm5mbTRoN0JvWl9pMFF1NDEyNWhkaW44dEdyUm0wMWQwRnNpNFl0TWw2amxCZ0JvNzJFSXZEeDFNYjVodHlsWVVmalZOcE1McjJ0cUhOMHhCQ191NFl1Q3R2aU03T2hmOTlZZWtlYzd3?oc=5",
-          "source": "Benzinga",
-          "published": "Thu, 26 Nov 2026 13:05:14 GMT"
+          "headline": "Spartan Delta (TSX:SDE) Stock Looks Above Fair Value On Its 7x Run - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa21aLXJQeUI4M1d2QXpOTmZlREdmNzA3Tk9rdXlvckFNSHVqWW1VQ2xkMzdJRkdvVVJJYy13dWlSb29CVDNaMy1MdzMtblRqbThnYmpwUmYtMG1Pa1BBRzRuYVBXai1IN1RSSXpKUE1aMmFTX2RqN1lrcGR6d2NPc2pBMFZOTzhSeWVOMHB5a0V6N2hKTk9B?oc=5",
+          "source": "Yahoo Finance",
+          "published": "Fri, 27 Nov 2026 02:15:00 GMT"
         }
       ],
       "earnings": {
         "date": "2026-11-04",
-        "days_away": -22
+        "days_away": -23
       },
       "consensus": {
         "target_mean": 13.58824,
@@ -19081,7 +19082,7 @@
   },
   "idea_queue": {
     "prune_stats": {
-      "dropped_open": 0,
+      "dropped_open": 5,
       "expired_pass": 0
     }
   }
